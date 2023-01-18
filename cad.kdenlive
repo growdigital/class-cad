@@ -3061,6 +3061,16 @@
         "comment": "02 Setup",
         "pos": 25217,
         "type": 0
+    },
+    {
+        "comment": "Echo in",
+        "pos": 75199,
+        "type": 8
+    },
+    {
+        "comment": "Echo out",
+        "pos": 75531,
+        "type": 8
     }
 ]
 </property>
@@ -3113,7 +3123,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">22.12.1</property>
-  <property name="kdenlive:docproperties.position">11296</property>
+  <property name="kdenlive:docproperties.position">82313</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_720p_30</property>
@@ -3141,14 +3151,14 @@
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">output/04-examples.mp4</property>
-  <property name="kdenlive:docproperties.scrollPos">30400</property>
+  <property name="kdenlive:docproperties.scrollPos">114309</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">1997</property>
   <property name="kdenlive:docproperties.zoneout">25217</property>
-  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:docproperties.zoom">5</property>
   <property name="kdenlive:docmetadata.meta.attr.author.markup">Jake Rayson</property>
   <property name="kdenlive:docmetadata.meta.attr.copyright.markup">Nature Works</property>
   <property name="kdenlive:docmetadata.meta.attr.title.markup">CAD for Gardeners</property>
@@ -4981,7 +4991,7 @@
  <playlist id="playlist7"/>
  <tractor id="tractor3" in="00:00:00.000" out="01:10:58.500">
   <property name="kdenlive:trackheight">67</property>
-  <property name="kdenlive:timeline_active">0</property>
+  <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:track_name">Desktop</property>
   <property name="kdenlive:thumbs_format"/>
@@ -8312,7 +8322,7 @@
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_Fade in 1 sec</property>
-    <property name="alpha">0=0;-1=1</property>
+    <property name="alpha">00:00:00.000=0;00:00:01.000=1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
    <filter id="filter203" in="00:00:05.300" out="00:00:06.300">
@@ -8676,7 +8686,7 @@
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_Fade out 1 sec</property>
-    <property name="alpha">0=1;-1=0</property>
+    <property name="alpha">00:00:00.000=1;00:00:01.000=0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
@@ -9231,7 +9241,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:01:58.200"/>
+  <blank length="00:02:26.300"/>
   <entry producer="producer33" in="00:00:00.000" out="00:00:04.967">
    <property name="kdenlive:id">66</property>
    <filter id="filter291">
@@ -9367,7 +9377,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:03:03.100"/>
+  <blank length="00:03:05.000"/>
   <entry producer="producer65" in="00:00:00.000" out="00:00:02.933">
    <property name="kdenlive:id">73</property>
    <filter id="filter303">
@@ -9403,7 +9413,7 @@
   </entry>
  </playlist>
  <playlist id="playlist13"/>
- <tractor id="tractor6" in="00:00:00.000" out="00:44:19.267">
+ <tractor id="tractor6" in="00:00:00.000" out="00:44:49.267">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
