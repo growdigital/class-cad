@@ -3123,7 +3123,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">22.12.1</property>
-  <property name="kdenlive:docproperties.position">82313</property>
+  <property name="kdenlive:docproperties.position">84788</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_720p_30</property>
@@ -3151,14 +3151,14 @@
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">output/04-examples.mp4</property>
-  <property name="kdenlive:docproperties.scrollPos">114309</property>
+  <property name="kdenlive:docproperties.scrollPos">236177</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">1997</property>
   <property name="kdenlive:docproperties.zoneout">25217</property>
-  <property name="kdenlive:docproperties.zoom">5</property>
+  <property name="kdenlive:docproperties.zoom">4</property>
   <property name="kdenlive:docmetadata.meta.attr.author.markup">Jake Rayson</property>
   <property name="kdenlive:docmetadata.meta.attr.copyright.markup">Nature Works</property>
   <property name="kdenlive:docmetadata.meta.attr.title.markup">CAD for Gardeners</property>
