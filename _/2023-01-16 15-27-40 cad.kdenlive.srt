@@ -1,0 +1,7304 @@
+1
+00:00:00,090 --> 00:00:01,950
+Greetings and welcome, my name is Jake
+
+2
+00:00:01,950 --> 00:00:03,930
+Rayson, I am a wildlife and food
+
+3
+00:00:03,930 --> 00:00:06,090
+forest garden designer and welcome to my
+
+4
+00:00:06,120 --> 00:00:09,390
+online class ‘CAD for Gardeners’, this is
+
+5
+00:00:09,390 --> 00:00:11,250
+a beginner's guide so this is aimed
+
+6
+00:00:11,370 --> 00:00:13,380
+at beginners but also people who are keen
+
+7
+00:00:13,710 --> 00:00:16,830
+to get cracking really quickly with using
+
+8
+00:00:16,830 --> 00:00:19,470
+computer aided design for their garden creations.
+
+9
+00:00:20,190 --> 00:00:22,440
+A couple of notes before we get started. First
+
+10
+00:00:22,440 --> 00:00:24,600
+of all this slideshow is always available
+
+11
+00:00:24,600 --> 00:00:30,333
+online natureworks.org.uk/class/cad
+
+12
+00:00:30,330 --> 00:00:33,120
+If you press the key `P` on
+
+13
+00:00:33,120 --> 00:00:34,950
+your keyboard, it brings up all the
+
+14
+00:00:34,950 --> 00:00:37,050
+notes and there's some interesting links and
+
+15
+00:00:37,050 --> 00:00:38,640
+extra information in there as well.
+
+16
+00:00:40,110 --> 00:00:42,030
+So without further ado let's get cracking.
+
+17
+00:00:42,840 --> 00:00:45,630
+An outline for today - why CAD?
+
+18
+00:00:45,632 --> 00:00:46,950
+why would you bother using CAD in
+
+19
+00:00:46,950 --> 00:00:48,720
+the first place? Indeed, why would you
+
+20
+00:00:48,720 --> 00:00:51,390
+bother planning in the first place? And
+
+21
+00:00:51,390 --> 00:00:53,430
+then I’m going to look at setting
+
+22
+00:00:53,430 --> 00:00:55,290
+up QCAD and QCAD is the
+
+23
+00:00:55,290 --> 00:00:58,410
+software that I use for CAD designs.
+
+24
+00:00:58,440 --> 00:00:59,977
+Going through step by step
+
+25
+00:01:00,000 --> 00:01:01,800
+on how to set it up so that it
+
+26
+00:01:01,800 --> 00:01:02,790
+all works nicely.
+
+27
+00:01:03,870 --> 00:01:06,390
+The third section is looking at shapes,
+
+28
+00:01:06,420 --> 00:01:08,910
+entities and mods. Basically the simple
+
+29
+00:01:08,940 --> 00:01:11,100
+shapes, there’s four simple shapes that if you
+
+30
+00:01:11,100 --> 00:01:13,980
+learn, you can create an infinite variety
+
+31
+00:01:13,980 --> 00:01:16,830
+of shapes by combining them, and using
+
+32
+00:01:16,860 --> 00:01:21,060
+entities to rotate stuff, and modifications to
+
+33
+00:01:21,330 --> 00:01:23,520
+alter all these different elements as well.
+
+34
+00:01:23,520 --> 00:01:24,000
+So we’ll be
+
+35
+00:01:24,000 --> 00:01:26,460
+learning four basic shapes, three types of
+
+36
+00:01:26,460 --> 00:01:30,780
+entity and four modifications. And then finally, 
+
+37
+00:01:31,020 --> 00:01:33,720
+I’ll be looking at two examples, a
+
+38
+00:01:33,720 --> 00:01:36,750
+one acre garden and a town
+
+39
+00:01:36,750 --> 00:01:38,880
+garden and I’ll be walking through 
+
+40
+00:01:38,880 --> 00:01:41,700
+step-by-step how to create them. So, 
+
+41
+00:01:41,700 --> 00:01:42,630
+why CAD?
+
+42
+00:01:44,160 --> 00:01:46,560
+A very good question! A bit of background first
+
+43
+00:01:46,560 --> 00:01:49,440
+of all. There is, as you might
+
+44
+00:01:49,440 --> 00:01:51,630
+well be aware, a nature and climate
+
+45
+00:01:51,630 --> 00:01:54,990
+emergency and gardens need to be a
+
+46
+00:01:55,050 --> 00:01:58,830
+wildlife haven with crops, with edible crops.
+
+47
+00:01:58,860 --> 00:02:00,570
+I will give you a definition of
+
+48
+00:02:00,570 --> 00:02:02,760
+what a forest garden is because that’s my
+
+49
+00:02:02,820 --> 00:02:03,840
+gardening background.
+
+50
+00:02:03,840 --> 00:02:06,180
+But I think in general terms,
+
+51
+00:02:06,180 --> 00:02:08,250
+this world needs more gardeners and it
+
+52
+00:02:08,250 --> 00:02:10,560
+needs more gardeners who are aware of
+
+53
+00:02:10,560 --> 00:02:12,810
+the issues surrounding the nature and
+
+54
+00:02:12,810 --> 00:02:16,350
+the climate emergency, so changing conditions and
+
+55
+00:02:16,350 --> 00:02:19,440
+a massive, massive, massive decrease in the
+
+56
+00:02:19,470 --> 00:02:21,720
+in the number of species. This is
+
+57
+00:02:21,720 --> 00:02:23,970
+why we need all of this,
+
+58
+00:02:24,210 --> 00:02:27,570
+new gardens to be planned and that’s
+
+59
+00:02:27,570 --> 00:02:29,250
+where the CAD side comes in
+
+60
+00:02:29,250 --> 00:02:30,750
+because it can make the process a
+
+61
+00:02:30,750 --> 00:02:33,090
+lot easier. So what is a forest
+
+62
+00:02:33,090 --> 00:02:35,550
+garden, I’ll just give you an overview.
+
+63
+00:02:36,240 --> 00:02:37,200
+A forest garden,
+
+64
+00:02:38,430 --> 00:02:40,938
+to quote Martin Crawford's fantastic book which
+
+65
+00:02:40,950 --> 00:02:42,270
+I refer to all the
+
+66
+00:02:42,270 --> 00:02:44,310
+time, Martin Crawford is a great
+
+67
+00:02:44,310 --> 00:02:46,380
+chap down in Devon and been creating
+
+68
+00:02:46,380 --> 00:02:47,760
+forest gardens for years and years and
+
+69
+00:02:47,760 --> 00:02:49,470
+years, and this is a bit of
+
+70
+00:02:49,470 --> 00:02:51,510
+a bible. It goes through a
+
+71
+00:02:51,510 --> 00:02:54,630
+whole range of different processes for setting
+
+72
+00:02:54,630 --> 00:02:56,490
+up a forest garden and all the
+
+73
+00:02:56,730 --> 00:02:58,260
+load of different species as well.
+
+74
+00:02:58,950 --> 00:03:00,660
+And as he says, ‘it’s working with
+
+75
+00:03:00,660 --> 00:03:03,480
+nature to grow edible crops’ and this
+
+76
+00:03:03,480 --> 00:03:06,210
+is a photograph here from his garden
+
+77
+00:03:06,270 --> 00:03:08,820
+in Devon and what we’re doing is
+
+78
+00:03:08,820 --> 00:03:12,240
+to emulate the edge of woodland because
+
+79
+00:03:12,240 --> 00:03:14,790
+you want to have crops in the
+
+80
+00:03:14,790 --> 00:03:16,950
+understory and you want to have enough light
+
+81
+00:03:16,950 --> 00:03:18,660
+coming through. So it’s not thick dense
+
+82
+00:03:18,720 --> 00:03:20,460
+woodland, it’s the edge of woodland and
+
+83
+00:03:20,460 --> 00:03:22,230
+then you have different layers of plants
+
+84
+00:03:22,710 --> 00:03:25,980
+occupying that space. And it’s a
+
+85
+00:03:26,010 --> 00:03:28,740
+very good system because it uses
+
+86
+00:03:28,770 --> 00:03:31,110
+natural pest control and fertility, so you
+
+87
+00:03:31,110 --> 00:03:33,420
+grow all your fertility on site. So
+
+88
+00:03:33,450 --> 00:03:35,310
+essentially what you’re doing is to create
+
+89
+00:03:35,340 --> 00:03:38,730
+an edible ecosystem. What is CAD? I’m
+
+90
+00:03:38,730 --> 00:03:38,880
+very
+
+91
+00:03:38,880 --> 00:03:41,010
+glad you asked it is Computer Aided
+
+92
+00:03:41,010 --> 00:03:43,050
+Design. That’s a link there to the
+
+93
+00:03:43,050 --> 00:03:46,050
+Wikipedia article. Basically it’s a
+
+94
+00:03:46,050 --> 00:03:49,230
+line based drawing package; you’re creating precise
+
+95
+00:03:49,260 --> 00:03:52,230
+line diagrams and it’s used mostly in
+
+96
+00:03:52,260 --> 00:03:54,690
+architecture and manufacturing, where you need a
+
+97
+00:03:54,690 --> 00:03:56,790
+great deal of precision we don’t really
+
+98
+00:03:56,790 --> 00:03:59,040
+need that precision in gardening. It’s
+
+99
+00:03:59,070 --> 00:04:01,500
+kind of useful but that’s not the
+
+100
+00:04:01,650 --> 00:04:03,750
+the major reason for using it. If
+
+101
+00:04:03,750 --> 00:04:05,820
+you compare it to drawing programs like
+
+102
+00:04:05,850 --> 00:04:10,140
+Adobe Illustrator and Inkscape, the massive difference is
+
+103
+00:04:10,140 --> 00:04:12,630
+that CAD is far, far more scalable
+
+104
+00:04:12,630 --> 00:04:14,550
+and far faster. It doesn’t look as
+
+105
+00:04:14,550 --> 00:04:16,890
+pretty but it does, in my humble
+
+106
+00:04:16,890 --> 00:04:18,810
+opinion, it does the job a lot better.
+
+107
+00:04:19,320 --> 00:04:21,510
+And we’re looking at 2D CAD, two
+
+108
+00:04:21,510 --> 00:04:23,910
+dimensional CAD, and this basically means that
+
+109
+00:04:23,910 --> 00:04:26,460
+it’s just in two dimensions,
+
+110
+00:04:26,640 --> 00:04:28,350
+viewing it from above, and that’s a
+
+111
+00:04:28,350 --> 00:04:31,830
+plan view. I use Open Source CAD,
+
+112
+00:04:32,190 --> 00:04:34,620
+a package called QCAD which I absolutely
+
+113
+00:04:34,620 --> 00:04:36,720
+love. It’s brilliant, really lovely piece
+
+114
+00:04:36,720 --> 00:04:39,360
+of software. Open Source software
+
+115
+00:04:39,360 --> 00:04:41,820
+means the code for the software is
+
+116
+00:04:41,880 --> 00:04:45,630
+freely available online and the very
+
+117
+00:04:45,690 --> 00:04:48,810
+cool thing is that the price is
+
+118
+00:04:48,810 --> 00:04:50,460
+so much cheaper than any kind of
+
+119
+00:04:50,460 --> 00:04:53,880
+commercial software. The industry standard Vectorworks costs
+
+120
+00:04:53,880 --> 00:04:56,550
+£1,230
+
+121
+00:04:56,580 --> 00:04:59,340
+per year, it’s a subscription model, and
+
+122
+00:04:59,340 --> 00:04:59,520
+that
+
+123
+00:04:59,520 --> 00:05:02,460
+is just kind of outrageous and
+
+124
+00:05:02,460 --> 00:05:04,320
+to be honest, the free version of
+
+125
+00:05:04,320 --> 00:05:06,510
+QCAD is more than adequate for
+
+126
+00:05:06,510 --> 00:05:09,210
+CAD garden design. There is an alternative
+
+127
+00:05:09,210 --> 00:05:11,100
+to QCAD which is totally free called
+
+128
+00:05:11,160 --> 00:05:12,870
+LibreCAD and there's a link in
+
+129
+00:05:12,870 --> 00:05:16,500
+the notes. I actually pay for the
+
+130
+00:05:16,650 --> 00:05:18,960
+paid version of QCAD, I paid about
+
+131
+00:05:18,960 --> 00:05:19,680
+£41
+
+132
+00:05:19,680 --> 00:05:21,240
+I think it is and the
+
+133
+00:05:21,240 --> 00:05:22,980
+reason for that really is to support
+
+134
+00:05:22,980 --> 00:05:24,810
+the developer because you have something which
+
+135
+00:05:25,170 --> 00:05:26,940
+is a good piece of software you want
+
+136
+00:05:26,940 --> 00:05:28,770
+the developer to keep on
+
+137
+00:05:28,770 --> 00:05:30,000
+working at it and to fix any
+
+138
+00:05:30,000 --> 00:05:31,710
+bugs and progress with it.
+
+139
+00:05:32,220 --> 00:05:34,380
+There is a QCAD book as
+
+140
+00:05:34,380 --> 00:05:37,560
+well. Totally recommend getting that book, even
+
+141
+00:05:37,560 --> 00:05:39,120
+with the free version because there's a
+
+142
+00:05:39,120 --> 00:05:39,780
+whole load of
+
+143
+00:05:39,840 --> 00:05:41,550
+information, there’s a lot of detail,
+
+144
+00:05:41,550 --> 00:05:42,840
+there’s quite a stuff that you won’t
+
+145
+00:05:42,840 --> 00:05:45,990
+need but I’ll go through today showing
+
+146
+00:05:45,990 --> 00:05:47,250
+you the key points and you can
+
+147
+00:05:47,340 --> 00:05:48,630
+refer to them in the book.
+
+148
+00:05:49,710 --> 00:05:52,680
+Do you even need CAD? You might
+
+149
+00:05:52,680 --> 00:05:54,360
+be better off using paper
+
+150
+00:05:55,560 --> 00:05:58,290
+if you’re only doing one design and
+
+151
+00:05:58,290 --> 00:06:02,100
+you’re not that comfortable using computers.
+
+152
+00:06:02,100 --> 00:06:04,710
+5mm graph paper is
+
+153
+00:06:04,710 --> 00:06:05,820
+really good, I mean it’s a really,
+
+154
+00:06:05,820 --> 00:06:07,860
+really good medium and it’s far freer
+
+155
+00:06:08,220 --> 00:06:10,500
+and in a lot of ways more flexible than
+
+156
+00:06:10,500 --> 00:06:12,420
+CAD but it’s not as easy to
+
+157
+00:06:12,420 --> 00:06:13,440
+work with if you’re working in a
+
+158
+00:06:13,440 --> 00:06:15,480
+group. This is the
+
+159
+00:06:15,480 --> 00:06:15,600
+5mm
+
+160
+00:06:15,600 --> 00:06:16,680
+grid that you can see there!
+
+161
+00:06:17,430 --> 00:06:19,230
+If you’re working with a group of
+
+162
+00:06:19,230 --> 00:06:22,800
+people or people who are distributed around geographically,
+
+163
+00:06:23,130 --> 00:06:24,600
+you actually might be better off learning
+
+164
+00:06:24,600 --> 00:06:28,110
+CAD. Whatever you do use, get the
+
+165
+00:06:28,110 --> 00:06:30,330
+scale right. Really, really important to always
+
+166
+00:06:30,330 --> 00:06:32,010
+get the scale right. So that anything that
+
+167
+00:06:32,010 --> 00:06:33,360
+you add, any elements that you add
+
+168
+00:06:33,360 --> 00:06:35,610
+later on, will fit into that.
+
+169
+00:06:36,240 --> 00:06:37,530
+And if you click on this image,
+
+170
+00:06:37,800 --> 00:06:40,260
+it gives you a higher resolution, isn't
+
+171
+00:06:40,260 --> 00:06:41,250
+that fantastic?
+
+172
+00:06:42,570 --> 00:06:45,570
+So the CAD pros are that it’s
+
+173
+00:06:45,570 --> 00:06:48,210
+1:1 within the program itself
+
+174
+00:06:48,270 --> 00:06:49,650
+and what this means is you don’t
+
+175
+00:06:49,650 --> 00:06:51,180
+have to scale the drawing in the
+
+176
+00:06:51,180 --> 00:06:53,910
+software. If you’re creating a twenty metre
+
+177
+00:06:53,910 --> 00:06:56,130
+by twenty metre garden, you draw it as
+
+178
+00:06:56,130 --> 00:06:58,260
+twenty metres by twenty metres in the
+
+179
+00:06:58,260 --> 00:07:01,170
+software. This is as compared to using
+
+180
+00:07:01,170 --> 00:07:01,920
+Adobe Illustrator,
+
+181
+00:07:02,010 --> 00:07:04,142
+where you have to scale
+
+182
+00:07:04,157 --> 00:07:06,150
+the drawing down, otherwise it slows the
+
+183
+00:07:06,150 --> 00:07:08,430
+program up too much. And that’s the
+
+184
+00:07:08,430 --> 00:07:09,990
+other thing about CAD as well, it’s
+
+185
+00:07:09,990 --> 00:07:12,150
+super fast. I run it on really,
+
+186
+00:07:12,150 --> 00:07:15,390
+really ancient old PCs and it’s great.
+
+187
+00:07:15,390 --> 00:07:17,460
+It’s just really, really fast and it’s
+
+188
+00:07:17,490 --> 00:07:20,370
+accurate. It can slow down
+
+189
+00:07:20,580 --> 00:07:22,050
+if you’ve got thousands of plants on
+
+190
+00:07:22,080 --> 00:07:24,300
+there but there's no need to worry
+
+191
+00:07:24,300 --> 00:07:26,970
+about the power of your PC. And
+
+192
+00:07:27,000 --> 00:07:28,680
+it’s easy to edit, as compared to
+
+193
+00:07:28,680 --> 00:07:30,840
+a paper plan where it can get
+
+194
+00:07:30,840 --> 00:07:32,430
+messy, and the more elements that you
+
+195
+00:07:32,430 --> 00:07:33,630
+have on a paper plan, and the
+
+196
+00:07:33,630 --> 00:07:35,370
+more you move things around the messier
+
+197
+00:07:35,370 --> 00:07:37,500
+it can get, whether you’re working with overlays
+
+198
+00:07:37,770 --> 00:07:39,240
+or whether you’re rubbing things out or
+
+199
+00:07:39,240 --> 00:07:40,890
+you’ve got little cutout bits of paper
+
+200
+00:07:40,890 --> 00:07:42,240
+to represent plants -
+
+201
+00:07:42,240 --> 00:07:44,100
+that can get a little bit
+
+202
+00:07:44,100 --> 00:07:46,680
+messy whereas you don’t have that with
+
+203
+00:07:46,710 --> 00:07:49,800
+using CAD. And it’s portable as well.
+
+204
+00:07:50,280 --> 00:07:53,880
+This means that you can easily email
+
+205
+00:07:53,910 --> 00:07:56,100
+people a CAD file and you can
+
+206
+00:07:56,100 --> 00:07:57,930
+print it out as a PDF file,
+
+207
+00:07:57,930 --> 00:08:00,270
+a Portable Document Format, and email that
+
+208
+00:08:00,270 --> 00:08:01,410
+to people too.
+
+209
+00:08:02,430 --> 00:08:04,620
+The cons of using CAD are that it
+
+210
+00:08:04,620 --> 00:08:06,900
+is technical. I won’t lie to you,
+
+211
+00:08:07,170 --> 00:08:09,870
+there is a steep learning curve to
+
+212
+00:08:09,870 --> 00:08:12,000
+it. You’ve got to put the hours
+
+213
+00:08:12,000 --> 00:08:14,100
+in to learn the software. But once
+
+214
+00:08:14,100 --> 00:08:15,600
+you do, and this is why it’s
+
+215
+00:08:15,600 --> 00:08:16,950
+worth it if you’re creating more than
+
+216
+00:08:16,950 --> 00:08:19,530
+one design, once you do master those
+
+217
+00:08:19,530 --> 00:08:22,050
+essential skills, then your workflow will
+
+218
+00:08:22,050 --> 00:08:22,500
+be much
+
+219
+00:08:22,560 --> 00:08:25,440
+quicker. And it is ugly. It’s not
+
+220
+00:08:25,440 --> 00:08:28,230
+designed to look pretty. So a nice
+
+221
+00:08:28,230 --> 00:08:31,170
+thing about Adobe Illustrator is that you
+
+222
+00:08:31,170 --> 00:08:33,299
+can create lots of shading and
+
+223
+00:08:33,299 --> 00:08:34,470
+different styles.
+
+224
+00:08:35,610 --> 00:08:37,110
+But to be honest, if that’s what
+
+225
+00:08:37,110 --> 00:08:38,250
+you want to do, I would actually
+
+226
+00:08:38,250 --> 00:08:40,350
+suggest doing that within CAD and then
+
+227
+00:08:40,350 --> 00:08:42,539
+exporting that and then bringing that into
+
+228
+00:08:42,570 --> 00:08:44,460
+a different program to make it look prettier.
+
+229
+00:08:44,460 --> 00:08:48,570
+Reasons to plan. In my book,
+
+230
+00:08:48,570 --> 00:08:51,000
+there are five main reasons to plan,
+
+231
+00:08:51,000 --> 00:08:52,800
+whether you’re using CAD or whether you’re
+
+232
+00:08:52,800 --> 00:08:55,080
+using paper. The first of these is
+
+233
+00:08:55,080 --> 00:08:55,680
+to get the spacing
+
+234
+00:08:55,680 --> 00:08:57,960
+right. In a forest garden, as
+
+235
+00:08:57,960 --> 00:09:01,650
+I mentioned before, the idea is to emulate
+
+236
+00:09:01,650 --> 00:09:03,420
+the edge of woodland, so you want
+
+237
+00:09:03,420 --> 00:09:04,830
+to have enough light coming through for
+
+238
+00:09:04,830 --> 00:09:06,600
+the understory and getting that spacing between
+
+239
+00:09:06,600 --> 00:09:08,610
+the trees is really, really essential. That’s
+
+240
+00:09:08,610 --> 00:09:10,380
+like the main framework of the garden
+
+241
+00:09:10,380 --> 00:09:14,790
+design. The second reason is the position
+ 
+242
+00:09:14,790 --> 00:09:15,780
+and positioning of the
+
+243
+00:09:15,840 --> 00:09:19,260
+plants and positioning of the different features
+
+244
+00:09:19,440 --> 00:09:22,440
+within the garden and it’s much easier
+
+245
+00:09:22,500 --> 00:09:24,330
+with a plan to get an overview
+
+246
+00:09:24,360 --> 00:09:25,950
+of what’s going on in different parts
+
+247
+00:09:25,950 --> 00:09:27,120
+of the garden and how they relate to
+
+248
+00:09:27,120 --> 00:09:27,600
+each other.
+
+249
+00:09:29,070 --> 00:09:32,700
+The third reason is quantity. CAD is absolutely
+
+250
+00:09:32,700 --> 00:09:36,030
+brilliant at calculating areas and lengths and you
+
+251
+00:09:36,030 --> 00:09:37,830
+can calc, from that you can work
+
+252
+00:09:37,860 --> 00:09:40,740
+out the quantity of plants that you require. Fourth
+
+253
+00:09:40,740 --> 00:09:43,050
+reason is communicate, so you’re communicating with
+
+254
+00:09:43,050 --> 00:09:45,150
+clients and you’re communicating with other people
+
+255
+00:09:45,150 --> 00:09:47,550
+you’re working with, whether that’s landscapers or
+
+256
+00:09:47,580 --> 00:09:48,900
+people who are putting the
+
+257
+00:09:48,990 --> 00:09:52,140
+plants out. And then finally documenting. Once
+
+258
+00:09:52,140 --> 00:09:54,600
+you’ve created your garden, it’s always
+
+259
+00:09:54,600 --> 00:09:56,040
+a good idea to know where things are.
+
+260
+00:09:56,040 --> 00:10:00,690
+So tree spacing. This is an
+
+261
+00:10:00,750 --> 00:10:02,940
+illustration which has been inspired by Martin
+
+262
+00:10:02,940 --> 00:10:05,310
+Crawford’s book and this is tree spacing
+
+263
+00:10:05,880 --> 00:10:08,880
+within a forest garden. Martin Crawford
+
+264
+00:10:08,910 --> 00:10:09,120
+recommends
+
+265
+00:10:10,080 --> 00:10:12,600
+tree spacing of quarter to a half
+
+266
+00:10:12,630 --> 00:10:14,940
+of the average canopy diameter. So for
+
+267
+00:10:14,940 --> 00:10:16,590
+example you’ve got two 4 metre
+
+268
+00:10:16,590 --> 00:10:18,990
+diameter trees, then the tree spacing that
+
+269
+00:10:18,990 --> 00:10:21,420
+you want between them is 1 to
+
+270
+00:10:21,420 --> 00:10:23,970
+2 metres and that’s because you want
+
+271
+00:10:23,970 --> 00:10:26,339
+to get enough light coming through.
+
+272
+00:10:26,339 --> 00:10:26,970
+Position.
+
+273
+00:10:28,050 --> 00:10:31,890
+This is because a plan will enable
+
+274
+00:10:31,890 --> 00:10:33,900
+you to play with ideas far more
+
+275
+00:10:33,900 --> 00:10:35,670
+easily. If you’re trying to do it all
+
+276
+00:10:35,670 --> 00:10:37,320
+from memory, it could be hard to
+
+277
+00:10:37,320 --> 00:10:39,570
+remember where different things are. If you’ve
+
+278
+00:10:39,570 --> 00:10:40,830
+got a large site and you’re out
+
+279
+00:10:40,830 --> 00:10:42,660
+on site you can have great ideas
+
+280
+00:10:42,660 --> 00:10:44,790
+but it’s having somewhere to put all
+
+281
+00:10:44,790 --> 00:10:48,120
+those ideas. So it also
+
+282
+00:10:48,150 --> 00:10:50,040
+enables you, a plan, to try these
+
+283
+00:10:50,040 --> 00:10:51,930
+different positions quickly, so you can put
+
+284
+00:10:51,960 --> 00:10:53,460
+a tree in one place and then
+
+285
+00:10:53,490 --> 00:10:55,290
+put it into a totally opposite corner
+
+286
+00:10:55,290 --> 00:10:57,660
+of the garden very, very quickly. And
+
+287
+00:10:57,780 --> 00:10:58,980
+it gives you an overview of the
+
+288
+00:10:58,980 --> 00:11:01,140
+different conditions within that garden, so like
+
+289
+00:11:01,410 --> 00:11:03,570
+where the water is or where the
+
+290
+00:11:03,570 --> 00:11:05,400
+light is rising and the sun
+
+291
+00:11:05,400 --> 00:11:05,940
+is setting.
+
+292
+00:11:09,000 --> 00:11:11,460
+CAD is absolutely brilliant at working out
+
+293
+00:11:11,490 --> 00:11:13,140
+estimates, so you can figure out the
+
+294
+00:11:13,140 --> 00:11:16,290
+quantities of plants. This is a screenshot
+
+295
+00:11:16,290 --> 00:11:17,970
+from a design that I did for
+
+296
+00:11:18,000 --> 00:11:21,900
+a relatively small garden locally, and you
+
+297
+00:11:21,900 --> 00:11:24,090
+can see there’s an area here called Curve,
+
+298
+00:11:24,120 --> 00:11:25,320
+it’s a kind of curved bed,
+
+299
+00:11:25,710 --> 00:11:27,270
+and I can work
+
+300
+00:11:27,270 --> 00:11:29,250
+out really quickly that that’s 6
+
+301
+00:11:29,250 --> 00:11:32,550
+metres square. Likewise, there's a line measuring
+
+302
+00:11:32,550 --> 00:11:34,140
+tool as well. And once you’ve got
+
+303
+00:11:34,140 --> 00:11:35,370
+an area and you know what your
+
+304
+00:11:35,370 --> 00:11:37,440
+planting density is, then it’s easy to
+
+305
+00:11:37,440 --> 00:11:40,890
+calculate how many plants you need. Likewise
+
+306
+00:11:41,400 --> 00:11:43,140
+if you’re planning a hedge, you know
+
+307
+00:11:43,140 --> 00:11:44,730
+how long that hedge is going to
+
+308
+00:11:44,730 --> 00:11:45,900
+be and you’ve got your planting
+
+309
+00:11:45,900 --> 00:11:47,400
+density for the
+
+310
+00:11:47,460 --> 00:11:49,800
+hedging plants then it’s again
+
+311
+00:11:49,860 --> 00:11:51,840
+very easy to calculate the quantities required.
+
+312
+00:11:52,890 --> 00:11:56,040
+So, it works really, really well with
+
+313
+00:11:56,100 --> 00:11:57,450
+a spreadsheet. For each of my
+
+314
+00:11:57,450 --> 00:12:01,050
+clients I create an online spreadsheet of
+
+315
+00:12:01,050 --> 00:12:03,150
+all the different plants and then I
+
+316
+00:12:03,150 --> 00:12:05,070
+can work out quantities from that and prices
+
+317
+00:12:05,070 --> 00:12:05,820
+from that as well.
+
+318
+00:12:08,730 --> 00:12:11,940
+The fourth reason to create a plan
+
+319
+00:12:11,970 --> 00:12:14,936
+is the ability to communicate and that’s
+
+320
+00:12:14,936 --> 00:12:17,340
+sharing ideas with partners, whether that’s clients
+
+321
+00:12:17,340 --> 00:12:18,930
+or other people that you’re working with.
+
+322
+00:12:19,260 --> 00:12:22,020
+Really, a plan is like itself a
+
+323
+00:12:22,020 --> 00:12:25,677
+landscaping and a planting guide, so you’ve
+
+324
+00:12:25,677 --> 00:12:27,030
+got any hard landscaping that you need
+
+325
+00:12:27,060 --> 00:12:28,380
+doing, any paths that need to be
+
+326
+00:12:28,380 --> 00:12:30,960
+put in or fencing, then people will
+
+327
+00:12:30,960 --> 00:12:33,720
+know the lengths and the dimensions. And
+
+328
+00:12:33,720 --> 00:12:35,700
+likewise with the planting guide, people know the
+
+329
+00:12:35,700 --> 00:12:36,960
+quantities of plants that need to be
+
+330
+00:12:36,960 --> 00:12:38,460
+put in and what densities are going
+
+331
+00:12:38,460 --> 00:12:41,130
+in at. And I always kind of
+
+332
+00:12:41,130 --> 00:12:43,890
+create online notes for each my clients
+
+333
+00:12:44,100 --> 00:12:45,180
+and then I can share a
+
+334
+00:12:45,180 --> 00:12:46,830
+PDF of the plan
+
+335
+00:12:47,190 --> 00:12:49,200
+and the original CAD file with
+
+336
+00:12:49,230 --> 00:12:51,210
+with my clients that way, so they'll
+
+337
+00:12:51,210 --> 00:12:53,610
+see it. And a plan is fantastic
+
+338
+00:12:53,610 --> 00:12:55,110
+as a guide for your future self
+
+339
+00:12:55,110 --> 00:12:56,790
+as well, so very often you think
+
+340
+00:12:56,790 --> 00:12:58,470
+you'll know what you’re doing with the
+
+341
+00:12:58,470 --> 00:12:59,490
+design and what you’re doing with the
+
+342
+00:12:59,490 --> 00:13:02,100
+planting but if you write it down,
+
+343
+00:13:02,400 --> 00:13:04,710
+is like an aide de memoire, it really
+
+344
+00:13:04,710 --> 00:13:07,260
+really helps. So, your future self will
+
+345
+00:13:07,350 --> 00:13:08,460
+thank you if you do
+
+346
+00:13:08,490 --> 00:13:12,000
+create a plan. The fifth reason is
+
+347
+00:13:12,000 --> 00:13:15,660
+to document your planting. Where on
+
+348
+00:13:15,690 --> 00:13:17,130
+earth did you put those plants? I’m
+
+349
+00:13:17,130 --> 00:13:18,930
+sure everyone's had this before in the
+
+350
+00:13:18,930 --> 00:13:21,510
+past, you can’t remember what plant is
+
+351
+00:13:21,510 --> 00:13:22,800
+in which bed, so if you have
+
+352
+00:13:22,800 --> 00:13:27,506
+a plan, it then changes the process and
+
+353
+00:13:27,510 --> 00:13:29,040
+it becomes a document that you can
+
+354
+00:13:29,040 --> 00:13:31,080
+refer to and it tells you where
+
+355
+00:13:31,080 --> 00:13:33,330
+your plants are. And don’t forget like
+
+356
+00:13:33,330 --> 00:13:34,740
+the seasonal differences in the middle of
+
+357
+00:13:34,740 --> 00:13:37,530
+winter then all herbaceous perennials would
+
+358
+00:13:37,530 --> 00:13:39,060
+have died down so they're not going to
+
+359
+00:13:39,060 --> 00:13:41,490
+be so visible. It’s also a really
+
+360
+00:13:41,490 --> 00:13:43,920
+good document to educate the partners with.
+
+361
+00:13:44,280 --> 00:13:46,740
+And management is a top priority, even
+
+362
+00:13:46,740 --> 00:13:47,670
+though it’s at the bottom of the
+
+363
+00:13:47,670 --> 00:13:50,670
+the list. I think working out how
+
+364
+00:13:50,730 --> 00:13:52,710
+a garden will be cared for and
+
+365
+00:13:52,740 --> 00:13:55,590
+managed long-term is really, really important. So
+
+366
+00:13:55,620 --> 00:13:57,150
+if you’ve got a document in
+
+367
+00:13:57,150 --> 00:13:58,830
+the form of a plan that gives
+
+368
+00:13:58,830 --> 00:14:00,180
+a client something to work from.
+
+369
+00:14:01,196 --> 00:14:03,086
+greetings and welcome back to the second
+
+370
+00:14:03,086 --> 00:14:05,216
+part of my online class cared for
+
+371
+00:14:05,216 --> 00:14:07,016
+gardeners and here I’m going to be
+
+372
+00:14:07,016 --> 00:14:10,286
+talking about setting up que CAD acat
+
+373
+00:14:10,346 --> 00:14:12,026
+is my most favourite piece of cat
+
+374
+00:14:12,026 --> 00:14:14,456
+software it’s absolutely brilliant and the free
+
+375
+00:14:14,456 --> 00:14:17,216
+version is more than adequate for any
+
+376
+00:14:17,246 --> 00:14:20,426
+kind of CAD garden design that can
+
+377
+00:14:20,426 --> 00:14:20,648
+be a
+
+378
+00:14:20,726 --> 00:14:22,076
+it'll bit fiddly to be honest though
+
+379
+00:14:22,286 --> 00:14:24,296
+to get the free version and to
+
+380
+00:14:24,296 --> 00:14:25,286
+get rid of get rid of the
+
+381
+00:14:25,286 --> 00:14:27,056
+trial you have to download the qca
+
+382
+00:14:27,086 --> 00:14:30,146
+trial and there's a few steps involved
+
+383
+00:14:30,536 --> 00:14:31,946
+in in doing this but I want
+
+384
+00:14:31,946 --> 00:14:33,566
+to get this right so that you’ve
+
+385
+00:14:33,566 --> 00:14:35,396
+got some reference to your you’ve got
+
+386
+00:14:35,396 --> 00:14:37,496
+a CAD environment that you’re happy with
+
+387
+00:14:38,216 --> 00:14:40,196
+so let's get cracking with this press
+
+388
+00:14:40,196 --> 00:14:40,886
+the p key
+
+389
+00:14:40,920 --> 00:14:42,266
+and it brings up the notes and
+
+390
+00:14:42,266 --> 00:14:43,436
+you can see this quite a few
+
+391
+00:14:43,436 --> 00:14:47,306
+notes here there are seven different steps
+
+392
+00:14:48,986 --> 00:14:52,706
+and the first one is to install
+
+393
+00:14:52,736 --> 00:14:54,986
+keycaps you need to download it go
+
+394
+00:14:54,986 --> 00:14:57,356
+to the keycard to org and download
+
+395
+00:14:57,356 --> 00:14:59,366
+it there's three different versions for windows
+
+396
+00:14:59,396 --> 00:15:02,096
+mac and linux and download the appropriate
+
+397
+00:15:02,096 --> 00:15:04,166
+version for your operating system and for
+
+398
+00:15:04,166 --> 00:15:06,866
+your computer and then you need to
+
+399
+00:15:06,866 --> 00:15:08,186
+install it again
+
+400
+00:15:08,816 --> 00:15:10,346
+go to keuka to org in the
+
+401
+00:15:10,346 --> 00:15:14,456
+documentation there's an installation guide for windows
+
+402
+00:15:14,456 --> 00:15:16,946
+mac and linux and yeah I won’t
+
+403
+00:15:16,946 --> 00:15:18,416
+go into the details because that really
+
+404
+00:15:18,416 --> 00:15:19,286
+would be a bit dull
+
+405
+00:15:20,366 --> 00:15:22,166
+but there we have it so get
+
+406
+00:15:22,166 --> 00:15:23,006
+cracking with that
+
+407
+00:15:24,476 --> 00:15:26,786
+once you’ve installed it on your computer
+
+408
+00:15:27,206 --> 00:15:30,446
+at started up so we’re going to
+
+409
+00:15:30,806 --> 00:15:33,324
+rear set the units to meet as
+
+410
+00:15:33,324 --> 00:15:34,376
+that’s going to be the first job
+
+411
+00:15:34,526 --> 00:15:37,256
+so double click to start and then
+
+412
+00:15:37,256 --> 00:15:41,096
+go to unit and metre and click
+
+413
+00:15:41,096 --> 00:15:44,246
+ok now are use metres because
+
+414
+00:15:44,246 --> 00:15:45,686
+cause I’m in the u k and
+
+415
+00:15:45,686 --> 00:15:48,716
+metres are really good unit to use
+
+416
+00:15:48,716 --> 00:15:51,206
+because they're they're approximate enough for garden
+
+417
+00:15:51,206 --> 00:15:52,136
+and they don’t have to be super
+
+418
+00:15:52,136 --> 00:15:53,966
+super accurate and are not like millimetres
+
+419
+00:15:53,966 --> 00:15:57,896
+for architecture or micrometres for for manufacturing
+
+420
+00:15:58,226 --> 00:15:59,876
+so it really depends though where you
+
+421
+00:15:59,876 --> 00:16:01,016
+are in the world as to what
+
+422
+00:16:01,046 --> 00:16:03,746
+units you'll be using but something like
+
+423
+00:16:03,746 --> 00:16:04,406
+metres is gr
+
+424
+00:16:04,406 --> 00:16:06,416
+a so the first thing that we
+
+425
+00:16:06,416 --> 00:16:08,366
+need to do is to remove the
+
+426
+00:16:08,366 --> 00:16:10,946
+trial plugins and this is the most
+
+427
+00:16:10,976 --> 00:16:13,976
+painful part and adult the dulles bit
+
+428
+00:16:14,186 --> 00:16:16,376
+but it is kind of necessary I’ve
+
+429
+00:16:16,376 --> 00:16:18,446
+listed them here so you feel you
+
+430
+00:16:18,446 --> 00:16:19,976
+need to find out where your plugins
+
+431
+00:16:19,976 --> 00:16:22,076
+folder is and the plugins folder to
+
+432
+00:16:22,076 --> 00:16:24,386
+obviously it depends which operating system your
+
+433
+00:16:24,416 --> 00:16:24,566
+your
+
+434
+00:16:24,566 --> 00:16:26,366
+we’re working on I’ll show you where
+
+435
+00:16:26,366 --> 00:16:29,066
+the plugins are ah are on here
+
+436
+00:16:29,276 --> 00:16:31,196
+and if we go I know that
+
+437
+00:16:31,196 --> 00:16:33,386
+keycard it on linux is installed in
+
+438
+00:16:33,386 --> 00:16:36,596
+the opt folder double-click on that going
+
+439
+00:16:36,596 --> 00:16:37,466
+to queue cad
+
+440
+00:16:38,516 --> 00:16:40,856
+and then there's the plugins there and
+
+441
+00:16:40,856 --> 00:16:42,386
+I’ll I’ll I’ll view them as a
+
+442
+00:16:42,416 --> 00:16:44,696
+this makes it easier to to delete
+
+443
+00:16:44,696 --> 00:16:46,766
+them and least few basically you want
+
+444
+00:16:46,766 --> 00:16:48,896
+to delete all of the all the
+
+445
+00:16:48,896 --> 00:16:51,776
+plugins apart from these three here so
+
+446
+00:16:51,776 --> 00:16:53,726
+the easiest thing is to is to
+
+447
+00:16:54,056 --> 00:16:56,966
+select all the plugins and then deselect
+
+448
+00:16:57,086 --> 00:16:58,646
+the pcat dark style
+
+449
+00:16:58,646 --> 00:16:59,606
+il lib
+
+450
+00:17:00,896 --> 00:17:03,176
+q can the x f and lib
+
+451
+00:17:03,660 --> 00:17:06,896
+cat scripts select all the plugins
+
+452
+00:17:08,036 --> 00:17:12,356
+like so and then control click lib
+
+453
+00:17:12,358 --> 00:17:15,326
+cukup dark styles lip key capex f
+
+454
+00:17:15,746 --> 00:17:18,296
+and lib ucat scripts I’m going to
+
+455
+00:17:18,296 --> 00:17:19,976
+send the rest of the stuff to
+
+456
+00:17:19,976 --> 00:17:22,856
+the wastebasket and then we go back
+
+457
+00:17:22,856 --> 00:17:25,346
+into CAD and then in the widget
+
+458
+00:17:25,346 --> 00:17:27,506
+on the side as obama says remove
+
+459
+00:17:27,536 --> 00:17:28,165
+click on remove
+
+460
+00:17:28,165 --> 00:17:29,846
+if to remove this add on please
+
+461
+00:17:29,846 --> 00:17:31,586
+delete the following plugins and you go
+
+462
+00:17:31,616 --> 00:17:34,616
+yet already done it the next step
+
+463
+00:17:34,646 --> 00:17:36,446
+that I want to do is to
+
+464
+00:17:36,446 --> 00:17:38,846
+set the theme to dark and the
+
+465
+00:17:38,846 --> 00:17:41,126
+background to dark gray and the reason
+
+466
+00:17:41,126 --> 00:17:43,856
+for doing this is that I find
+
+467
+00:17:43,886 --> 00:17:46,406
+an awful lot easier with the range
+
+468
+00:17:46,406 --> 00:17:48,326
+of standard colors in q
+
+469
+00:17:48,326 --> 00:17:50,696
+acat to work on a dark background
+
+470
+00:17:50,696 --> 00:17:52,406
+they they show up much more easily
+
+471
+00:17:52,496 --> 00:17:56,846
+so go into CAD click on application
+
+472
+00:17:56,846 --> 00:18:00,866
+preferences scroll down to theme
+
+473
+00:18:02,186 --> 00:18:05,934
+and then choose dark click ok I’ll
+
+474
+00:18:05,934 --> 00:18:07,886
+say you need to restart q cad
+
+475
+00:18:08,006 --> 00:18:10,406
+so go okay quit out of q
+
+476
+00:18:10,436 --> 00:18:12,806
+cad and let's restart it and here
+
+477
+00:18:12,806 --> 00:18:14,726
+we go a nice dark theme to
+
+478
+00:18:14,726 --> 00:18:17,006
+keycap one last thing I want to
+
+479
+00:18:17,006 --> 00:18:18,626
+do with carlos is to change the
+
+480
+00:18:18,626 --> 00:18:20,096
+background because I find that black a
+
+481
+00:18:20,096 --> 00:18:22,046
+bit too much a bit too intense
+
+482
+00:18:22,316 --> 00:18:24,650
+of it to doom and gloom so
+
+483
+00:18:24,656 --> 00:18:28,256
+go to application preferences and then if
+
+484
+00:18:28,256 --> 00:18:30,926
+you look under graphics view and here
+
+485
+00:18:31,556 --> 00:18:33,596
+colors and then
+
+486
+00:18:34,676 --> 00:18:36,116
+background and I’m going to set the
+
+487
+00:18:36,146 --> 00:18:38,006
+background to others and I’m going to
+
+488
+00:18:38,006 --> 00:18:40,196
+give it a gray color and the
+
+489
+00:18:40,196 --> 00:18:41,636
+color the are use you can use
+
+490
+00:18:41,636 --> 00:18:43,196
+whatever whatever gray you know you can
+
+491
+00:18:43,196 --> 00:18:44,936
+choose a color from here the one
+
+492
+00:18:44,936 --> 00:18:47,666
+that are use standard is three e
+
+493
+00:18:47,696 --> 00:18:50,396
+three e three e that’s a nice
+
+494
+00:18:50,546 --> 00:18:53,156
+combination of nice calming grey and the
+
+495
+00:18:53,156 --> 00:18:54,086
+final couple of things were going to
+
+496
+00:18:54,086 --> 00:18:54,746
+do is
+
+497
+00:18:54,806 --> 00:18:57,026
+to play around with the widgets i
+
+498
+00:18:57,026 --> 00:18:59,126
+want to hide the command line which
+
+499
+00:18:59,126 --> 00:19:00,986
+it at the bottom and then show
+
+500
+00:19:00,986 --> 00:19:02,966
+the block list so if you go
+
+501
+00:19:02,966 --> 00:19:05,966
+to the view menu and then the
+
+502
+00:19:05,996 --> 00:19:10,406
+command line there gets rid of it
+
+503
+00:19:10,406 --> 00:19:12,386
+at the bottom and then the view
+
+504
+00:19:12,386 --> 00:19:14,786
+menu and the block list and it
+
+505
+00:19:14,786 --> 00:19:14,966
+brings
+
+506
+00:19:15,026 --> 00:19:16,016
+up your blacklist
+
+507
+00:19:17,156 --> 00:19:19,676
+and then finally finally what I like
+
+508
+00:19:19,676 --> 00:19:22,526
+to do is to stack the layer
+
+509
+00:19:22,706 --> 00:19:25,616
+property and block witches so these are
+
+510
+00:19:25,616 --> 00:19:27,146
+the widgets there's the layer and the
+
+511
+00:19:27,176 --> 00:19:29,156
+block I put the layer on first
+
+512
+00:19:29,546 --> 00:19:31,646
+and the reason for this is this
+
+513
+00:19:31,646 --> 00:19:33,536
+is the the widget are used
+
+514
+00:19:33,536 --> 00:19:34,826
+the most so it’s always kind of
+
+515
+00:19:34,829 --> 00:19:36,386
+very handy to see which layer you’re
+
+516
+00:19:36,386 --> 00:19:37,076
+working on
+
+517
+00:19:37,886 --> 00:19:39,956
+and then I’ll pop in the property
+
+518
+00:19:39,986 --> 00:19:43,646
+editor the property editor which it in
+
+519
+00:19:43,646 --> 00:19:46,376
+the middle and that always has a
+
+520
+00:19:46,376 --> 00:19:48,746
+lot of useful information and and the
+
+521
+00:19:48,746 --> 00:19:50,366
+one I use the least is the
+
+522
+00:19:50,396 --> 00:19:52,166
+block list that goes at the bottom
+
+523
+00:19:53,006 --> 00:19:54,626
+and there we have it were also
+
+524
+00:19:54,626 --> 00:19:56,216
+up and ready to rock
+
+525
+00:19:56,803 --> 00:19:58,993
+greetings and welcome back to the third
+
+526
+00:19:58,993 --> 00:20:01,483
+section of my online class can’t for
+
+527
+00:20:01,483 --> 00:20:04,273
+gardeners and this is shapes entities and
+
+528
+00:20:04,273 --> 00:20:06,433
+mod mods you can just about see
+
+529
+00:20:06,433 --> 00:20:08,473
+the mods my face is nandy covering
+
+530
+00:20:08,473 --> 00:20:10,723
+it and here I’m going to be
+
+531
+00:20:10,723 --> 00:20:14,863
+looking at four basic shapes three entity
+
+532
+00:20:14,863 --> 00:20:16,693
+types and then for modify
+
+533
+00:20:16,693 --> 00:20:18,703
+locations that you can make and using
+
+534
+00:20:18,733 --> 00:20:21,913
+these tools you can create a whole
+
+535
+00:20:21,943 --> 00:20:26,533
+infinite variety of different designs hopefully first
+
+536
+00:20:26,533 --> 00:20:28,423
+of all before going further I wanted
+
+537
+00:20:28,423 --> 00:20:31,273
+to say about the finding your way
+
+538
+00:20:31,273 --> 00:20:33,073
+around cukup because it can be a
+
+539
+00:20:33,073 --> 00:20:34,513
+little bit confusing so I just going
+
+540
+00:20:34,513 --> 00:20:36,523
+to zip over to keycard
+
+541
+00:20:37,603 --> 00:20:40,153
+I’ll create a new file ah I’m
+
+542
+00:20:40,153 --> 00:20:41,533
+just going to create a circles and
+
+543
+00:20:41,647 --> 00:20:43,573
+really worry about too much about one
+
+544
+00:20:43,573 --> 00:20:44,083
+doing here
+
+545
+00:20:45,973 --> 00:20:47,803
+the great thing as I said before
+
+546
+00:20:47,803 --> 00:20:49,543
+about cue card is that you can
+
+547
+00:20:49,543 --> 00:20:51,673
+zoom in and you can zoom out
+
+548
+00:20:51,883 --> 00:20:54,433
+and it can be two hundred miles
+
+549
+00:20:54,433 --> 00:20:56,473
+wide or it can be twenty centimetres
+
+550
+00:20:56,473 --> 00:20:59,413
+wide CAD the CAD doesn’t really matter
+
+551
+00:20:59,413 --> 00:21:01,003
+is kind of one to one scale
+
+552
+00:21:01,003 --> 00:21:02,923
+and you work at whatever whatever size
+
+553
+00:21:02,953 --> 00:21:04,243
+the thing is that you’re working on
+
+554
+00:21:05,113 --> 00:21:05,413
+of
+
+555
+00:21:06,613 --> 00:21:08,563
+so for zooming in zooming out there's
+
+556
+00:21:08,563 --> 00:21:10,543
+the mouse scroll so that’s a really
+
+557
+00:21:10,543 --> 00:21:12,493
+really bad pun that is a mouse
+
+558
+00:21:12,643 --> 00:21:14,383
+or where the scroll took ages to
+
+559
+00:21:14,383 --> 00:21:16,993
+find that one a mouse scroll zoom
+
+560
+00:21:16,993 --> 00:21:18,313
+you in and out so the mouse
+
+561
+00:21:18,313 --> 00:21:20,593
+scroll is that button there and that
+
+562
+00:21:20,803 --> 00:21:23,383
+bosom you internet and CAD the plus
+
+563
+00:21:23,383 --> 00:21:24,973
+or minus keys and your keyboard
+
+564
+00:21:26,293 --> 00:21:28,273
+and then if you get lost is
+
+565
+00:21:28,333 --> 00:21:32,383
+view zoom auto zoom and that will
+
+566
+00:21:32,563 --> 00:21:33,853
+kind of get your back to where
+
+567
+00:21:33,853 --> 00:21:35,473
+you’re drawing is another show you what
+
+568
+00:21:35,503 --> 00:21:36,913
+i mean some mouse girl first of
+
+569
+00:21:36,913 --> 00:21:39,193
+all so mouse scroll zoom in and
+
+570
+00:21:39,193 --> 00:21:40,513
+you can zoom in zoom in and
+
+571
+00:21:40,513 --> 00:21:42,823
+zoom in and zoom in and and
+
+572
+00:21:42,823 --> 00:21:45,103
+it’s just incredible how how much you
+
+573
+00:21:45,103 --> 00:21:45,733
+can zoom in
+
+574
+00:21:45,733 --> 00:21:48,343
+and until your screen is filled with
+
+575
+00:21:48,343 --> 00:21:50,803
+a line when you can zoom out
+
+576
+00:21:50,803 --> 00:21:52,303
+as well and you can zoom out
+
+577
+00:21:52,327 --> 00:21:54,373
+and the problem with this zooming
+
+578
+00:21:54,373 --> 00:21:55,933
+in zooming out plus minus keys
+
+579
+00:21:57,103 --> 00:22:00,973
+minus plus ye will say the problem
+
+580
+00:22:00,973 --> 00:22:02,593
+is is actually really really easy to
+
+581
+00:22:02,593 --> 00:22:04,693
+get lost and I’ve got no idea
+
+582
+00:22:04,903 --> 00:22:07,363
+where my circles gone so if you
+
+583
+00:22:07,393 --> 00:22:11,653
+go to view menu and then zoom
+
+584
+00:22:11,863 --> 00:22:15,703
+and zoom auto auto zoom which has
+
+585
+00:22:15,793 --> 00:22:17,113
+zed a's the is
+
+586
+00:22:17,263 --> 00:22:19,573
+keyboard shortcut is kinda nice to use
+
+587
+00:22:19,573 --> 00:22:21,403
+keyboard shortcuts because it speeds things up
+
+588
+00:22:21,403 --> 00:22:23,533
+but don’t worry about it so click
+
+589
+00:22:23,533 --> 00:22:26,743
+on auto zoom wmf it brings your
+
+590
+00:22:26,743 --> 00:22:28,933
+drawing into full view so if you
+
+591
+00:22:28,933 --> 00:22:30,553
+can zooming any zooming out you don’t
+
+592
+00:22:30,553 --> 00:22:33,763
+know where you are click view zoom
+
+593
+00:22:34,063 --> 00:22:36,193
+auto zoom and it brings you straight
+
+594
+00:22:36,193 --> 00:22:37,333
+back just do again view
+
+595
+00:22:37,333 --> 00:22:40,363
+new zoom auto zoom it brings you
+
+596
+00:22:40,363 --> 00:22:44,833
+straight back okay um so the next
+
+597
+00:22:44,833 --> 00:22:47,443
+thing is panning so with panning
+
+598
+00:22:48,643 --> 00:22:50,413
+that means kind of scrub scrubbing or
+
+599
+00:22:50,443 --> 00:22:52,873
+or moving across the across the screen
+
+600
+00:22:53,203 --> 00:22:55,123
+so that’s a mouse scroll click so
+
+601
+00:22:56,083 --> 00:22:57,853
+the mouse scroll button and then click
+
+602
+00:22:57,853 --> 00:22:59,503
+it down and then that then you
+
+603
+00:22:59,503 --> 00:23:02,023
+can pan from left around the document
+
+604
+00:23:02,413 --> 00:23:06,223
+or views zoom pan zoom so holding
+
+605
+00:23:06,223 --> 00:23:07,573
+down the mouse scroll you know you
+
+606
+00:23:07,573 --> 00:23:08,773
+can you can
+
+607
+00:23:08,893 --> 00:23:12,373
+pan across like that or view zoom
+
+608
+00:23:12,613 --> 00:23:14,803
+pan zoom and that enables you to
+
+609
+00:23:15,673 --> 00:23:17,113
+scroll down and get really really dizzy
+
+610
+00:23:17,323 --> 00:23:19,363
+so then next bit that I wanted
+
+611
+00:23:19,363 --> 00:23:21,853
+to show you was what what happens
+
+612
+00:23:21,943 --> 00:23:25,153
+if you kind of get lost a
+
+613
+00:23:25,153 --> 00:23:28,123
+tall the thing to remember is don’t
+
+614
+00:23:28,123 --> 00:23:28,663
+panic
+
+615
+00:23:28,963 --> 00:23:31,423
+so there's two ways that I can
+
+616
+00:23:31,423 --> 00:23:33,223
+get lost firstly as I said before
+
+617
+00:23:33,463 --> 00:23:37,483
+is um zooming and zooming out so
+
+618
+00:23:37,483 --> 00:23:40,303
+that’s view zoom auto zoom so if
+
+619
+00:23:40,303 --> 00:23:41,563
+i don’t the where I am and
+
+620
+00:23:41,623 --> 00:23:44,833
+i can’t see anything said a of
+
+621
+00:23:44,893 --> 00:23:46,873
+brings it straight back the other thing
+
+622
+00:23:46,873 --> 00:23:49,033
+is if I’ve started clicking on different
+
+623
+00:23:49,093 --> 00:23:50,923
+tools and I don’t know how to
+
+624
+00:23:50,923 --> 00:23:53,173
+get back to the pointer just hit
+
+625
+00:23:53,173 --> 00:23:55,153
+the escape key and that returns you
+
+626
+00:23:55,483 --> 00:23:57,703
+to the arrow tool so just keep
+
+627
+00:23:57,703 --> 00:23:59,443
+hitting it and eventually you'll get back
+
+628
+00:23:59,443 --> 00:24:00,853
+to the to the point all and
+
+629
+00:24:00,853 --> 00:24:02,983
+then get back to square one okay
+
+630
+00:24:02,983 --> 00:24:05,473
+so those two tools really really useful
+
+631
+00:24:05,863 --> 00:24:07,276
+to to kind of get back to
+
+632
+00:24:07,276 --> 00:24:08,713
+your drawing and also to get back
+
+633
+00:24:08,713 --> 00:24:09,253
+to your arrow
+
+634
+00:24:09,294 --> 00:24:12,343
+to right so next up is shapes
+
+635
+00:24:12,373 --> 00:24:15,313
+entities and mods as I said for
+
+636
+00:24:15,313 --> 00:24:18,193
+shapes three entities and four mods what
+
+637
+00:24:18,193 --> 00:24:19,663
+you want to do in the p
+
+638
+00:24:19,663 --> 00:24:22,483
+key again you know download the files
+
+639
+00:24:22,513 --> 00:24:25,153
+from here this is ah the caf
+
+640
+00:24:25,153 --> 00:24:27,913
+gardner's files and I’ll just show you
+
+641
+00:24:28,513 --> 00:24:29,353
+where you get them from
+
+642
+00:24:29,413 --> 00:24:31,363
+so this is where the files are
+
+643
+00:24:31,363 --> 00:24:34,243
+stored and the files are in a
+
+644
+00:24:34,243 --> 00:24:36,703
+folder called card shapes entities mods probably
+
+645
+00:24:36,703 --> 00:24:38,143
+easiest thing to do is download them
+
+646
+00:24:38,143 --> 00:24:39,673
+altogether so if you click on the
+
+647
+00:24:39,703 --> 00:24:42,583
+code button and then download zip unzip
+
+648
+00:24:42,583 --> 00:24:43,753
+it and then you’ve got the cad
+
+649
+00:24:43,753 --> 00:24:45,133
+files that you can play around with
+
+650
+00:24:45,193 --> 00:24:46,513
+first thing then but we’re going to
+
+651
+00:24:46,513 --> 00:24:46,843
+do
+
+652
+00:24:47,983 --> 00:24:50,083
+is to look at creating the for
+
+653
+00:24:50,083 --> 00:24:52,663
+shapes so you’ve got a rectangle line
+
+654
+00:24:52,693 --> 00:24:55,243
+tool circles for trees and nerves for
+
+655
+00:24:55,243 --> 00:24:59,413
+curves terribly exciting so rectangle is under
+
+656
+00:24:59,413 --> 00:25:01,513
+the shade tools in in the the
+
+657
+00:25:01,513 --> 00:25:03,973
+toolbar menu and the two rectangles are
+
+658
+00:25:03,973 --> 00:25:06,103
+used all the time there's like one
+
+659
+00:25:06,103 --> 00:25:08,053
+which is just drawing a rectangle so
+
+660
+00:25:08,143 --> 00:25:09,043
+yeah I know that it
+
+661
+00:25:10,423 --> 00:25:11,473
+join like that
+
+662
+00:25:12,643 --> 00:25:14,713
+escape key back for the pointer and
+
+663
+00:25:14,713 --> 00:25:16,243
+it makes it draws a rectangle with
+
+664
+00:25:16,303 --> 00:25:17,353
+made out of lines
+
+665
+00:25:19,213 --> 00:25:21,163
+and the other one that I use
+
+666
+00:25:21,793 --> 00:25:24,733
+probably a lot more is the rectangle
+
+667
+00:25:24,763 --> 00:25:26,563
+with size and this is actually really
+
+668
+00:25:26,563 --> 00:25:28,993
+useful to say after a I don’t
+
+669
+00:25:28,993 --> 00:25:31,963
+know I’ve got a um shed that’s
+
+670
+00:25:31,963 --> 00:25:34,363
+two metres three metres by two metres
+
+671
+00:25:36,313 --> 00:25:37,783
+i kind of just put the size
+
+672
+00:25:37,783 --> 00:25:39,103
+in along the top here
+
+673
+00:25:40,243 --> 00:25:42,223
+and then there we go it’s it’s
+
+674
+00:25:42,253 --> 00:25:44,561
+it’s a shed which is fantastic and
+
+675
+00:25:44,561 --> 00:25:46,963
+that’s of a rectangle to use rectangles
+
+676
+00:25:46,963 --> 00:25:49,033
+mostly for structures in a garden so
+
+677
+00:25:49,063 --> 00:25:51,583
+shared some poly tunnels and steps and
+
+678
+00:25:51,583 --> 00:25:54,913
+stuff like that the next tool is
+
+679
+00:25:54,943 --> 00:25:57,553
+aligned tool so hit escape to go
+
+680
+00:25:57,553 --> 00:26:00,043
+back to the to the arrow tool
+
+681
+00:26:00,553 --> 00:26:02,593
+click online tools and I only ever
+
+682
+00:26:02,593 --> 00:26:04,933
+used one line tool and that is
+
+683
+00:26:04,933 --> 00:26:06,823
+this one here which is line from
+
+684
+00:26:06,823 --> 00:26:09,313
+to points and I discovered them you
+
+685
+00:26:09,313 --> 00:26:12,313
+don’t get an accurate correct line like
+
+686
+00:26:12,313 --> 00:26:14,953
+that and ally tools good for kind
+
+687
+00:26:14,953 --> 00:26:19,501
+of irregular nonrectilinear shapes and it’s also
+
+688
+00:26:19,543 --> 00:26:20,533
+really really good for
+
+689
+00:26:20,533 --> 00:26:21,583
+for creating
+
+690
+00:26:23,383 --> 00:26:25,813
+path for example so you don’t have
+
+691
+00:26:25,813 --> 00:26:27,193
+to use nurbs you don’t have to
+
+692
+00:26:27,193 --> 00:26:28,753
+kind of create curvy par if you
+
+693
+00:26:28,813 --> 00:26:30,943
+if you want to just for quickness
+
+694
+00:26:30,943 --> 00:26:33,403
+you can create a basic path like
+
+695
+00:26:33,403 --> 00:26:36,313
+that yeah so that’s the kind of
+
+696
+00:26:36,313 --> 00:26:37,393
+thing that you can use it for
+
+697
+00:26:37,393 --> 00:26:39,403
+as well and in creating boundaries I’ll
+
+698
+00:26:39,403 --> 00:26:40,573
+be going through all these when i
+
+699
+00:26:40,573 --> 00:26:42,073
+do the examples as well to give
+
+700
+00:26:42,073 --> 00:26:42,793
+you some real kind of
+
+701
+00:26:42,853 --> 00:26:46,213
+the world examples the third shape is
+
+702
+00:26:46,243 --> 00:26:50,525
+a circle and again circle tool and
+
+703
+00:26:50,525 --> 00:26:52,153
+i only have a create it’s all
+
+704
+00:26:52,153 --> 00:26:54,133
+these different options it’s is mind blown
+
+705
+00:26:54,133 --> 00:26:56,053
+how many different options are on what
+
+706
+00:26:56,053 --> 00:26:58,033
+you can do with them and tangents
+
+707
+00:26:58,033 --> 00:26:59,439
+and all sorts of stuff but i
+
+708
+00:26:59,439 --> 00:27:01,063
+only ever used one circle and that’s
+
+709
+00:27:01,063 --> 00:27:03,013
+like circles with trees so you click
+
+710
+00:27:03,013 --> 00:27:03,283
+pic
+
+711
+00:27:04,873 --> 00:27:08,113
+every go and that tool is called
+
+712
+00:27:08,253 --> 00:27:10,123
+smh I’ve got the right name center
+
+713
+00:27:10,183 --> 00:27:12,043
+point st draw a circle from the
+
+714
+00:27:12,043 --> 00:27:14,563
+point and there we go and you
+
+715
+00:27:14,563 --> 00:27:16,873
+can just draw circles trees and this
+
+716
+00:27:16,873 --> 00:27:18,913
+is where the property widget comes in
+
+717
+00:27:18,943 --> 00:27:21,103
+really really handy because what you can
+
+718
+00:27:21,103 --> 00:27:24,193
+do select the shape and then say
+
+719
+00:27:24,493 --> 00:27:24,613
+why
+
+720
+00:27:24,613 --> 00:27:26,863
+i don’t know there's a sweet chestnut
+
+721
+00:27:26,893 --> 00:27:30,673
+is roughly fifteen metres diameter if you
+
+722
+00:27:30,673 --> 00:27:33,673
+look in the property editor under diameter
+
+723
+00:27:34,933 --> 00:27:36,343
+down here on the right and side
+
+724
+00:27:36,733 --> 00:27:39,283
+and then type in fifteen there you
+
+725
+00:27:39,283 --> 00:27:42,103
+go that’s the diameter of a sweet
+
+726
+00:27:42,103 --> 00:27:44,377
+chestnut and then I can say oh
+
+727
+00:27:44,385 --> 00:27:45,763
+right then I want to create another
+
+728
+00:27:45,763 --> 00:27:47,893
+one and this is going to be
+
+729
+00:27:47,893 --> 00:27:50,263
+four metres wide because that’s the diameter
+
+730
+00:27:50,773 --> 00:27:53,983
+select draw the circle select it diameter
+
+731
+00:27:54,103 --> 00:27:54,793
+four
+
+732
+00:27:55,423 --> 00:27:58,123
+and that’s the diameter of an apple
+
+733
+00:27:58,123 --> 00:28:00,043
+tree on m m one o six
+
+734
+00:28:00,043 --> 00:28:03,433
+rootstock for example so now you’ve got
+
+735
+00:28:03,523 --> 00:28:05,293
+circles for trees and then you can
+
+736
+00:28:05,293 --> 00:28:07,423
+work out using the tree spacing you
+
+737
+00:28:07,423 --> 00:28:10,963
+can calculate the distance actually i
+
+738
+00:28:10,963 --> 00:28:12,433
+should be between the truth and have
+
+739
+00:28:12,433 --> 00:28:15,013
+finally nurbs wasn't going to show
+
+740
+00:28:15,013 --> 00:28:16,813
+show your nerves but the so great
+
+741
+00:28:16,813 --> 00:28:18,103
+there's still such a brilliant name it
+
+742
+00:28:18,103 --> 00:28:21,463
+stands for non uniform rational v splines
+
+743
+00:28:21,493 --> 00:28:23,503
+i think that have a play and
+
+744
+00:28:23,503 --> 00:28:24,583
+if you like them and get on
+
+745
+00:28:24,583 --> 00:28:26,413
+with them then use them again only
+
+746
+00:28:26,413 --> 00:28:28,183
+ever used one spy tool this one
+
+747
+00:28:28,183 --> 00:28:30,523
+at the top supplying with control points
+
+748
+00:28:31,603 --> 00:28:36,913
+and you can click click click double
+
+749
+00:28:36,913 --> 00:28:39,793
+click to stop stop the drawing escape
+
+750
+00:28:39,853 --> 00:28:41,293
+to get the arrow tour back and
+
+751
+00:28:41,293 --> 00:28:44,113
+then you’ve got a control point which
+
+752
+00:28:44,113 --> 00:28:47,053
+is here which is which is fantastic
+
+753
+00:28:49,183 --> 00:28:51,283
+there we go and the knee obviously
+
+754
+00:28:51,283 --> 00:28:53,925
+you can create lot more complex shapes
+
+755
+00:28:53,925 --> 00:28:56,533
+so if you’re creating a path it’s
+
+756
+00:28:56,563 --> 00:29:00,043
+really wobbly path yeah you can do
+
+757
+00:29:00,043 --> 00:29:03,043
+all sorts of great great great fun
+
+758
+00:29:03,043 --> 00:29:03,703
+stuff
+
+759
+00:29:05,083 --> 00:29:06,703
+this is a really good moment to
+
+760
+00:29:06,703 --> 00:29:08,413
+talk about the snap talk because this
+
+761
+00:29:08,413 --> 00:29:09,883
+makes your life an awful lot easier
+
+762
+00:29:10,093 --> 00:29:12,253
+so what it set to by default
+
+763
+00:29:12,283 --> 00:29:14,833
+when you create a shape let's go
+
+764
+00:29:14,863 --> 00:29:16,423
+back and get aligned tool because I’ll
+
+765
+00:29:16,423 --> 00:29:19,663
+be probably easier it snapping to the
+
+766
+00:29:19,663 --> 00:29:20,233
+grid
+
+767
+00:29:21,823 --> 00:29:23,773
+or it’s snapping on an intersection
+
+768
+00:29:26,023 --> 00:29:29,503
+and that’s the default behavior so kind
+
+769
+00:29:29,503 --> 00:29:31,393
+of kind of guesses where you want
+
+770
+00:29:31,393 --> 00:29:33,523
+to snap to which is great but
+
+771
+00:29:33,523 --> 00:29:35,443
+sometimes you say I’ll want it just
+
+772
+00:29:35,443 --> 00:29:36,784
+over here and it’s not enough that
+
+773
+00:29:36,784 --> 00:29:38,593
+you want to make a free play
+
+774
+00:29:38,653 --> 00:29:41,143
+sort of thing for your snapping and
+
+775
+00:29:41,143 --> 00:29:42,253
+the way to do that is to
+
+776
+00:29:42,253 --> 00:29:44,563
+use snap free so if you go
+
+777
+00:29:44,563 --> 00:29:45,013
+to the psn
+
+778
+00:29:45,013 --> 00:29:48,253
+tap menu and then go snap free
+
+779
+00:29:48,283 --> 00:29:51,403
+or s f is a shortcut then
+
+780
+00:29:51,673 --> 00:29:53,083
+it doesn’t it’s not snapping to anything
+
+781
+00:29:53,113 --> 00:29:54,493
+at all so it means it won’t
+
+782
+00:29:54,493 --> 00:29:55,933
+snap onto a line so it depends
+
+783
+00:29:55,933 --> 00:29:56,923
+what you you know what you’re trying
+
+784
+00:29:56,923 --> 00:29:58,423
+to achieve either like if you’re if
+
+785
+00:29:58,423 --> 00:30:00,163
+you’ve got a curvy curvy path that
+
+786
+00:30:00,163 --> 00:30:01,873
+you want to make then it you
+
+787
+00:30:01,873 --> 00:30:03,373
+don’t really want to have it snapping
+
+788
+00:30:03,373 --> 00:30:05,173
+direct to a great director another object
+
+789
+00:30:05,813 --> 00:30:07,133
+sometimes you do want it to snap
+
+790
+00:30:07,133 --> 00:30:08,213
+so for example if I wanted to
+
+791
+00:30:08,213 --> 00:30:09,953
+close this shape I wanted to snap
+
+792
+00:30:09,953 --> 00:30:11,363
+on the corner but it’s not going
+
+793
+00:30:11,363 --> 00:30:13,193
+to it’s just going to just a
+
+794
+00:30:13,193 --> 00:30:15,653
+little bit away because I snapped free
+
+795
+00:30:15,683 --> 00:30:17,543
+really very useful for freehand stuff
+
+796
+00:30:18,863 --> 00:30:19,823
+and then the other one that you
+
+797
+00:30:19,823 --> 00:30:20,153
+want
+
+798
+00:30:21,383 --> 00:30:24,263
+quite commonly a snap on entity which
+
+799
+00:30:24,263 --> 00:30:26,783
+is s t so a line tool
+
+800
+00:30:26,813 --> 00:30:28,403
+and I say okay I know that
+
+801
+00:30:28,403 --> 00:30:31,553
+i want to snap onto the rectangle
+
+802
+00:30:31,913 --> 00:30:33,863
+some ways or see it’s auto snapping
+
+803
+00:30:33,863 --> 00:30:35,363
+here you can see it’s auto snapping
+
+804
+00:30:35,363 --> 00:30:37,253
+to the middle and auto snapping to
+
+805
+00:30:37,253 --> 00:30:39,173
+the intersection but I want it to
+
+806
+00:30:39,173 --> 00:30:41,453
+snap on the actual entity
+
+807
+00:30:41,633 --> 00:30:43,523
+itself like on this on the circle
+
+808
+00:30:43,523 --> 00:30:46,583
+for example if I go snap on
+
+809
+00:30:46,613 --> 00:30:47,453
+entity
+
+810
+00:30:48,683 --> 00:30:50,393
+then it will glue itself to that
+
+811
+00:30:50,393 --> 00:30:53,183
+entity yeah and I know none will
+
+812
+00:30:53,185 --> 00:30:56,243
+take off I can go snap auto
+
+813
+00:30:57,713 --> 00:31:00,383
+snap auto down here and then it’s
+
+814
+00:31:00,383 --> 00:31:02,243
+going to go back to automatically snapping
+
+815
+00:31:02,273 --> 00:31:03,443
+to the grid or to the end
+
+816
+00:31:03,443 --> 00:31:06,082
+of something else yeah so that’s a
+
+817
+00:31:06,082 --> 00:31:07,793
+really really handy one on the final
+
+818
+00:31:07,793 --> 00:31:11,093
+snap is snapped and so this is
+
+819
+00:31:11,123 --> 00:31:12,533
+great if you’ve got a shape and
+
+820
+00:31:12,533 --> 00:31:13,793
+you sell on clothes I want to
+
+821
+00:31:13,793 --> 00:31:15,023
+close this shape here
+
+822
+00:31:16,373 --> 00:31:18,023
+so it’s like it’s like a closed
+
+823
+00:31:18,023 --> 00:31:18,443
+shape
+
+824
+00:31:19,823 --> 00:31:21,143
+so what you do their get the
+
+825
+00:31:21,143 --> 00:31:23,483
+line tool and
+
+826
+00:31:24,533 --> 00:31:26,389
+you can click snap and just to
+
+827
+00:31:26,389 --> 00:31:27,863
+make sure it snaps on end you
+
+828
+00:31:27,863 --> 00:31:31,428
+go to start on and bamf it
+
+829
+00:31:31,428 --> 00:31:33,473
+won’t snap anywhere else and your guarantee
+
+830
+00:31:33,473 --> 00:31:35,843
+that that shape is enclosed now so
+
+831
+00:31:36,263 --> 00:31:41,423
+these snapping facilities are really really useful
+
+832
+00:31:41,483 --> 00:31:42,683
+it’s really kind of handy to know
+
+833
+00:31:42,683 --> 00:31:44,663
+them and it’s dear just be aware
+
+834
+00:31:44,663 --> 00:31:45,891
+where that you’ve got the snap menu
+
+835
+00:31:45,891 --> 00:31:47,903
+there and then you can use the
+
+836
+00:31:48,503 --> 00:31:50,753
+snap snapping tools as when you see
+
+837
+00:31:50,753 --> 00:31:52,073
+fit so when it comes up you
+
+838
+00:31:52,073 --> 00:31:53,663
+know why won’t it why won’t this
+
+839
+00:31:53,693 --> 00:31:55,433
+line go here you can figure out
+
+840
+00:31:55,433 --> 00:31:56,783
+where it needs to be snap auto
+
+841
+00:31:56,783 --> 00:31:58,913
+or snap free or snap entity or
+
+842
+00:31:58,913 --> 00:32:00,203
+snap on ticket snap to the end
+
+843
+00:32:01,583 --> 00:32:05,153
+okay let's get onto the entities we've
+
+844
+00:32:05,153 --> 00:32:08,963
+got three entities that’s block polyline and
+
+845
+00:32:08,993 --> 00:32:11,153
+text and they're all kind of pretty
+
+846
+00:32:11,153 --> 00:32:14,063
+cool in their own special ways a
+
+847
+00:32:14,063 --> 00:32:17,303
+block is really really useful if your
+
+848
+00:32:17,543 --> 00:32:20,063
+creating a symbol it can be re-used
+
+849
+00:32:20,093 --> 00:32:21,383
+over and over again so for exam
+
+850
+00:32:21,383 --> 00:32:23,203
+people you have an orchard and it’s
+
+851
+00:32:23,213 --> 00:32:24,803
+got a lot of the same apple
+
+852
+00:32:24,803 --> 00:32:26,093
+trees in it you can just make
+
+853
+00:32:26,093 --> 00:32:28,913
+one apple tree and then plant lots
+
+854
+00:32:28,913 --> 00:32:31,163
+of different instances around and you edit
+
+855
+00:32:31,163 --> 00:32:33,353
+the one block it changes all those
+
+856
+00:32:33,353 --> 00:32:36,833
+instances but it’s also useful for creating
+
+857
+00:32:36,833 --> 00:32:38,603
+a shape and then applying any angle
+
+858
+00:32:39,053 --> 00:32:40,853
+so in this example I’ve created a
+
+859
+00:32:40,853 --> 00:32:41,453
+bench
+
+860
+00:32:41,663 --> 00:32:43,013
+and I’ve learned to create an angle
+
+861
+00:32:43,013 --> 00:32:43,943
+on it I’ll show you how to
+
+862
+00:32:43,943 --> 00:32:45,503
+do that so he escaped to go
+
+863
+00:32:45,503 --> 00:32:48,653
+back to the arrow to go click
+
+864
+00:32:48,653 --> 00:32:51,653
+onto the shake tools and and I’ll
+
+865
+00:32:51,653 --> 00:32:54,833
+just create any old any old rectangle
+
+866
+00:32:56,543 --> 00:32:58,853
+and rather than not what you can
+
+867
+00:32:58,853 --> 00:33:00,683
+do if you go into the shape
+
+868
+00:33:00,687 --> 00:33:03,353
+tools and then shape with the with
+
+869
+00:33:03,353 --> 00:33:05,693
+sizes you can put an angle in
+
+870
+00:33:05,693 --> 00:33:08,723
+here but then it’s much harder once
+
+871
+00:33:08,723 --> 00:33:10,613
+you’ve created that angle once you create
+
+872
+00:33:10,613 --> 00:33:12,653
+that shape it’s much much harder to
+
+873
+00:33:12,683 --> 00:33:15,323
+edit it so you’re better off creating
+
+874
+00:33:15,323 --> 00:33:16,066
+it so that it’s
+
+875
+00:33:16,103 --> 00:33:20,273
+square and then applying the angle afterwards
+
+876
+00:33:20,423 --> 00:33:22,343
+so why to show you how to
+
+877
+00:33:22,343 --> 00:33:23,933
+create a block so you select all
+
+878
+00:33:23,933 --> 00:33:24,323
+those
+
+879
+00:33:25,493 --> 00:33:28,103
+elements go to the block menu and
+
+880
+00:33:28,103 --> 00:33:32,543
+then create block from selection and then
+
+881
+00:33:32,543 --> 00:33:33,683
+you say where you wanted to create
+
+882
+00:33:33,683 --> 00:33:35,363
+it from sets the corner allow I’m
+
+883
+00:33:35,363 --> 00:33:37,613
+going to call it I know shed
+
+884
+00:33:38,543 --> 00:33:40,733
+and down here in the block list
+
+885
+00:33:40,733 --> 00:33:41,963
+of the land side you can see
+
+886
+00:33:41,963 --> 00:33:43,193
+shed comes up and then I can
+
+887
+00:33:43,193 --> 00:33:45,623
+have multiple sheds
+
+888
+00:33:45,923 --> 00:33:47,153
+and I can put shirts down all
+
+889
+00:33:47,153 --> 00:33:50,423
+over the place really so now for
+
+890
+00:33:50,423 --> 00:33:52,709
+example I want to edit it I’m
+
+891
+00:33:52,709 --> 00:33:54,533
+gonna say I want to I want
+
+892
+00:33:54,533 --> 00:33:57,263
+to I don’t know color the lines
+
+893
+00:33:57,293 --> 00:33:59,303
+make the lines a different color or
+
+894
+00:33:59,303 --> 00:34:00,773
+make them green
+
+895
+00:34:03,413 --> 00:34:05,033
+and then go out for now I’ve
+
+896
+00:34:05,033 --> 00:34:07,043
+got green sheds all over the place
+
+897
+00:34:07,613 --> 00:34:09,773
+but if I just want to rotate
+
+898
+00:34:09,773 --> 00:34:11,993
+one of my sheds I can go
+
+899
+00:34:11,993 --> 00:34:14,513
+here and I’ll just give it an
+
+900
+00:34:14,513 --> 00:34:18,203
+angle in the properties forty five degrees
+
+901
+00:34:18,473 --> 00:34:20,902
+type in forty five degrees and just
+
+902
+00:34:20,902 --> 00:34:22,103
+that instances ch
+
+903
+00:34:22,103 --> 00:34:23,693
+changed so that’s really kind of yeah
+
+904
+00:34:23,753 --> 00:34:25,763
+it’s really really handy and then you
+
+905
+00:34:25,763 --> 00:34:26,842
+can make sure that you get the
+
+906
+00:34:26,842 --> 00:34:29,362
+right angle and it’s much much easier
+
+907
+00:34:29,993 --> 00:34:31,763
+to to control go
+
+908
+00:34:33,652 --> 00:34:36,353
+the other entity that I want to
+
+909
+00:34:36,353 --> 00:34:39,203
+talk about was the polyline and these
+
+910
+00:34:39,203 --> 00:34:40,973
+are great best way to show you
+
+911
+00:34:40,973 --> 00:34:43,072
+this is with the line tool so
+
+912
+00:34:43,342 --> 00:34:44,393
+go for line tool
+
+913
+00:34:45,743 --> 00:34:47,963
+and I’ll create like a kind of
+
+914
+00:34:48,023 --> 00:34:51,563
+linage thing liberty wobbly line ie an
+
+915
+00:34:51,563 --> 00:34:53,393
+ass grape and you go well that’s
+
+916
+00:34:53,393 --> 00:34:54,322
+fantastic
+
+917
+00:34:55,402 --> 00:34:57,053
+but the pain in the bum is
+
+918
+00:34:57,053 --> 00:34:58,493
+that I have to create a shift
+
+919
+00:34:58,493 --> 00:35:01,013
+click every single item before I want
+
+920
+00:35:01,013 --> 00:35:02,573
+to move it or have to select
+
+921
+00:35:02,573 --> 00:35:04,643
+them all by dragging it like that
+
+922
+00:35:04,943 --> 00:35:06,293
+and that can be a bit painful
+
+923
+00:35:06,593 --> 00:35:07,823
+so it’s much better
+
+924
+00:35:08,903 --> 00:35:10,283
+or you can double click and it
+
+925
+00:35:10,283 --> 00:35:11,813
+looks like the whole shape but unless
+
+926
+00:35:11,813 --> 00:35:13,793
+the shape then is if it’s touching
+
+927
+00:35:13,793 --> 00:35:15,173
+something else it’s like all that as
+
+928
+00:35:15,173 --> 00:35:18,203
+well so much much better to create
+
+929
+00:35:18,233 --> 00:35:21,203
+a polyline of that line so have
+
+930
+00:35:21,289 --> 00:35:23,453
+quite a polyline dukedom double click to
+
+931
+00:35:23,453 --> 00:35:25,433
+select all of them and you go
+
+932
+00:35:25,763 --> 00:35:28,253
+draw polyline
+
+933
+00:35:29,093 --> 00:35:32,693
+polyline from selection and I am constantly
+
+934
+00:35:32,693 --> 00:35:34,973
+amazed at the number of different options
+
+935
+00:35:34,973 --> 00:35:37,223
+that we've got but just constant all
+
+936
+00:35:37,223 --> 00:35:39,353
+you have to do is concentrate on
+
+937
+00:35:39,353 --> 00:35:40,763
+the ones I’m giving you and
+
+938
+00:35:40,763 --> 00:35:42,173
+that to be honest these are all
+
+939
+00:35:42,173 --> 00:35:44,033
+the only ones I ever used myself
+
+940
+00:35:44,483 --> 00:35:49,193
+so polyline from selection we got now
+
+941
+00:35:49,373 --> 00:35:51,953
+wow look it treats it as a
+
+942
+00:35:51,953 --> 00:35:52,973
+whole kind of group
+
+943
+00:35:54,323 --> 00:35:56,123
+and what it also does if you
+
+944
+00:35:56,123 --> 00:35:57,833
+click on it it will give you
+
+945
+00:35:57,863 --> 00:36:00,023
+an area so try and work out
+
+946
+00:36:00,023 --> 00:36:01,313
+what that area is
+
+947
+00:36:03,773 --> 00:36:06,443
+another handy tool if you’ve got a
+
+948
+00:36:06,443 --> 00:36:09,293
+polyline than you want to explode this
+
+949
+00:36:09,353 --> 00:36:11,543
+really ought to be in modifications but
+
+950
+00:36:11,543 --> 00:36:14,033
+there's a bomb here set off that
+
+951
+00:36:14,033 --> 00:36:18,503
+stick of dynamite bomb explodes it and
+
+952
+00:36:18,863 --> 00:36:20,093
+what I want to do now is
+
+953
+00:36:20,303 --> 00:36:21,833
+is to close that line so he
+
+954
+00:36:21,845 --> 00:36:22,583
+escape key
+
+955
+00:36:22,614 --> 00:36:24,293
+to go back to the arrow tool
+
+956
+00:36:24,593 --> 00:36:25,883
+click on the line tall and are
+
+957
+00:36:25,883 --> 00:36:28,433
+going to close that shape and now
+
+958
+00:36:28,673 --> 00:36:31,733
+you can imagine double click create a
+
+959
+00:36:31,733 --> 00:36:34,673
+polyline from that and you can say
+
+960
+00:36:34,673 --> 00:36:38,243
+yep that is now a garden bed
+
+961
+00:36:38,423 --> 00:36:39,953
+and now know to by clicking on
+
+962
+00:36:39,953 --> 00:36:41,933
+it this is about the garden bed
+
+963
+00:36:42,233 --> 00:36:42,563
+is
+
+964
+00:36:42,833 --> 00:36:46,013
+about five metres diameter and with a
+
+965
+00:36:46,013 --> 00:36:48,653
+planting density of five plants per square
+
+966
+00:36:48,653 --> 00:36:51,413
+metre that’s twenty five plants thank you
+
+967
+00:36:51,413 --> 00:36:52,703
+very much so this is where it
+
+968
+00:36:52,703 --> 00:36:55,463
+comes in really really useful using these
+
+969
+00:36:55,463 --> 00:36:59,033
+different tools and then finally the last
+
+970
+00:36:59,693 --> 00:37:01,973
+entity that I wanted to discuss is
+
+971
+00:37:02,063 --> 00:37:02,873
+text or
+
+972
+00:37:02,933 --> 00:37:04,523
+and it’s kinda does what it says
+
+973
+00:37:04,523 --> 00:37:06,353
+and the ten really enables you to
+
+974
+00:37:06,353 --> 00:37:08,453
+put labels on things which is handy
+
+975
+00:37:08,453 --> 00:37:09,263
+if you want to know what the
+
+976
+00:37:09,263 --> 00:37:10,823
+trees are that you that you’re using
+
+977
+00:37:11,063 --> 00:37:13,583
+or what a particular structure is so
+
+978
+00:37:13,763 --> 00:37:14,363
+doubleclick
+
+979
+00:37:15,743 --> 00:37:17,603
+and then escape to go back to
+
+980
+00:37:17,603 --> 00:37:20,274
+the tool menu and arrow tall and
+
+981
+00:37:20,274 --> 00:37:21,683
+I’m going to click on the text
+
+982
+00:37:21,683 --> 00:37:24,383
+tool they contexte and it brings up
+
+983
+00:37:24,923 --> 00:37:27,173
+the whole lot here for some reason
+
+984
+00:37:27,413 --> 00:37:28,973
+i always call my tex orange i
+
+985
+00:37:28,973 --> 00:37:30,263
+think it’s a kind of middle middle
+
+986
+00:37:30,263 --> 00:37:31,853
+of the road color and fits in
+
+987
+00:37:31,853 --> 00:37:35,123
+with everything else um agricole is shed
+
+988
+00:37:35,573 --> 00:37:39,023
+I’m gonna make it orange and think
+
+989
+00:37:39,023 --> 00:37:42,983
+anything plus it’s smaller we go and
+
+990
+00:37:42,983 --> 00:37:44,363
+you’ve got lots of options if you
+
+991
+00:37:44,363 --> 00:37:45,923
+double click on the text or on
+
+992
+00:37:45,923 --> 00:37:47,243
+the text itself it brings up the
+
+993
+00:37:47,243 --> 00:37:49,283
+text dialog box and you’ve got lots
+
+994
+00:37:49,283 --> 00:37:51,472
+of options for whether it aligns in
+
+995
+00:37:51,472 --> 00:37:53,183
+the center in the middle so that’s
+
+996
+00:37:53,183 --> 00:37:55,553
+what kind of handy to we go
+
+997
+00:37:55,793 --> 00:38:00,203
+so shed pop that their escape from
+
+998
+00:38:00,203 --> 00:38:02,093
+the block so I’m editing the block
+
+999
+00:38:02,093 --> 00:38:03,533
+at the moment in the block list
+
+1000
+00:38:04,253 --> 00:38:05,993
+click on that and you can see
+
+1001
+00:38:06,023 --> 00:38:08,303
+it’s got shed an angle there we
+
+1002
+00:38:08,303 --> 00:38:11,543
+go so those are your three entities
+
+1003
+00:38:12,683 --> 00:38:14,393
+so what I wanted to show you
+
+1004
+00:38:14,393 --> 00:38:15,863
+next is very quickly as les
+
+1005
+00:38:15,863 --> 00:38:19,973
+layers ah this is in keycard on
+
+1006
+00:38:19,973 --> 00:38:21,610
+the right-hand side it’s the layer which
+
+1007
+00:38:21,743 --> 00:38:24,563
+up here and it’s just radio handy
+
+1008
+00:38:24,563 --> 00:38:28,613
+for organizing different elements plants on one
+
+1009
+00:38:28,673 --> 00:38:31,133
+one layer you have your structures on
+
+1010
+00:38:31,133 --> 00:38:33,413
+another layer you have your boundary on
+
+1011
+00:38:33,413 --> 00:38:35,933
+another layer areas in another layer
+
+1012
+00:38:36,053 --> 00:38:39,713
+i have already made a template you
+
+1013
+00:38:39,713 --> 00:38:42,023
+can download this from the
+
+1014
+00:38:43,283 --> 00:38:45,623
+website or wanted to show your next
+
+1015
+00:38:45,953 --> 00:38:47,753
+layers is a really really good way
+
+1016
+00:38:47,753 --> 00:38:50,273
+of organizing different information so you like
+
+1017
+00:38:50,303 --> 00:38:52,517
+have one layer for areas one layer
+
+1018
+00:38:52,523 --> 00:38:54,593
+for structures another layer for plants or
+
+1019
+00:38:54,593 --> 00:38:56,723
+trees you get the idea so you
+
+1020
+00:38:56,723 --> 00:38:59,033
+can organize it by by different layers
+
+1021
+00:38:59,060 --> 00:39:00,323
+and you can give different colors to
+
+1022
+00:39:00,323 --> 00:39:02,123
+each layer as well again out from
+
+1023
+00:39:02,136 --> 00:39:03,383
+the organizing all the different
+
+1024
+00:39:03,413 --> 00:39:03,923
+elements
+
+1025
+00:39:05,093 --> 00:39:07,853
+that is only my github website you
+
+1026
+00:39:07,853 --> 00:39:09,683
+can download a template so you can
+
+1027
+00:39:09,683 --> 00:39:11,423
+just click down here and download the
+
+1028
+00:39:11,423 --> 00:39:15,083
+zip and then open up that file
+
+1029
+00:39:15,653 --> 00:39:17,813
+and it will give you you will
+
+1030
+00:39:17,813 --> 00:39:19,943
+give you this which is a list
+
+1031
+00:39:19,943 --> 00:39:21,653
+of all the layers and it’s also
+
+1032
+00:39:21,653 --> 00:39:23,753
+got handy little legend which I’ve premade
+
+1033
+00:39:23,753 --> 00:39:25,223
+here as well as a block
+
+1034
+00:39:26,093 --> 00:39:28,043
+and I’ll be using this when I’m
+
+1035
+00:39:28,073 --> 00:39:31,403
+going through the different examples to and
+
+1036
+00:39:31,403 --> 00:39:36,713
+then finally we've got the mods for
+
+1037
+00:39:36,713 --> 00:39:39,803
+different modifications to make I’ll just go
+
+1038
+00:39:39,803 --> 00:39:40,523
+through them with you
+
+1039
+00:39:41,993 --> 00:39:43,973
+so here we go mods you’ve got
+
+1040
+00:39:43,973 --> 00:39:46,313
+four different types now this example is
+
+1041
+00:39:46,313 --> 00:39:50,243
+actually taken from a real world example
+
+1042
+00:39:50,543 --> 00:39:53,573
+of a gabion games of those wire
+
+1043
+00:39:53,573 --> 00:39:55,403
+cages with stones in and it’s a
+
+1044
+00:39:55,463 --> 00:39:59,093
+galion horseshoe shape done creating for the
+
+1045
+00:39:59,153 --> 00:40:01,553
+local primary school it’s like a seating
+
+1046
+00:40:01,553 --> 00:40:01,703
+air
+
+1047
+00:40:01,703 --> 00:40:03,653
+area but kind of sheltered seating area
+
+1048
+00:40:04,043 --> 00:40:06,173
+so I’ll just go through how how
+
+1049
+00:40:06,173 --> 00:40:07,223
+I’ve created it
+
+1050
+00:40:11,433 --> 00:40:12,813
+on the center point
+
+1051
+00:40:14,013 --> 00:40:16,623
+i create a circle as the first
+
+1052
+00:40:16,623 --> 00:40:19,353
+thing and the modification tools are under
+
+1053
+00:40:19,353 --> 00:40:23,253
+this menu over here ah modification tools
+
+1054
+00:40:23,283 --> 00:40:26,133
+you’ve already seen the dynamite stake
+
+1055
+00:40:26,463 --> 00:40:27,963
+so select the what you want to
+
+1056
+00:40:28,053 --> 00:40:29,973
+that that the element that you want
+
+1057
+00:40:29,973 --> 00:40:31,923
+to modify and I’m going to use
+
+1058
+00:40:31,953 --> 00:40:33,993
+offset I think which is this one
+
+1059
+00:40:33,993 --> 00:40:36,543
+in here offset with distance
+
+1060
+00:40:37,713 --> 00:40:39,783
+okay it’s just not point five metres
+
+1061
+00:40:39,783 --> 00:40:40,923
+that’s how wide is I might make
+
+1062
+00:40:40,924 --> 00:40:43,413
+a little bit a bit narrower not
+
+1063
+00:40:43,413 --> 00:40:45,273
+point for not point three needs to
+
+1064
+00:40:45,273 --> 00:40:45,633
+say
+
+1065
+00:40:47,103 --> 00:40:49,023
+there we go get the idea
+
+1066
+00:40:50,643 --> 00:40:53,403
+yeah no point three metres the centimetres
+
+1067
+00:40:55,323 --> 00:40:57,093
+and there we go that’s an offset
+
+1068
+00:40:57,093 --> 00:40:59,103
+and you can offset either either way
+
+1069
+00:40:59,733 --> 00:41:03,483
+okay now take that shape and i
+
+1070
+00:41:03,483 --> 00:41:06,273
+want to put two lines on to
+
+1071
+00:41:06,303 --> 00:41:07,983
+kind of cut into it’s like a
+
+1072
+00:41:08,013 --> 00:41:10,023
+draw one nine one side and a
+
+1073
+00:41:10,023 --> 00:41:13,833
+mirror onto the other side and yeah
+
+1074
+00:41:13,833 --> 00:41:14,463
+let's do that
+
+1075
+00:41:14,883 --> 00:41:17,643
+escape to go back line tool draw
+
+1076
+00:41:17,643 --> 00:41:19,803
+from the center drawer out here
+
+1077
+00:41:21,243 --> 00:41:23,433
+escape again go back select it with
+
+1078
+00:41:23,433 --> 00:41:26,013
+the arrow tool go to the modification
+
+1079
+00:41:26,013 --> 00:41:30,363
+tools and up here is the mirror
+
+1080
+00:41:30,633 --> 00:41:32,404
+and click on mirror and you say
+
+1081
+00:41:32,404 --> 00:41:35,553
+you want to hear that line there
+
+1082
+00:41:36,183 --> 00:41:37,713
+and I want to keep the original
+
+1083
+00:41:37,893 --> 00:41:39,123
+and I want to just flip it
+
+1084
+00:41:39,153 --> 00:41:39,543
+over
+
+1085
+00:41:41,858 --> 00:41:43,263
+we go so that’s the mirror tool
+
+1086
+00:41:43,263 --> 00:41:44,373
+so that’s really good if you’ve got
+
+1087
+00:41:44,373 --> 00:41:47,283
+any kind of symmetrical shapes that you
+
+1088
+00:41:47,283 --> 00:41:49,053
+want to create in you can you
+
+1089
+00:41:49,053 --> 00:41:49,653
+can marry them
+
+1090
+00:41:50,793 --> 00:41:52,383
+now we go into the divide tool
+
+1091
+00:41:53,103 --> 00:41:54,453
+this is always a great deal of
+
+1092
+00:41:54,453 --> 00:41:55,503
+fun so you can see what I’m
+
+1093
+00:41:55,503 --> 00:41:57,093
+trying to achieve here at the end
+
+1094
+00:41:57,453 --> 00:42:00,603
+is to cut the where those lines
+
+1095
+00:42:00,603 --> 00:42:04,563
+intersect so go back here escape key
+
+1096
+00:42:04,983 --> 00:42:06,183
+to go back to the arrow tool
+
+1097
+00:42:06,273 --> 00:42:09,033
+modification tools and then it’s the scissor
+
+1098
+00:42:09,033 --> 00:42:10,953
+tool which is which is great nice
+
+1099
+00:42:10,983 --> 00:42:15,123
+and easy and for the inner circle
+
+1100
+00:42:15,153 --> 00:42:17,463
+click on the device tool of about
+
+1101
+00:42:17,793 --> 00:42:21,543
+this is like a commander circle intersection
+
+1102
+00:42:22,563 --> 00:42:23,613
+and intersection
+
+1103
+00:42:24,963 --> 00:42:27,744
+so that that segment click delete you
+
+1104
+00:42:27,744 --> 00:42:30,483
+go and already had a handy hint
+
+1105
+00:42:30,543 --> 00:42:32,523
+if you are doing any drawing tall
+
+1106
+00:42:33,033 --> 00:42:35,013
+with the line tool rather than have
+
+1107
+00:42:35,013 --> 00:42:37,593
+to redraw the line using the snap
+
+1108
+00:42:37,623 --> 00:42:40,083
+the automatic snap you select the end
+
+1109
+00:42:40,083 --> 00:42:41,793
+of the line and will snap automatically
+
+1110
+00:42:42,003 --> 00:42:44,763
+to the intersection without circle to
+
+1111
+00:42:44,793 --> 00:42:45,183
+that’s
+
+1112
+00:42:46,233 --> 00:42:47,913
+very often the kind of quickest way
+
+1113
+00:42:48,753 --> 00:42:51,123
+of crane the shape is to use
+
+1114
+00:42:51,123 --> 00:42:53,793
+your existing lines and that the snap
+
+1115
+00:42:53,793 --> 00:42:55,533
+do the work for you like that
+
+1116
+00:42:55,683 --> 00:42:58,023
+know we go we've got horseshoe shape
+
+1117
+00:42:58,863 --> 00:43:00,693
+or turn that to make life easier
+
+1118
+00:43:00,693 --> 00:43:03,003
+I’m gonna turn this into a block
+
+1119
+00:43:03,603 --> 00:43:06,393
+and select all the items
+
+1120
+00:43:06,933 --> 00:43:10,563
+all the elements in their block create
+
+1121
+00:43:10,563 --> 00:43:13,563
+lot from selection click in the center
+
+1122
+00:43:14,943 --> 00:43:16,113
+and I got a call that oh
+
+1123
+00:43:16,113 --> 00:43:17,733
+i don’t know paul shoe or something
+
+1124
+00:43:19,083 --> 00:43:20,201
+now we go we've got a block
+
+1125
+00:43:20,231 --> 00:43:21,933
+and it just makes that easier threatening
+
+1126
+00:43:21,933 --> 00:43:23,853
+and a block makes it easy to
+
+1127
+00:43:23,853 --> 00:43:25,383
+rotate so you can fine tune it
+
+1128
+00:43:26,073 --> 00:43:29,193
+so select that go to the property
+
+1129
+00:43:29,193 --> 00:43:30,393
+editor and I want to give an
+
+1130
+00:43:30,393 --> 00:43:33,063
+angle of I don’t know forty five
+
+1131
+00:43:33,063 --> 00:43:35,343
+degrees or fifty six degrees why not
+
+1132
+00:43:35,343 --> 00:43:37,563
+fifty six degrees and though we go
+
+1133
+00:43:37,623 --> 00:43:39,033
+it’s an angle fifty six degrees
+
+1134
+00:43:39,243 --> 00:43:41,133
+for the horseshoe shape so there we
+
+1135
+00:43:41,133 --> 00:43:43,413
+go that’s how we’re using these four
+
+1136
+00:43:43,413 --> 00:43:47,133
+different modifications to create a horseshoe shape
+
+1137
+00:43:47,193 --> 00:43:50,613
+gabion wall seating area and finally i
+
+1138
+00:43:50,643 --> 00:43:51,603
+just want to talk to you about
+
+1139
+00:43:51,603 --> 00:43:54,483
+the blocks that we have our disposal
+
+1140
+00:43:54,993 --> 00:43:57,093
+there's three different types of blocks that
+
+1141
+00:43:57,093 --> 00:43:59,193
+I’ve got those forest garden plants
+
+1142
+00:43:59,733 --> 00:44:02,193
+again you can download these zip files
+
+1143
+00:44:02,523 --> 00:44:04,323
+native wild plants this is only has
+
+1144
+00:44:04,323 --> 00:44:05,493
+a couple of plants in the moment
+
+1145
+00:44:05,493 --> 00:44:06,753
+and this project I’m gonna be working
+
+1146
+00:44:06,753 --> 00:44:08,403
+on and then garden furniture which has
+
+1147
+00:44:08,403 --> 00:44:10,413
+got some useful garden furniture in it
+
+1148
+00:44:10,413 --> 00:44:12,153
+like benches and steps and stuff like
+
+1149
+00:44:12,153 --> 00:44:14,373
+that and people so I’ll just show
+
+1150
+00:44:14,373 --> 00:44:16,773
+you forest garden plants first of all
+
+1151
+00:44:19,503 --> 00:44:20,913
+so if I click on open
+
+1152
+00:44:23,073 --> 00:44:25,833
+blocks forest garden and then that’s divided
+
+1153
+00:44:25,833 --> 00:44:27,873
+into five different sections and the forest
+
+1154
+00:44:27,873 --> 00:44:32,103
+garden plants blocks it’s incomplete but there's
+
+1155
+00:44:32,103 --> 00:44:34,113
+a spreadsheet that I have created to
+
+1156
+00:44:34,113 --> 00:44:36,183
+show the page first of all
+
+1157
+00:44:37,773 --> 00:44:39,753
+there's a spreadsheet of created forest garden
+
+1158
+00:44:39,873 --> 00:44:42,115
+a bit dot l y for such
+
+1159
+00:44:42,140 --> 00:44:44,583
+forest type and garden hyphen spreadsheet and
+
+1160
+00:44:44,583 --> 00:44:45,903
+this has a list of all the
+
+1161
+00:44:45,903 --> 00:44:48,603
+plants in this book and I’ve started
+
+1162
+00:44:48,633 --> 00:44:50,943
+to put all the pants into a
+
+1163
+00:44:50,973 --> 00:44:53,913
+blacklist so I was doing it anyway
+
+1164
+00:44:53,913 --> 00:44:55,863
+for myself but you’re more than welcome
+
+1165
+00:44:55,863 --> 00:44:57,093
+to dip in and and help them
+
+1166
+00:44:57,093 --> 00:44:57,513
+out hell
+
+1167
+00:44:57,693 --> 00:44:58,953
+how help yourself to any of the
+
+1168
+00:44:58,953 --> 00:45:00,423
+trees which are in there so i
+
+1169
+00:45:00,423 --> 00:45:03,483
+don’t know there's a critique just delay
+
+1170
+00:45:03,603 --> 00:45:07,414
+de la tata whatever that is click
+
+1171
+00:45:07,414 --> 00:45:09,723
+it out here so to yep to
+
+1172
+00:45:09,723 --> 00:45:11,223
+get a block out the show that
+
+1173
+00:45:11,223 --> 00:45:14,028
+again select the select from the list
+
+1174
+00:45:14,163 --> 00:45:15,933
+the block that you want and
+
+1175
+00:45:15,933 --> 00:45:17,493
+then click on that icon here
+
+1176
+00:45:17,673 --> 00:45:20,223
+she is insert block it gives you
+
+1177
+00:45:20,403 --> 00:45:23,163
+out here and they go broadleaf hawthorn
+
+1178
+00:45:24,153 --> 00:45:27,123
+so I’ll copy that go back to
+
+1179
+00:45:27,123 --> 00:45:27,963
+my mods
+
+1180
+00:45:29,373 --> 00:45:31,503
+paste it in now we have a
+
+1181
+00:45:31,533 --> 00:45:34,616
+broadly forth on and those yeah you’ve
+
+1182
+00:45:34,616 --> 00:45:35,883
+got quite a choice of quite a
+
+1183
+00:45:35,883 --> 00:45:38,973
+few quite a few plants there and
+
+1184
+00:45:38,973 --> 00:45:43,833
+then finally for garden furniture blocks furniture
+
+1185
+00:45:43,863 --> 00:45:46,563
+again you can download this this has
+
+1186
+00:45:46,563 --> 00:45:48,903
+got useful things like I don’t know
+
+1187
+00:45:49,203 --> 00:45:49,323
+a
+
+1188
+00:45:49,383 --> 00:45:50,133
+deck chair
+
+1189
+00:45:51,303 --> 00:45:53,043
+so you can copy and then just
+
+1190
+00:45:53,043 --> 00:45:54,785
+copy and paste it in and then
+
+1191
+00:45:54,785 --> 00:45:56,793
+we've got a forty fourth on and
+
+1192
+00:45:56,793 --> 00:45:58,263
+a deck chair how lovely is that
+
+1193
+00:45:59,793 --> 00:46:02,043
+okay thank you very much for watching
+
+1194
+00:46:02,043 --> 00:46:03,363
+see you in the next section which
+
+1195
+00:46:03,363 --> 00:46:06,003
+is about real world examples are doing
+
+1196
+00:46:06,003 --> 00:46:08,523
+a walk through applying all these techniques
+
+1197
+00:46:08,523 --> 00:46:11,463
+and using these blocks in creating two
+
+1198
+00:46:11,463 --> 00:46:12,813
+different types of gun thanks
+
+1199
+00:46:13,433 --> 00:46:15,563
+greetings and welcome to section four of
+
+1200
+00:46:15,563 --> 00:46:18,773
+my online class catfish gardeners and here
+
+1201
+00:46:18,803 --> 00:46:19,703
+I’m going to be looking at a
+
+1202
+00:46:19,703 --> 00:46:22,433
+couple of real world examples first of
+
+1203
+00:46:22,433 --> 00:46:24,593
+all like I’m looking at an average
+
+1204
+00:46:24,593 --> 00:46:27,113
+sized garden in the u k and
+
+1205
+00:46:27,113 --> 00:46:28,493
+so he gets get an idea of
+
+1206
+00:46:28,493 --> 00:46:30,983
+scale and how that compared to compares
+
+1207
+00:46:30,983 --> 00:46:32,483
+with an acre which is
+
+1208
+00:46:33,023 --> 00:46:35,483
+a kind of traditional u k area
+
+1209
+00:46:35,483 --> 00:46:37,943
+of land then I’ll be looking at
+
+1210
+00:46:37,943 --> 00:46:41,633
+using a satellite photograph a screenshot of
+
+1211
+00:46:41,633 --> 00:46:44,603
+a satellite photograph as a background for
+
+1212
+00:46:44,633 --> 00:46:47,423
+a cap plan which works better with
+
+1213
+00:46:47,423 --> 00:46:50,183
+a larger garden and then and that
+
+1214
+00:46:50,183 --> 00:46:51,833
+the actual gardens themselves and these are
+
+1215
+00:46:51,863 --> 00:46:53,153
+real clients
+
+1216
+00:46:53,183 --> 00:46:55,583
+I’ve had ones about an acre for
+
+1217
+00:46:55,583 --> 00:46:57,293
+the garden and ones at a town
+
+1218
+00:46:57,293 --> 00:47:00,443
+garden so the average garden in the
+
+1219
+00:47:00,473 --> 00:47:02,303
+uk is a hundred and eighty eight
+
+1220
+00:47:02,393 --> 00:47:05,363
+square metres apparently according to the office
+
+1221
+00:47:05,363 --> 00:47:08,602
+of national statistics in london that’s one
+
+1222
+00:47:08,602 --> 00:47:11,333
+hundred and forty square metres and that
+
+1223
+00:47:11,333 --> 00:47:13,313
+compares to an acre which is full
+
+1224
+00:47:13,313 --> 00:47:14,783
+or thousand square metres and you can
+
+1225
+00:47:14,783 --> 00:47:17,753
+see here in this image that there
+
+1226
+00:47:17,753 --> 00:47:19,763
+is the one icon the one on
+
+1227
+00:47:19,763 --> 00:47:21,173
+the left-hand side and then this garden
+
+1228
+00:47:21,173 --> 00:47:22,643
+on the right-hand side should be able
+
+1229
+00:47:22,643 --> 00:47:24,053
+to get yeah this is a screenshot
+
+1230
+00:47:24,053 --> 00:47:25,283
+that I did so you can just
+
+1231
+00:47:25,283 --> 00:47:28,223
+see you know how they compare and
+
+1232
+00:47:28,223 --> 00:47:32,273
+forest gardens do tend to be a
+
+1233
+00:47:32,273 --> 00:47:33,473
+bit on the a bit larger
+
+1234
+00:47:33,473 --> 00:47:35,063
+or than your kind of average garden
+
+1235
+00:47:35,333 --> 00:47:37,973
+mostly because they have more trees and
+
+1236
+00:47:37,973 --> 00:47:39,863
+the more people kind of think about
+
+1237
+00:47:39,863 --> 00:47:41,273
+them in that in that way but
+
+1238
+00:47:41,273 --> 00:47:43,163
+you can have a forest garden in
+
+1239
+00:47:43,223 --> 00:47:45,533
+a small garden is much more about
+
+1240
+00:47:45,533 --> 00:47:48,233
+the process and the principles than it
+
+1241
+00:47:48,263 --> 00:47:50,243
+is about the actual size of
+
+1242
+00:47:50,303 --> 00:47:52,973
+other garden so now looking at a
+
+1243
+00:47:52,973 --> 00:47:53,513
+satellite
+
+1244
+00:47:53,633 --> 00:47:55,493
+photograph this is a three d version
+
+1245
+00:47:55,493 --> 00:47:56,273
+but we’re going to use the to
+
+1246
+00:47:56,303 --> 00:47:58,763
+d plan they are three steps to
+
+1247
+00:47:58,763 --> 00:48:02,663
+using a satellite photograph as a background
+
+1248
+00:48:02,783 --> 00:48:05,097
+for your CAD plan first one is
+
+1249
+00:48:05,097 --> 00:48:08,153
+to take a screenshot then we work
+
+1250
+00:48:08,153 --> 00:48:10,403
+out the metres per pixel and then
+
+1251
+00:48:10,403 --> 00:48:13,043
+we import that imagine tcap I’ll just
+
+1252
+00:48:13,043 --> 00:48:13,793
+quickly go through
+
+1253
+00:48:13,823 --> 00:48:15,413
+that process now and I’ll be going
+
+1254
+00:48:15,413 --> 00:48:17,843
+through this again later for for both
+
+1255
+00:48:17,843 --> 00:48:20,153
+examples the first will take a screenshot
+
+1256
+00:48:20,153 --> 00:48:22,103
+make sure it’s the highest resolution possible
+
+1257
+00:48:23,213 --> 00:48:26,363
+and then be sure to include the
+
+1258
+00:48:26,363 --> 00:48:28,553
+scale in metres you can just about
+
+1259
+00:48:28,561 --> 00:48:30,383
+see that down and bottom right-hand corner
+
+1260
+00:48:31,073 --> 00:48:32,663
+and save it as a good quality
+
+1261
+00:48:32,693 --> 00:48:33,353
+jpeg
+
+1262
+00:48:34,163 --> 00:48:37,973
+then you measure the pixel length of
+
+1263
+00:48:38,003 --> 00:48:40,793
+the metre scale so zooming in here
+
+1264
+00:48:41,333 --> 00:48:43,343
+that’s five metres that scale at the
+
+1265
+00:48:43,343 --> 00:48:44,901
+bottom and you can see it’s one
+
+1266
+00:48:44,901 --> 00:48:47,423
+hundred and six eight pixels so metres
+
+1267
+00:48:47,423 --> 00:48:49,822
+per pixel five metres divided by one
+
+1268
+00:48:49,822 --> 00:48:52,126
+hundred and six pixels gives you not
+
+1269
+00:48:52,126 --> 00:48:54,113
+point not four seven body body bar
+
+1270
+00:48:54,658 --> 00:48:57,293
+metres per pixel and that is your
+
+1271
+00:48:57,593 --> 00:48:59,333
+call it image scale factor that’s how
+
+1272
+00:48:59,333 --> 00:49:00,923
+much needed to scale the image down
+
+1273
+00:49:01,253 --> 00:49:04,703
+because when you import an image into
+
+1274
+00:49:04,733 --> 00:49:07,283
+cuc and it imports out one metre
+
+1275
+00:49:07,313 --> 00:49:09,773
+per pixel whereas actually we've got northpointe
+
+1276
+00:49:09,773 --> 00:49:12,563
+not four seven metres per pixel here
+
+1277
+00:49:13,163 --> 00:49:14,273
+so that’s the reason for
+
+1278
+00:49:14,303 --> 00:49:16,073
+scaling it it’s really really important to
+
+1279
+00:49:16,073 --> 00:49:17,603
+do that otherwise all your all your
+
+1280
+00:49:17,843 --> 00:49:18,803
+measurements will be out
+
+1281
+00:49:20,483 --> 00:49:22,073
+ah then we go into queue care
+
+1282
+00:49:22,073 --> 00:49:24,983
+to file import select select all
+
+1283
+00:49:26,453 --> 00:49:28,763
+view the property the so that’s under
+
+1284
+00:49:28,763 --> 00:49:30,323
+the file menu nurses where you’re bringing
+
+1285
+00:49:30,323 --> 00:49:32,843
+in the image view the property editor
+
+1286
+00:49:34,403 --> 00:49:35,723
+which I’ve actually got locked down the
+
+1287
+00:49:35,723 --> 00:49:39,143
+right-hand side and you want to put
+
+1288
+00:49:39,143 --> 00:49:40,763
+in the width and the height factor
+
+1289
+00:49:40,763 --> 00:49:42,923
+you can see down there there's a
+
+1290
+00:49:42,923 --> 00:49:44,663
+width factor for the for the image
+
+1291
+00:49:44,663 --> 00:49:46,583
+and the height factor and an in
+
+1292
+00:49:46,583 --> 00:49:49,943
+there we enter that number nor point
+
+1293
+00:49:49,943 --> 00:49:51,683
+not for seven that’s a metre that’s
+
+1294
+00:49:51,683 --> 00:49:53,633
+the image scale factor that’s made as
+
+1295
+00:49:53,633 --> 00:49:54,113
+per pig so
+
+1296
+00:49:54,113 --> 00:49:56,963
+so yeah so enter them in there
+
+1297
+00:49:57,383 --> 00:49:58,793
+and then that image gets scaled down
+
+1298
+00:49:59,213 --> 00:50:02,813
+cope so that’s quite straightforward steps but
+
+1299
+00:50:02,813 --> 00:50:05,753
+can be really really useful having that
+
+1300
+00:50:05,753 --> 00:50:08,363
+satellite photograph in in a kaplan because
+
+1301
+00:50:08,363 --> 00:50:09,893
+it’s a really handy guide to have
+
+1302
+00:50:10,373 --> 00:50:13,133
+obviously you want to be you’ve got
+
+1303
+00:50:13,133 --> 00:50:14,273
+to be aware of this copyright issue
+
+1304
+00:50:14,310 --> 00:50:16,763
+you can’t use this commercially etc etc
+
+1305
+00:50:16,853 --> 00:50:19,433
+but this it’s handy to know how
+
+1306
+00:50:19,433 --> 00:50:21,143
+to do it okay so I’m going
+
+1307
+00:50:21,143 --> 00:50:23,933
+to jump straight over into creating the
+
+1308
+00:50:23,963 --> 00:50:27,503
+garden acre example let's jump over into
+
+1309
+00:50:27,503 --> 00:50:30,323
+keycard a quickly show you how to
+
+1310
+00:50:30,563 --> 00:50:32,783
+add a template so the first thing
+
+1311
+00:50:32,783 --> 00:50:33,651
+that we need to do is to
+
+1312
+00:50:33,651 --> 00:50:34,433
+go to my guitar
+
+1313
+00:50:34,433 --> 00:50:37,043
+web page github dot com for stash
+
+1314
+00:50:37,043 --> 00:50:40,733
+grow digital forward slash template and download
+
+1315
+00:50:40,733 --> 00:50:43,733
+that templates click on code download zip
+
+1316
+00:50:44,213 --> 00:50:46,973
+once that has finished downloading go to
+
+1317
+00:50:47,003 --> 00:50:48,233
+download folder
+
+1318
+00:50:49,703 --> 00:50:50,873
+and unzip it
+
+1319
+00:50:51,983 --> 00:50:54,533
+and there I’m going to rename it
+
+1320
+00:50:54,593 --> 00:50:57,053
+template just to keep things tidy
+
+1321
+00:50:58,223 --> 00:51:00,623
+going to cut that and I have
+
+1322
+00:51:00,623 --> 00:51:03,623
+created ah in my documents folder i
+
+1323
+00:51:03,623 --> 00:51:06,113
+have created a qr code folder and
+
+1324
+00:51:06,113 --> 00:51:07,853
+that’s why I’m gonna put my templates
+
+1325
+00:51:08,393 --> 00:51:11,303
+so paste that in there now i
+
+1326
+00:51:11,303 --> 00:51:12,923
+need to go back into coolcat
+
+1327
+00:51:14,783 --> 00:51:19,553
+and then under edit application preferences file
+
+1328
+00:51:19,853 --> 00:51:22,823
+and templates I need to add that
+
+1329
+00:51:22,823 --> 00:51:27,023
+folder so go into my documents folder
+
+1330
+00:51:28,583 --> 00:51:31,763
+into qr code into template and then
+
+1331
+00:51:31,793 --> 00:51:34,463
+choose that one click ok says you
+
+1332
+00:51:34,463 --> 00:51:36,833
+need to restart so we'll restart cute
+
+1333
+00:51:36,863 --> 00:51:37,193
+cat
+
+1334
+00:51:38,573 --> 00:51:41,513
+and now when you go file new
+
+1335
+00:51:41,513 --> 00:51:42,593
+from template
+
+1336
+00:51:43,823 --> 00:51:46,073
+you will see that you have the
+
+1337
+00:51:46,073 --> 00:51:50,213
+folder default folder here click on template
+
+1338
+00:51:50,333 --> 00:51:52,853
+create new drawing there we go and
+
+1339
+00:51:52,853 --> 00:51:56,003
+it’s got all the layers in there
+
+1340
+00:51:56,003 --> 00:51:58,133
+as well it’s gonna save that first
+
+1341
+00:51:58,133 --> 00:52:00,503
+of all into the garden acre folder
+
+1342
+00:52:00,593 --> 00:52:03,953
+safe as and
+
+1343
+00:52:04,643 --> 00:52:06,803
+where are we we’re here so call
+
+1344
+00:52:06,803 --> 00:52:09,923
+that garden life and acre and save
+
+1345
+00:52:09,923 --> 00:52:11,513
+that in the next thing i
+
+1346
+00:52:11,513 --> 00:52:12,923
+want to do is to bring in
+
+1347
+00:52:12,983 --> 00:52:16,553
+that satellite photograph so I’ve opened up
+
+1348
+00:52:16,583 --> 00:52:19,193
+in gnu image manipulation program which is
+
+1349
+00:52:19,193 --> 00:52:22,163
+like photoshop because I’m on linux i
+
+1350
+00:52:22,163 --> 00:52:23,543
+don’t have photoshop anymore
+
+1351
+00:52:24,893 --> 00:52:27,413
+use the marquee tool and I’ll select
+
+1352
+00:52:27,413 --> 00:52:30,653
+that area there and that then gives
+
+1353
+00:52:30,653 --> 00:52:32,963
+me down here guess it the size
+
+1354
+00:52:32,963 --> 00:52:34,913
+of a hundred and fourteen so that’s
+
+1355
+00:52:34,913 --> 00:52:38,093
+ten metres divided by a hundred and
+
+1356
+00:52:38,093 --> 00:52:41,753
+fourteen pixels and that’s metres per pixel
+
+1357
+00:52:41,813 --> 00:52:44,153
+so ten metres divided by hundred and
+
+1358
+00:52:44,153 --> 00:52:44,273
+four
+
+1359
+00:52:44,273 --> 00:52:47,243
+thirteen zero point zero eight seven seven
+
+1360
+00:52:47,243 --> 00:52:49,643
+one etc so I’ll just I’ll save
+
+1361
+00:52:49,643 --> 00:52:52,073
+that number and then I’ll use that
+
+1362
+00:52:52,073 --> 00:52:54,353
+number when I scaled down the image
+
+1363
+00:52:54,743 --> 00:52:57,953
+so go back into CAD go file
+
+1364
+00:52:58,673 --> 00:53:02,333
+import garden acre and satellite so bring
+
+1365
+00:53:02,333 --> 00:53:03,203
+that straight in
+
+1366
+00:53:05,603 --> 00:53:07,193
+oops okay and you can see it’s
+
+1367
+00:53:07,193 --> 00:53:09,773
+really really really really really big what
+
+1368
+00:53:09,773 --> 00:53:10,973
+i want to do is to put
+
+1369
+00:53:10,973 --> 00:53:12,893
+that into the x satellite layer says
+
+1370
+00:53:12,893 --> 00:53:13,643
+right the back
+
+1371
+00:53:14,753 --> 00:53:16,763
+but layer down the bottom here mrs
+
+1372
+00:53:16,763 --> 00:53:18,473
+like why this is the visa for
+
+1373
+00:53:18,473 --> 00:53:19,793
+having layers is that you can just
+
+1374
+00:53:19,793 --> 00:53:21,923
+put different stuff on different layers and
+
+1375
+00:53:21,923 --> 00:53:23,123
+keep it locked up and tied it
+
+1376
+00:53:23,123 --> 00:53:25,463
+away so now I need to scale
+
+1377
+00:53:25,463 --> 00:53:27,173
+this image down to the right metres
+
+1378
+00:53:27,173 --> 00:53:28,523
+per pixel is being brought in at
+
+1379
+00:53:28,523 --> 00:53:30,263
+one metre per pixel are need it
+
+1380
+00:53:30,263 --> 00:53:32,603
+to be much considerably smaller so make
+
+1381
+00:53:32,603 --> 00:53:33,653
+sure it’s selected
+
+1382
+00:53:35,333 --> 00:53:36,803
+and then I go to that whip
+
+1383
+00:53:36,813 --> 00:53:38,903
+factor and the height factor let me
+
+1384
+00:53:38,933 --> 00:53:40,253
+just pull it over here a little
+
+1385
+00:53:40,253 --> 00:53:42,593
+bit so you can see so wet
+
+1386
+00:53:42,593 --> 00:53:45,563
+factor or paste in the metres per
+
+1387
+00:53:45,563 --> 00:53:48,893
+pixel which I’ve calculated from the photoshop
+
+1388
+00:53:48,893 --> 00:53:51,923
+file and post in that number there
+
+1389
+00:53:52,013 --> 00:53:54,803
+and there we go that’s much
+
+1390
+00:53:54,833 --> 00:53:57,053
+more scale okay
+
+1391
+00:53:58,223 --> 00:54:00,713
+another handy little hint quite often when
+
+1392
+00:54:00,713 --> 00:54:02,333
+you bring in new images and new
+
+1393
+00:54:02,333 --> 00:54:04,313
+elements they'll sit on top of everything
+
+1394
+00:54:04,313 --> 00:54:07,223
+else so if you go to modify
+
+1395
+00:54:07,493 --> 00:54:09,383
+and then the draw order you can
+
+1396
+00:54:09,383 --> 00:54:10,703
+send it to the back and that
+
+1397
+00:54:10,703 --> 00:54:12,083
+means that you then get to see
+
+1398
+00:54:12,083 --> 00:54:13,703
+other bits and pieces that the legend
+
+1399
+00:54:13,733 --> 00:54:16,193
+I’ve got down here so I’ll create
+
+1400
+00:54:16,193 --> 00:54:18,353
+a template got the satellite image
+
+1401
+00:54:18,383 --> 00:54:20,033
+in and now I’m going to create
+
+1402
+00:54:20,033 --> 00:54:23,243
+the boundary so back into cue card
+
+1403
+00:54:23,873 --> 00:54:25,223
+click on the boundary layer because this
+
+1404
+00:54:25,223 --> 00:54:26,153
+is why I’m going to be drawing
+
+1405
+00:54:26,153 --> 00:54:28,253
+the boundary and this is a lovely
+
+1406
+00:54:28,253 --> 00:54:30,263
+house I just I do like it
+
+1407
+00:54:30,293 --> 00:54:32,153
+it’s it’s a nice little job
+
+1408
+00:54:34,013 --> 00:54:35,843
+wanted to do a a water garden
+
+1409
+00:54:36,203 --> 00:54:39,053
+and I’m going to use snap three
+
+1410
+00:54:39,803 --> 00:54:41,483
+yeah and then I’m using the the
+
+1411
+00:54:41,483 --> 00:54:45,743
+line tool here and snap free and
+
+1412
+00:54:45,743 --> 00:54:47,423
+then I’m going to trace an outline
+
+1413
+00:54:47,423 --> 00:54:49,253
+and it’s this field you know this
+
+1414
+00:54:49,283 --> 00:54:51,023
+you do this build here I’m going
+
+1415
+00:54:51,023 --> 00:54:52,523
+to trace an outline around it it’s
+
+1416
+00:54:52,523 --> 00:54:53,393
+not going to be particularly
+
+1417
+00:54:53,423 --> 00:54:55,913
+accurate or particularly pretty but just gives
+
+1418
+00:54:55,913 --> 00:54:57,863
+you an idea so it could be
+
+1419
+00:54:57,863 --> 00:55:00,353
+using curves for this as well it
+
+1420
+00:55:00,353 --> 00:55:01,943
+could be doing it accurately too
+
+1421
+00:55:02,993 --> 00:55:07,583
+we go and then snap auto because
+
+1422
+00:55:07,583 --> 00:55:08,933
+i want to snap onto the end
+
+1423
+00:55:08,933 --> 00:55:10,793
+of that bit there okay then we
+
+1424
+00:55:10,793 --> 00:55:12,683
+go hit escape go back to the
+
+1425
+00:55:12,683 --> 00:55:15,533
+arrow tool ah what you can do
+
+1426
+00:55:15,533 --> 00:55:17,663
+brilliantly really nice or feature you can
+
+1427
+00:55:17,663 --> 00:55:19,403
+lock layers so I’m gonna lock that
+
+1428
+00:55:19,403 --> 00:55:21,503
+satellite layer and then go back to
+
+1429
+00:55:21,503 --> 00:55:23,094
+my angela this means I don’t pick
+
+1430
+00:55:23,094 --> 00:55:23,153
+up
+
+1431
+00:55:23,153 --> 00:55:25,523
+up the satellite photo by by accident
+
+1432
+00:55:26,303 --> 00:55:28,163
+or cakes and now we've got that
+
+1433
+00:55:28,193 --> 00:55:30,113
+if I hide you click on the
+
+1434
+00:55:30,143 --> 00:55:32,213
+i it hides a layer so I’ll
+
+1435
+00:55:32,213 --> 00:55:33,863
+just hide that layer and you can
+
+1436
+00:55:33,863 --> 00:55:36,083
+see that’s the line that we've drawn
+
+1437
+00:55:36,083 --> 00:55:38,033
+around it so now
+
+1438
+00:55:39,383 --> 00:55:40,853
+if I double click on it selects
+
+1439
+00:55:40,853 --> 00:55:41,963
+it it gives you the ton of
+
+1440
+00:55:41,963 --> 00:55:44,963
+the total length here but it doesn’t
+
+1441
+00:55:44,963 --> 00:55:48,203
+give you the area so what I’m
+
+1442
+00:55:48,203 --> 00:55:49,433
+going to do some make it into
+
+1443
+00:55:49,433 --> 00:55:51,113
+a polyline she's why I showed you
+
+1444
+00:55:51,113 --> 00:55:53,213
+earlier on so double click
+
+1445
+00:55:54,623 --> 00:55:59,933
+selects all the items draw polyline polyline
+
+1446
+00:55:59,933 --> 00:56:01,253
+from soak selection
+
+1447
+00:56:03,353 --> 00:56:05,093
+and now when I click on it
+
+1448
+00:56:05,753 --> 00:56:07,613
+that gives us an area so that’s
+
+1449
+00:56:07,613 --> 00:56:10,253
+three thousand one hundred and twenty seven
+
+1450
+00:56:10,253 --> 00:56:12,233
+so basically that’s three cores of an
+
+1451
+00:56:12,233 --> 00:56:14,693
+acre which is a fair sized nice
+
+1452
+00:56:14,753 --> 00:56:15,713
+nice size com
+
+1453
+00:56:17,793 --> 00:56:19,113
+I’ll bring the satellite back so he
+
+1454
+00:56:19,116 --> 00:56:21,213
+can see so next a gonna put
+
+1455
+00:56:21,213 --> 00:56:22,203
+some pilots in
+
+1456
+00:56:23,733 --> 00:56:26,583
+and I I’ll just do this on
+
+1457
+00:56:26,583 --> 00:56:28,443
+the areas I’m just going to use
+
+1458
+00:56:28,443 --> 00:56:29,673
+a line to or nothing I’m not
+
+1459
+00:56:29,673 --> 00:56:31,383
+gonna do anything really fancy so lying
+
+1460
+00:56:31,383 --> 00:56:31,893
+tall
+
+1461
+00:56:33,243 --> 00:56:35,223
+this one here and I know that
+
+1462
+00:56:35,223 --> 00:56:38,133
+there's an entrance here are snap onto
+
+1463
+00:56:38,133 --> 00:56:40,293
+the entity said I know that it
+
+1464
+00:56:40,293 --> 00:56:42,753
+snaps archer onto that line I think
+
+1465
+00:56:42,753 --> 00:56:44,616
+the path is around about there and
+
+1466
+00:56:44,616 --> 00:56:48,453
+then I go snap auto turns off
+
+1467
+00:56:49,023 --> 00:56:51,003
+and I think they kind of want
+
+1468
+00:56:51,003 --> 00:56:52,863
+a path going around here
+
+1469
+00:56:53,553 --> 00:56:54,543
+around the top
+
+1470
+00:56:57,183 --> 00:56:59,193
+and there's another x out there so
+
+1471
+00:56:59,193 --> 00:57:02,793
+snap onto entity to snap onto their
+
+1472
+00:57:03,003 --> 00:57:03,723
+there we go
+
+1473
+00:57:04,953 --> 00:57:07,473
+we now have a path going around
+
+1474
+00:57:07,473 --> 00:57:09,213
+the edge turn off the satellite so
+
+1475
+00:57:09,213 --> 00:57:10,653
+so you can see the path what
+
+1476
+00:57:10,653 --> 00:57:13,533
+i will do is to offset their
+
+1477
+00:57:13,533 --> 00:57:14,913
+so you get much more the idea
+
+1478
+00:57:14,913 --> 00:57:16,563
+of a path so using the offset
+
+1479
+00:57:16,563 --> 00:57:18,723
+to you can draw one line for
+
+1480
+00:57:18,723 --> 00:57:20,463
+your path and then you can offset
+
+1481
+00:57:20,463 --> 00:57:23,463
+it ah both sides or one side
+
+1482
+00:57:24,063 --> 00:57:25,023
+and then it creates
+
+1483
+00:57:25,113 --> 00:57:27,423
+the path itself with the psychopath
+
+1484
+00:57:27,423 --> 00:57:28,593
+to principle in how wide you want
+
+1485
+00:57:28,593 --> 00:57:30,903
+it but if it’s about metre metres
+
+1486
+00:57:30,903 --> 00:57:33,183
+a nice big comfortable path not doubt
+
+1487
+00:57:33,183 --> 00:57:34,323
+about no point for me as a
+
+1488
+00:57:34,323 --> 00:57:35,702
+single person to walk along so it
+
+1489
+00:57:35,702 --> 00:57:36,873
+depends where the path is and how
+
+1490
+00:57:36,886 --> 00:57:41,913
+using it and so let's escape go
+
+1491
+00:57:41,913 --> 00:57:45,183
+into the modification tools and then offset
+
+1492
+00:57:45,543 --> 00:57:48,453
+and all offset not point three metres
+
+1493
+00:57:48,513 --> 00:57:50,193
+on each side or just zoom in
+
+1494
+00:57:50,913 --> 00:57:53,475
+so offset it on that side and
+
+1495
+00:57:53,493 --> 00:57:56,793
+officer to on that side okay and
+
+1496
+00:57:56,793 --> 00:57:58,983
+then I’m going to delete the middle
+
+1497
+00:57:58,983 --> 00:58:00,213
+bit and then you’ve got an eyesore
+
+1498
+00:58:00,213 --> 00:58:02,343
+path you could do this using the
+
+1499
+00:58:02,343 --> 00:58:04,503
+nerves tall as well then next up
+
+1500
+00:58:04,593 --> 00:58:05,343
+are I want to put
+
+1501
+00:58:05,373 --> 00:58:07,773
+the trees in so let's go and
+
+1502
+00:58:07,773 --> 00:58:10,833
+grab some trees from the forest garden
+
+1503
+00:58:10,833 --> 00:58:13,713
+blocks go back up here flocks forest
+
+1504
+00:58:13,713 --> 00:58:17,883
+garden canopy and let's get a selection
+
+1505
+00:58:17,883 --> 00:58:21,963
+of trees coreless capita ata cool no
+
+1506
+00:58:22,023 --> 00:58:25,023
+concept retard click that button that
+
+1507
+00:58:25,713 --> 00:58:29,403
+check that one bentham's cool cornice kusa
+
+1508
+00:58:29,523 --> 00:58:33,243
+this escape that corners kusa click on
+
+1509
+00:58:33,243 --> 00:58:36,873
+the insert block button it’s a chinese
+
+1510
+00:58:36,873 --> 00:58:39,603
+dogwood ah of got to have a
+
+1511
+00:58:39,603 --> 00:58:40,353
+hawthorn
+
+1512
+00:58:42,393 --> 00:58:44,373
+critiques shredder rana
+
+1513
+00:58:47,133 --> 00:58:49,503
+insert block blue hawthorn
+
+1514
+00:58:50,643 --> 00:58:53,133
+and then up always always always have
+
+1515
+00:58:53,133 --> 00:58:54,873
+to have a sweet chestnut actually a
+
+1516
+00:58:54,873 --> 00:58:57,633
+sweet chestnut won’t work because it’s no
+
+1517
+00:58:57,633 --> 00:58:59,703
+it’s a damp outpost which isn't on
+
+1518
+00:58:59,703 --> 00:59:00,033
+anyway
+
+1519
+00:59:00,783 --> 00:59:02,553
+let's pretend it’s not the anchor so
+
+1520
+00:59:02,592 --> 00:59:04,833
+we just don’t like heavy clay soils
+
+1521
+00:59:04,893 --> 00:59:05,733
+and I don’t know is a heavy
+
+1522
+00:59:05,733 --> 00:59:06,963
+clay soil there so it won’t do
+
+1523
+00:59:06,963 --> 00:59:08,973
+very well I’ll just cut them
+
+1524
+00:59:11,193 --> 00:59:12,843
+and I’ll go over to the tree
+
+1525
+00:59:12,843 --> 00:59:16,623
+layer in in the layers list and
+
+1526
+00:59:16,623 --> 00:59:19,803
+then paste and there we go look
+
+1527
+00:59:19,803 --> 00:59:22,023
+about fantastic and then you move the
+
+1528
+00:59:22,023 --> 00:59:23,463
+trees around so that are in the
+
+1529
+00:59:23,553 --> 00:59:26,073
+their in the right position you know
+
+1530
+00:59:26,073 --> 00:59:27,873
+they've got enough spacing and that there's
+
+1531
+00:59:27,873 --> 00:59:29,853
+enough you know there's enough spacing around
+
+1532
+00:59:29,853 --> 00:59:30,273
+between the
+
+1533
+00:59:30,333 --> 00:59:31,833
+trees and stuff like getting through to
+
+1534
+00:59:31,833 --> 00:59:34,173
+the bottom canopy floor layer
+
+1535
+00:59:36,483 --> 00:59:39,483
+um okay now I’m going to put
+
+1536
+00:59:39,513 --> 00:59:43,533
+in some hedgerows from hedges so that’s
+
+1537
+00:59:43,563 --> 00:59:44,433
+open up
+
+1538
+00:59:45,723 --> 00:59:48,483
+the shrub document from the forest garden
+
+1539
+00:59:48,483 --> 00:59:49,143
+plants
+
+1540
+00:59:51,363 --> 00:59:53,643
+and we'll have a hedge of um
+
+1541
+00:59:55,593 --> 00:59:58,563
+for the custom volker go
+
+1542
+01:00:00,457 --> 01:00:02,373
+this is a wild private really really
+
+1543
+01:00:02,373 --> 01:00:05,643
+good wildlife plant private the custom valkyrie
+
+1544
+01:00:07,713 --> 01:00:09,033
+and we go back here and paste
+
+1545
+01:00:09,033 --> 01:00:12,873
+it in and this is forms part
+
+1546
+01:00:12,903 --> 01:00:15,723
+of the different design side of things
+
+1547
+01:00:16,293 --> 01:00:19,293
+is what height when break you should
+
+1548
+01:00:19,293 --> 01:00:20,643
+have so on the north side you
+
+1549
+01:00:20,643 --> 01:00:22,563
+can see down here you’ve got north
+
+1550
+01:00:22,683 --> 01:00:24,543
+east west and south on the north
+
+1551
+01:00:24,543 --> 01:00:26,493
+side you want the tallest when breaks
+
+1552
+01:00:27,063 --> 01:00:30,093
+along their and that and also because
+
+1553
+01:00:30,093 --> 01:00:31,743
+that is a road there as well
+
+1554
+01:00:31,983 --> 01:00:34,203
+you want a big tool I would
+
+1555
+01:00:34,203 --> 01:00:36,903
+have put a double thickness windbreak along
+
+1556
+01:00:36,903 --> 01:00:38,073
+there you’re not going to lose any
+
+1557
+01:00:38,073 --> 01:00:40,263
+light you get much more protection and
+
+1558
+01:00:40,263 --> 01:00:42,363
+you make it thick and right cut
+
+1559
+01:00:42,363 --> 01:00:44,253
+down on the amount of road noise
+
+1560
+01:00:44,253 --> 01:00:46,863
+that you get so lukashenko gary is
+
+1561
+01:00:47,103 --> 01:00:48,873
+I’m actually not that tall so i
+
+1562
+01:00:48,873 --> 01:00:51,393
+wouldn't have a one point five metres
+
+1563
+01:00:51,393 --> 01:00:52,353
+i thought would be bigger than that
+
+1564
+01:00:52,353 --> 01:00:54,753
+to one point five to two metres
+
+1565
+01:00:56,553 --> 01:00:57,903
+so that’s a kind of hedge you'd
+
+1566
+01:00:57,903 --> 01:00:59,703
+have on the south side so the
+
+1567
+01:00:59,703 --> 01:01:02,583
+most valuable sunlight comes from the south
+
+1568
+01:01:02,613 --> 01:01:05,043
+and the west that the heirs
+
+1569
+01:01:05,043 --> 01:01:06,303
+had a time to warm up in
+
+1570
+01:01:06,303 --> 01:01:08,523
+the afternoon so that’s the afternoon
+
+1571
+01:01:08,523 --> 01:01:11,313
+sunlight is more valuable there's more photosynthesis
+
+1572
+01:01:11,313 --> 01:01:12,693
+apparently than in the than in the
+
+1573
+01:01:12,693 --> 01:01:14,523
+morning want to put them onto the
+
+1574
+01:01:14,523 --> 01:01:16,083
+shrub layer sir
+
+1575
+01:01:16,143 --> 01:01:16,923
+but one there
+
+1576
+01:01:18,153 --> 01:01:19,443
+and then one there
+
+1577
+01:01:22,263 --> 01:01:22,983
+okay
+
+1578
+01:01:28,473 --> 01:01:30,213
+and then to make it a windbreak
+
+1579
+01:01:30,213 --> 01:01:32,073
+hedge or the I do
+
+1580
+01:01:34,263 --> 01:01:35,523
+three metres diameter
+
+1581
+01:01:36,633 --> 01:01:38,013
+all that I’m gonna do now is
+
+1582
+01:01:38,013 --> 01:01:41,343
+to draw a line between them night
+
+1583
+01:01:41,343 --> 01:01:42,903
+in the scent the central points it
+
+1584
+01:01:42,903 --> 01:01:45,153
+should automatically snap to the reference point
+
+1585
+01:01:45,153 --> 01:01:45,993
+which is in the middle
+
+1586
+01:01:47,343 --> 01:01:51,811
+from one to the other escape and
+
+1587
+01:01:51,811 --> 01:01:53,103
+now I’m going to use the offset
+
+1588
+01:01:53,103 --> 01:01:54,993
+tool to put the two sides of
+
+1589
+01:01:54,993 --> 01:01:56,973
+the hedge on so the same same
+
+1590
+01:01:56,973 --> 01:01:59,013
+kind of principle as creating a path
+
+1591
+01:01:59,283 --> 01:02:03,063
+so modification tools offset tall and i
+
+1592
+01:02:03,063 --> 01:02:05,223
+know that the width of the privet
+
+1593
+01:02:05,223 --> 01:02:07,263
+hedge will be three metres diameter
+
+1594
+01:02:07,263 --> 01:02:09,693
+after three metres width so it’s one
+
+1595
+01:02:09,693 --> 01:02:11,643
+point five metres for one side one
+
+1596
+01:02:11,643 --> 01:02:13,353
+point five metres for the other side
+
+1597
+01:02:14,343 --> 01:02:16,233
+so a distance one point five
+
+1598
+01:02:18,903 --> 01:02:20,523
+bump that one bump
+
+1599
+01:02:22,443 --> 01:02:23,943
+the hit set the middle one now
+
+1600
+01:02:23,943 --> 01:02:25,563
+you go we now have
+
+1601
+01:02:26,763 --> 01:02:28,113
+a wind break and then I would
+
+1602
+01:02:28,113 --> 01:02:30,753
+do when breaks around the around the
+
+1603
+01:02:30,753 --> 01:02:32,883
+edges a big part of the design
+
+1604
+01:02:32,913 --> 01:02:35,133
+is figuring out how the different areas
+
+1605
+01:02:35,133 --> 01:02:37,173
+are going to be used and a
+
+1606
+01:02:37,173 --> 01:02:38,853
+fundamental element in that design which i
+
+1607
+01:02:38,883 --> 01:02:43,293
+cover my design class is creating ah
+
+1608
+01:02:43,323 --> 01:02:45,783
+the areas through the use of paths
+
+1609
+01:02:45,813 --> 01:02:46,863
+so you create the
+
+1610
+01:02:46,893 --> 01:02:48,963
+pass first you create the structure of
+
+1611
+01:02:48,963 --> 01:02:51,093
+the garden first of all and then
+
+1612
+01:02:51,093 --> 01:02:52,983
+you can bring in the different planting
+
+1613
+01:02:52,983 --> 01:02:54,543
+around and the features around that
+
+1614
+01:02:55,983 --> 01:02:58,413
+ah okay so what I would do
+
+1615
+01:02:59,163 --> 01:03:01,023
+after this I would I would create
+
+1616
+01:03:01,083 --> 01:03:02,973
+different windbreaks all the way around so
+
+1617
+01:03:02,973 --> 01:03:04,263
+you would always want to have kind
+
+1618
+01:03:04,263 --> 01:03:06,453
+of windbreaks surrounding your garden to reduce
+
+1619
+01:03:06,453 --> 01:03:08,493
+the amount of tablets particularly and with
+
+1620
+01:03:08,493 --> 01:03:10,923
+the climate emergency because there's going to
+
+1621
+01:03:10,923 --> 01:03:12,603
+be more more extreme weather events
+
+1622
+01:03:14,013 --> 01:03:15,423
+we go and that’s that that’s that
+
+1623
+01:03:15,423 --> 01:03:18,333
+one done and now onto creating the
+
+1624
+01:03:18,363 --> 01:03:19,653
+garden town
+
+1625
+01:03:20,943 --> 01:03:22,593
+so as I said before the satellite
+
+1626
+01:03:22,593 --> 01:03:24,183
+rarely is just a rough guide I’ll
+
+1627
+01:03:24,183 --> 01:03:26,043
+ditch from the satellite now but what
+
+1628
+01:03:26,043 --> 01:03:27,123
+you want to be doing is creating
+
+1629
+01:03:27,123 --> 01:03:28,833
+your plan from actual measurements on the
+
+1630
+01:03:28,833 --> 01:03:31,743
+ground and just get general information from
+
+1631
+01:03:31,743 --> 01:03:33,303
+the maps okay so this is what
+
+1632
+01:03:33,303 --> 01:03:35,013
+we’re going to be doing so let's
+
+1633
+01:03:35,013 --> 01:03:37,443
+go and create a new file save
+
+1634
+01:03:37,443 --> 01:03:39,303
+that one create a new far from
+
+1635
+01:03:39,303 --> 01:03:40,173
+template
+
+1636
+01:03:41,973 --> 01:03:43,563
+I’m not going to save that as
+
+1637
+01:03:43,593 --> 01:03:47,523
+garden town okay go up level garden
+
+1638
+01:03:47,523 --> 01:03:49,953
+town and this is garden town garden
+
+1639
+01:03:49,953 --> 01:03:50,943
+hyphen town
+
+1640
+01:03:52,953 --> 01:03:55,923
+right stuff guy then go over to
+
+1641
+01:03:55,953 --> 01:03:59,673
+my mini image bitmap editor zoom down
+
+1642
+01:03:59,673 --> 01:04:00,213
+here
+
+1643
+01:04:01,533 --> 01:04:05,523
+these rectangular marquee tool and select that
+
+1644
+01:04:07,743 --> 01:04:09,003
+and you can see that the width
+
+1645
+01:04:09,003 --> 01:04:10,593
+the marquis is a hundred and ten
+
+1646
+01:04:10,593 --> 01:04:14,163
+pixels so that is five metres and
+
+1647
+01:04:14,163 --> 01:04:15,843
+a hundred and ten pixels that’s five
+
+1648
+01:04:15,873 --> 01:04:18,423
+divided by one hundred and ten gives
+
+1649
+01:04:18,423 --> 01:04:20,703
+you a metres per pixel so
+
+1650
+01:04:22,413 --> 01:04:24,993
+five divided by one hundred and ten
+
+1651
+01:04:25,383 --> 01:04:26,103
+gives you that
+
+1652
+01:04:27,243 --> 01:04:30,603
+lovely and now go back into keycard
+
+1653
+01:04:31,233 --> 01:04:37,983
+select the satellite layer file import and
+
+1654
+01:04:38,733 --> 01:04:39,633
+it’s going to make me go all
+
+1655
+01:04:39,633 --> 01:04:41,043
+the way back obviously
+
+1656
+01:04:42,363 --> 01:04:44,943
+examples garden town satellite
+
+1657
+01:04:46,743 --> 01:04:47,523
+of that in there
+
+1658
+01:04:49,323 --> 01:04:52,233
+see really really really big is that
+
+1659
+01:04:52,233 --> 01:04:54,693
+select it and then the width factor
+
+1660
+01:04:55,263 --> 01:04:56,823
+whoops I’ll just pop up here for
+
+1661
+01:04:56,823 --> 01:04:57,003
+you
+
+1662
+01:04:58,623 --> 01:05:01,023
+that’s the wick factor here sir paste
+
+1663
+01:05:01,023 --> 01:05:02,553
+in that value which is the metres
+
+1664
+01:05:02,553 --> 01:05:04,443
+per pixel taste that value in there
+
+1665
+01:05:05,253 --> 01:05:07,143
+and need to see shrinks right the
+
+1666
+01:05:07,143 --> 01:05:09,963
+way down we spent a and now
+
+1667
+01:05:09,993 --> 01:05:12,183
+it’s to scale and then just to
+
+1668
+01:05:12,183 --> 01:05:13,293
+get it can you see
+
+1669
+01:05:14,703 --> 01:05:20,163
+modify draw order center back and then
+
+1670
+01:05:20,163 --> 01:05:21,393
+you can see that you can see
+
+1671
+01:05:21,393 --> 01:05:21,573
+the
+
+1672
+01:05:23,493 --> 01:05:26,433
+compass the legendary as well lovely a
+
+1673
+01:05:26,433 --> 01:05:27,393
+lot that layer
+
+1674
+01:05:29,013 --> 01:05:31,293
+so this is a friend's garden in
+
+1675
+01:05:31,503 --> 01:05:33,753
+north london or worked on a few
+
+1676
+01:05:33,753 --> 01:05:34,473
+years ago now
+
+1677
+01:05:36,243 --> 01:05:37,893
+okay I would pop the product property
+
+1678
+01:05:37,923 --> 01:05:38,643
+editor there
+
+1679
+01:05:39,873 --> 01:05:41,163
+this this one so I’m just gonna
+
+1680
+01:05:41,171 --> 01:05:44,283
+do this rarely rarely rarely basically so
+
+1681
+01:05:44,343 --> 01:05:45,783
+start off to the boundary
+
+1682
+01:05:46,893 --> 01:05:48,573
+so select the boundary layer
+
+1683
+01:05:49,743 --> 01:05:52,203
+pick on the line tool this one
+
+1684
+01:05:52,203 --> 01:05:53,823
+that the only one I ever use
+
+1685
+01:05:53,823 --> 01:05:58,023
+ally and then would just click click
+
+1686
+01:05:58,953 --> 01:05:59,673
+click
+
+1687
+01:06:00,783 --> 01:06:01,383
+click
+
+1688
+01:06:02,493 --> 01:06:05,493
+click and that’s it double click it
+
+1689
+01:06:05,523 --> 01:06:06,393
+and you can see if I just
+
+1690
+01:06:06,393 --> 01:06:09,470
+turn off the satellite that’s it’s it’s
+
+1691
+01:06:09,633 --> 01:06:11,913
+bit rough and ready double click it
+
+1692
+01:06:12,333 --> 01:06:15,153
+and then we'll turn that into a
+
+1693
+01:06:15,183 --> 01:06:16,803
+polyline and then we can see
+
+1694
+01:06:18,551 --> 01:06:20,468
+draw polygon from selection
+
+1695
+01:06:21,818 --> 01:06:24,368
+and that gives me an area of
+
+1696
+01:06:24,368 --> 01:06:27,338
+a hundred and two metres so that’s
+
+1697
+01:06:27,338 --> 01:06:28,778
+how big that’s how big the garden
+
+1698
+01:06:28,778 --> 01:06:30,098
+is so it’s a bit under the
+
+1699
+01:06:30,368 --> 01:06:32,858
+average average for a u k london
+
+1700
+01:06:32,858 --> 01:06:35,858
+garden is a hundred and forty square
+
+1701
+01:06:35,858 --> 01:06:37,928
+metres and this comes in at just
+
+1702
+01:06:37,988 --> 01:06:39,998
+one hundred under scarmeas
+
+1703
+01:06:41,048 --> 01:06:43,688
+okay so then what I would do
+
+1704
+01:06:43,718 --> 01:06:45,368
+is to put the path in
+
+1705
+01:06:46,898 --> 01:06:47,918
+in areas
+
+1706
+01:06:48,998 --> 01:06:50,348
+and this is where sometimes you want
+
+1707
+01:06:50,348 --> 01:06:51,636
+to change the color of your layers
+
+1708
+01:06:51,636 --> 01:06:52,958
+so you can actually see what’s going
+
+1709
+01:06:52,958 --> 01:06:54,068
+on as you can see from this
+
+1710
+01:06:54,068 --> 01:06:55,208
+you can you can hardly have you
+
+1711
+01:06:55,208 --> 01:06:57,338
+can’t actually see the red on that
+
+1712
+01:06:57,338 --> 01:06:59,438
+boundary on this particular image so this
+
+1713
+01:06:59,438 --> 01:07:01,238
+is where you would play around with
+
+1714
+01:07:01,238 --> 01:07:03,788
+different colors so we'll get there on
+
+1715
+01:07:03,818 --> 01:07:05,378
+the kitchen doors around about here
+
+1716
+01:07:05,378 --> 01:07:05,858
+somewhere
+
+1717
+01:07:07,268 --> 01:07:08,498
+and so are we want a new
+
+1718
+01:07:08,498 --> 01:07:10,298
+path and that path goes up to
+
+1719
+01:07:10,298 --> 01:07:12,428
+here up to the shed
+
+1720
+01:07:14,588 --> 01:07:15,128
+okay
+
+1721
+01:07:16,778 --> 01:07:18,788
+ah it’s just turn off that satellite
+
+1722
+01:07:18,788 --> 01:07:19,718
+so you can see what’s going on
+
+1723
+01:07:19,718 --> 01:07:20,768
+so that’s my path
+
+1724
+01:07:23,048 --> 01:07:24,338
+make it into a polyline so it’s
+
+1725
+01:07:24,338 --> 01:07:27,638
+easier to use so draw polyline polygon
+
+1726
+01:07:27,638 --> 01:07:30,488
+from selection and that it’s sex as
+
+1727
+01:07:30,488 --> 01:07:30,908
+a group
+
+1728
+01:07:33,218 --> 01:07:33,728
+and then
+
+1729
+01:07:35,708 --> 01:07:37,028
+oh let's go and put the the
+
+1730
+01:07:37,028 --> 01:07:38,588
+shed in as a shed down here
+
+1731
+01:07:38,588 --> 01:07:41,318
+in the bottom left-hand corner so
+
+1732
+01:07:42,698 --> 01:07:45,788
+I’ll go into mashiach tools and I’ll
+
+1733
+01:07:45,788 --> 01:07:47,228
+just draw it freehand
+
+1734
+01:07:48,908 --> 01:07:52,598
+so snap three seven snapped and it
+
+1735
+01:07:52,598 --> 01:07:55,298
+doesn’t snap onto anything else
+
+1736
+01:07:56,565 --> 01:08:00,218
+I’ll do that there we go I’ve
+
+1737
+01:08:00,248 --> 01:08:02,198
+gone and drawn it into the into
+
+1738
+01:08:02,198 --> 01:08:04,718
+the areas layer so
+
+1739
+01:08:05,768 --> 01:08:07,208
+how you move it in the property
+
+1740
+01:08:07,208 --> 01:08:09,908
+editor is to select the thing
+
+1741
+01:08:09,908 --> 01:08:11,828
+that you want to move and then
+
+1742
+01:08:12,278 --> 01:08:13,028
+change the
+
+1743
+01:08:14,138 --> 01:08:15,458
+change the layer that it said i
+
+1744
+01:08:15,458 --> 01:08:16,718
+want to get put into the structures
+
+1745
+01:08:16,718 --> 01:08:18,187
+layer and they will see it will
+
+1746
+01:08:18,187 --> 01:08:20,438
+automatically change color down here we just
+
+1747
+01:08:20,438 --> 01:08:21,787
+turn off the satellite so you can
+
+1748
+01:08:21,787 --> 01:08:24,908
+see okay double click it or turn
+
+1749
+01:08:24,935 --> 01:08:27,608
+into a block actually create block from
+
+1750
+01:08:27,608 --> 01:08:28,298
+selection
+
+1751
+01:08:30,667 --> 01:08:31,808
+okay I’m not going to call that
+
+1752
+01:08:32,108 --> 01:08:33,667
+shed and then you'll see
+
+1753
+01:08:37,388 --> 01:08:40,298
+the shed will appear here in the
+
+1754
+01:08:40,298 --> 01:08:41,917
+block list okay
+
+1755
+01:08:45,398 --> 01:08:47,587
+and then it’s the same principle now
+
+1756
+01:08:47,587 --> 01:08:49,988
+as well for putting in trees and
+
+1757
+01:08:50,018 --> 01:08:52,718
+shrubs ah I um got my forest
+
+1758
+01:08:52,718 --> 01:08:55,058
+garden plants blocks here I’ll put a
+
+1759
+01:08:55,087 --> 01:08:58,627
+hazel down here coils atlanta so the
+
+1760
+01:08:58,658 --> 01:09:00,908
+big the big names common name and
+
+1761
+01:09:00,908 --> 01:09:03,098
+then the botanical names underneath
+
+1762
+01:09:03,848 --> 01:09:05,408
+and the botanical names in the is
+
+1763
+01:09:05,408 --> 01:09:07,187
+in the list and the loyalist service
+
+1764
+01:09:07,187 --> 01:09:07,957
+was cut that
+
+1765
+01:09:09,188 --> 01:09:11,948
+oh over to the garden town go
+
+1766
+01:09:11,948 --> 01:09:12,908
+to shop
+
+1767
+01:09:14,978 --> 01:09:17,348
+paste it in there wow much much
+
+1768
+01:09:17,348 --> 01:09:20,348
+bigger it’s a town garden so the
+
+1769
+01:09:21,098 --> 01:09:23,707
+traits obviously much larger size so there
+
+1770
+01:09:23,707 --> 01:09:24,667
+we go and then you can do
+
+1771
+01:09:24,667 --> 01:09:27,488
+that with individual beds with the paths
+
+1772
+01:09:27,638 --> 01:09:30,308
+putting plants in putting different features in
+
+1773
+01:09:30,997 --> 01:09:34,268
+so greenhouses patios or that kind of
+
+1774
+01:09:34,298 --> 01:09:36,068
+stuff then you start to build up
+
+1775
+01:09:36,098 --> 01:09:37,747
+the desire for the garden but as
+
+1776
+01:09:37,747 --> 01:09:40,058
+i said before the most important thing
+
+1777
+01:09:40,058 --> 01:09:42,428
+when you’re creating these designs is to
+
+1778
+01:09:42,428 --> 01:09:45,848
+get the spacing right between the between
+
+1779
+01:09:45,848 --> 01:09:47,618
+the trees make sure that they've got
+
+1780
+01:09:47,707 --> 01:09:49,417
+the paths in the right place
+
+1781
+01:09:49,478 --> 01:09:51,787
+so getting the structure in the the
+
+1782
+01:09:51,818 --> 01:09:54,278
+smaller planting is much much easier to
+
+1783
+01:09:54,278 --> 01:09:54,458
+do
+
+1784
+01:09:54,458 --> 01:09:56,108
+do on site so you don’t have
+
+1785
+01:09:56,108 --> 01:09:57,788
+to be so kind of precise about
+
+1786
+01:09:57,788 --> 01:09:59,888
+the about the designs for them but
+
+1787
+01:09:59,888 --> 01:10:01,838
+it’s really really important to get the
+
+1788
+01:10:01,838 --> 01:10:03,908
+trees and the paths and the main
+
+1789
+01:10:03,908 --> 01:10:06,668
+structures in place first not brings us
+
+1790
+01:10:06,668 --> 01:10:09,248
+to a close and whatever also have
+
+1791
+01:10:10,298 --> 01:10:13,598
+a whole load of resources so there's
+
+1792
+01:10:13,628 --> 01:10:15,668
+the link for downloading q CAD they've
+
+1793
+01:10:15,668 --> 01:10:17,468
+got the CAD files for this class
+
+1794
+01:10:18,428 --> 01:10:21,668
+that I’ve also created a public telegram
+
+1795
+01:10:21,668 --> 01:10:24,038
+group called garden wild edible which goes
+
+1796
+01:10:24,038 --> 01:10:25,928
+along with these classes and that’s a
+
+1797
+01:10:25,928 --> 01:10:27,488
+space if you want to ask any
+
+1798
+01:10:27,488 --> 01:10:30,428
+questions then feel free to join
+
+1799
+01:10:30,488 --> 01:10:31,718
+and then ask questions if you’ve got
+
+1800
+01:10:31,718 --> 01:10:34,418
+any questions about q CAD kind of
+
+1801
+01:10:34,448 --> 01:10:36,338
+technical stuff then there's a qr code
+
+1802
+01:10:36,338 --> 01:10:38,948
+link to acat forum there's my template
+
+1803
+01:10:38,948 --> 01:10:42,398
+my delicious CAD template file that not
+
+1804
+01:10:42,398 --> 01:10:44,798
+native plants spreadsheet which I haven't shown
+
+1805
+01:10:44,798 --> 01:10:45,938
+you which I ought to show you
+
+1806
+01:10:46,238 --> 01:10:50,108
+and the forest garden spreadsheet and these
+
+1807
+01:10:50,108 --> 01:10:50,618
+are i
+
+1808
+01:10:50,618 --> 01:10:52,478
+i will be using these more in
+
+1809
+01:10:52,478 --> 01:10:54,878
+the in the design section of the
+
+1810
+01:10:54,878 --> 01:10:57,668
+classes so the garden wild spreadsheet is
+
+1811
+01:10:57,668 --> 01:11:00,308
+a list of native plants it’s flowers
+
+1812
+01:11:00,308 --> 01:11:02,048
+just at the moment I’ve got space
+
+1813
+01:11:02,048 --> 01:11:06,068
+for other native forms but the forest
+
+1814
+01:11:06,098 --> 01:11:07,838
+garden spreadsheet is a list of the
+
+1815
+01:11:08,018 --> 01:11:09,368
+all the first garden plants and martin
+
+1816
+01:11:09,368 --> 01:11:10,628
+crawford's book as well so
+
+1817
+01:11:10,778 --> 01:11:13,358
+those nodes of information there and then
+
+1818
+01:11:13,358 --> 01:11:15,128
+you’ve got my CAD blocks to that
+
+1819
+01:11:15,128 --> 01:11:16,958
+draws us to an end I hope
+
+1820
+01:11:16,958 --> 01:11:18,908
+that’s useful if you do want to
+
+1821
+01:11:18,908 --> 01:11:20,378
+get in touch with me my email
+
+1822
+01:11:20,378 --> 01:11:22,178
+address is here hello at natureworks to
+
+1823
+01:11:22,178 --> 01:11:23,618
+org dot u k and you can
+
+1824
+01:11:23,618 --> 01:11:25,268
+sign up for my newsletter as well
+
+1825
+01:11:25,598 --> 01:11:27,038
+thank you very much see you again
+
+1826
+01:11:27,038 --> 01:11:27,878
+soon tears by
+
