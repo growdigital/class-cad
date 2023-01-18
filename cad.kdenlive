@@ -3134,8 +3134,8 @@
   <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.proxyresize">640</property>
   <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
-  <property name="kdenlive:docproperties.rendercustomquality">100</property>
-  <property name="kdenlive:docproperties.renderendguide">3</property>
+  <property name="kdenlive:docproperties.rendercustomquality">91</property>
+  <property name="kdenlive:docproperties.renderendguide">7</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.rendermode">2</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
@@ -3145,8 +3145,8 @@
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">360</property>
   <property name="kdenlive:docproperties.renderrescalewidth">640</property>
-  <property name="kdenlive:docproperties.renderspeed">6</property>
-  <property name="kdenlive:docproperties.renderstartguide">3</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
+  <property name="kdenlive:docproperties.renderstartguide">7</property>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
