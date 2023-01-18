@@ -3021,7 +3021,7 @@
   <property name="kdenlive:folder.-1.31">04 Examples</property>
   <property name="kdenlive:folder.-1.32">Titles</property>
   <property name="kdenlive:folder.-1.33">Images</property>
-  <property name="kdenlive:docproperties.activeTrack">6</property>
+  <property name="kdenlive:docproperties.activeTrack">3</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.compositing">1</property>
@@ -3038,18 +3038,8 @@
 </property>
   <property name="kdenlive:docproperties.guides">[
     {
-        "comment": "Echo start",
-        "pos": 1997,
-        "type": 8
-    },
-    {
-        "comment": "Echo end",
-        "pos": 2236,
-        "type": 8
-    },
-    {
-        "comment": "04 Examples",
-        "pos": 83185,
+        "comment": "02 Setup",
+        "pos": 25217,
         "type": 0
     },
     {
@@ -3058,8 +3048,8 @@
         "type": 0
     },
     {
-        "comment": "02 Setup",
-        "pos": 25217,
+        "comment": "04 Examples",
+        "pos": 83185,
         "type": 0
     }
 ]
@@ -3113,7 +3103,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">22.12.1</property>
-  <property name="kdenlive:docproperties.position">11296</property>
+  <property name="kdenlive:docproperties.position">0</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_720p_30</property>
@@ -3124,7 +3114,7 @@
   <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.proxyresize">640</property>
   <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
-  <property name="kdenlive:docproperties.rendercustomquality">100</property>
+  <property name="kdenlive:docproperties.rendercustomquality">97</property>
   <property name="kdenlive:docproperties.renderendguide">3</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.rendermode">2</property>
@@ -3135,20 +3125,20 @@
   <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">360</property>
   <property name="kdenlive:docproperties.renderrescalewidth">640</property>
-  <property name="kdenlive:docproperties.renderspeed">6</property>
+  <property name="kdenlive:docproperties.renderspeed">0</property>
   <property name="kdenlive:docproperties.renderstartguide">3</property>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">output/04-examples.mp4</property>
-  <property name="kdenlive:docproperties.scrollPos">30400</property>
+  <property name="kdenlive:docproperties.renderurl">output/04-cad-examples.mp4</property>
+  <property name="kdenlive:docproperties.scrollPos">0</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">-1</property>
-  <property name="kdenlive:docproperties.zonein">1997</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">25217</property>
-  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:docproperties.zoom">15</property>
   <property name="kdenlive:docmetadata.meta.attr.author.markup">Jake Rayson</property>
   <property name="kdenlive:docmetadata.meta.attr.copyright.markup">Nature Works</property>
   <property name="kdenlive:docmetadata.meta.attr.title.markup">CAD for Gardeners</property>
@@ -4981,7 +4971,7 @@
  <playlist id="playlist7"/>
  <tractor id="tractor3" in="00:00:00.000" out="01:10:58.500">
   <property name="kdenlive:trackheight">67</property>
-  <property name="kdenlive:timeline_active">0</property>
+  <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:track_name">Desktop</property>
   <property name="kdenlive:thumbs_format"/>
@@ -9502,7 +9492,7 @@
    <property name="mlt_service">avfilter.subtitles</property>
    <property name="internal_added">237</property>
    <property name="av.filename">/var/tmp/1673512599751.srt</property>
-   <property name="disable">0</property>
+   <property name="disable">1</property>
    <property name="kdenlive:locked">0</property>
   </filter>
  </tractor>
