@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt LC_NUMERIC="C" producer="main_bin" version="7.13.0" root="/media/jaker/Pterosaur/Videos/Class/CAD">
+<mlt LC_NUMERIC="C" producer="main_bin" version="7.13.0" root="/media/jaker/Pterosaur/Videos/Class/CAD/subtitles">
  <profile frame_rate_num="30" sample_aspect_num="1" display_aspect_den="9" colorspace="709" progressive="1" description="HD 720p 30 fps" display_aspect_num="16" frame_rate_den="1" width="1280" height="720" sample_aspect_den="1"/>
  <producer id="producer0" in="00:00:00.000" out="00:24:20.733">
   <property name="length">43823</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/01 CAD audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/01 CAD audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -60,7 +60,7 @@
  <producer id="producer2" in="00:00:00.000" out="00:24:21.033">
   <property name="length">43832</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/01 CAD Desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/01 CAD Desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -116,7 +116,7 @@
  <producer id="producer1" in="00:00:00.000" out="00:24:21.167">
   <property name="length">43836</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/01 CAD facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/01 CAD facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -172,7 +172,7 @@
  <producer id="producer3" in="00:00:00.000" out="00:09:14.400">
   <property name="length">16633</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/02 Setup audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/02 Setup audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -228,7 +228,7 @@
  <producer id="producer4" in="00:00:00.000" out="00:09:14.133">
   <property name="length">16625</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/02 Setup Desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/02 Setup Desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -284,7 +284,7 @@
  <producer id="producer5" in="00:00:00.000" out="00:09:14.967">
   <property name="length">16650</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/02 Setup facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/02 Setup facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -340,7 +340,7 @@
  <producer id="producer6" in="00:00:00.000" out="00:08:18.800">
   <property name="length">14965</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.0 examples audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.0 examples audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -396,7 +396,7 @@
  <producer id="producer8" in="00:00:00.000" out="00:08:19.067">
   <property name="length">14973</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.0 examples desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.0 examples desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -452,7 +452,7 @@
  <producer id="producer7" in="00:00:00.000" out="00:08:19.267">
   <property name="length">14979</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.0 examples facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.0 examples facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -508,7 +508,7 @@
  <producer id="producer9" in="00:00:00.000" out="00:14:21.900">
   <property name="length">25858</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.1 example garden acre audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.1 example garden acre audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -564,7 +564,7 @@
  <producer id="producer11" in="00:00:00.000" out="00:14:22.033">
   <property name="length">25862</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.1 example garden acre Desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.1 example garden acre Desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -620,7 +620,7 @@
  <producer id="producer10" in="00:00:00.000" out="00:14:22.433">
   <property name="length">25874</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.1 example garden acre facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.1 example garden acre facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -676,7 +676,7 @@
  <producer id="producer12" in="00:00:00.000" out="00:10:10.967">
   <property name="length">18330</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.2 example garden town audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.2 example garden town audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -732,7 +732,7 @@
  <producer id="producer14" in="00:00:00.000" out="00:10:03.700">
   <property name="length">18112</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.2 example garden town Desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.2 example garden town Desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -788,7 +788,7 @@
  <producer id="producer13" in="00:00:00.000" out="00:10:14.800">
   <property name="length">18445</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.2 example garden town facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.2 example garden town facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -844,7 +844,7 @@
  <producer id="producer16" in="00:00:00.000" out="00:33:34.467">
   <property name="length">60435</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/03.0 Shapes audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/03.0 Shapes audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -900,7 +900,7 @@
  <producer id="producer15" in="00:00:00.000" out="00:33:34.267">
   <property name="length">60429</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/03.0 Shapes desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/03.0 Shapes desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -956,7 +956,7 @@
  <producer id="producer17" in="00:00:00.000" out="00:33:35.200">
   <property name="length">60457</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/03.0 Shapes facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/03.0 Shapes facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -1012,7 +1012,7 @@
  <producer id="producer19" in="00:00:00.000" out="00:00:05.433">
   <property name="length">164</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/03.01 Shapes audio extra.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/03.01 Shapes audio extra.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -1068,7 +1068,7 @@
  <producer id="producer20" in="00:00:00.000" out="00:00:05.800">
   <property name="length">175</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/03.01 Shapes desktop extra.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/03.01 Shapes desktop extra.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -1123,7 +1123,7 @@
  <producer id="producer18" in="00:00:00.000" out="00:00:05.833">
   <property name="length">176</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/03.01 Shapes facecam extra.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/03.01 Shapes facecam extra.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -1359,7 +1359,7 @@
  <producer id="producer26" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
-  <property name="resource">images/01 CAD frame 5. Document.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/01 CAD frame 5. Document.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1595,7 +1595,7 @@
  <producer id="producer61" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
-  <property name="resource">images/03.00 escape key.jpg</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/03.00 escape key.jpg</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1610,7 +1610,7 @@
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">41</property>
   <property name="kdenlive:file_size">193168</property>
-  <property name="kdenlive:originalurl">images/03.00 escape key.jpg</property>
+  <property name="kdenlive:originalurl">/media/jaker/Pterosaur/Videos/Class/CAD/images/03.00 escape key.jpg</property>
   <property name="kdenlive:proxy">-</property>
   <property name="kdenlive:file_hash">49c4affb5f0431229534119e41d6e372</property>
  </producer>
@@ -1691,7 +1691,7 @@
  <producer id="producer36" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
-  <property name="resource">images/03.01 shapes rectangle.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/03.01 shapes rectangle.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1711,7 +1711,7 @@
  <producer id="producer37" in="00:00:00.000" out="00:00:09.700">
   <property name="length">292</property>
   <property name="eof">pause</property>
-  <property name="resource">images/03.01 shapes rectangle with size.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/03.01 shapes rectangle with size.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1731,7 +1731,7 @@
  <producer id="producer38" in="00:00:00.000" out="00:00:19.600">
   <property name="length">589</property>
   <property name="eof">pause</property>
-  <property name="resource">images/03.02 shapes line tool.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/03.02 shapes line tool.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1751,7 +1751,7 @@
  <producer id="producer39" in="00:00:00.000" out="00:00:24.000">
   <property name="length">721</property>
   <property name="eof">pause</property>
-  <property name="resource">images/03.03 shapes circle.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/03.03 shapes circle.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1802,7 +1802,7 @@
  <producer id="producer40" in="00:00:00.000" out="00:00:19.833">
   <property name="length">596</property>
   <property name="eof">pause</property>
-  <property name="resource">images/03.03 shapes circle diameter.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/03.03 shapes circle diameter.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -1822,7 +1822,7 @@
  <producer id="producer41" in="00:00:00.000" out="00:00:05.833">
   <property name="length">176</property>
   <property name="eof">pause</property>
-  <property name="resource">images/03.04 shapes NURBS.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/03.04 shapes NURBS.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2058,7 +2058,7 @@
  <producer id="producer48" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
-  <property name="resource">images/03.05 entites explode.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/03.05 entites explode.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2152,7 +2152,7 @@
  <producer id="producer51" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
-  <property name="resource">images/03.06 text.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/03.06 text.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2172,7 +2172,7 @@
  <producer id="producer52" in="00:00:00.000" out="00:00:12.700">
   <property name="length">382</property>
   <property name="eof">pause</property>
-  <property name="resource">images/03.05 THREE entites.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/03.05 THREE entites.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2265,7 +2265,7 @@
  <producer id="producer55" in="00:00:00.000" out="00:00:05.267">
   <property name="length">159</property>
   <property name="eof">pause</property>
-  <property name="resource">images/04.00 mods slide.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/04.00 mods slide.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2285,12 +2285,12 @@
  <producer id="producer56" in="00:00:00.000" out="00:00:06.333">
   <property name="length">00:00:06.367</property>
   <property name="eof">pause</property>
-  <property name="resource">images/04.01 mods cad.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/04.01 mods cad.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
   <property name="seekable">1</property>
-  <property name="format">1</property>
+  <property name="format">2</property>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
   <property name="mlt_service">qimage</property>
@@ -2300,14 +2300,14 @@
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:id">64</property>
   <property name="kdenlive:file_size">699814</property>
-  <property name="kdenlive:originalurl">images/04.01 mods cad.png</property>
+  <property name="kdenlive:originalurl">/media/jaker/Pterosaur/Videos/Class/CAD/images/04.01 mods cad.png</property>
   <property name="kdenlive:proxy">-</property>
   <property name="kdenlive:file_hash">47f81984d246804dedfc4def509aa593</property>
  </producer>
  <producer id="producer57" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
-  <property name="resource">images/04.02 curved-wall-gabion.jpeg</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/04.02 curved-wall-gabion.jpeg</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2327,7 +2327,7 @@
  <producer id="producer33" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
-  <property name="resource">images/04.03 mods icon.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/04.03 mods icon.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2347,7 +2347,7 @@
  <producer id="producer58" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
-  <property name="resource">images/04.04 mods offset.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/04.04 mods offset.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2367,7 +2367,7 @@
  <producer id="producer59" in="00:00:00.000" out="00:00:05.800">
   <property name="length">175</property>
   <property name="eof">pause</property>
-  <property name="resource">images/04.05 mods mirror.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/04.05 mods mirror.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2388,7 +2388,7 @@
  <producer id="producer60" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
-  <property name="resource">images/04.06 mods divide.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/04.06 mods divide.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2518,7 +2518,7 @@
  <producer id="producer65" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
-  <property name="resource">images/04.10 place block.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/04.10 place block.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -2565,7 +2565,7 @@
 </property>
   <property name="kdenlive:folderid">32</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:id">78</property>
+  <property name="kdenlive:id">74</property>
   <property name="kdenlive:file_hash">552a3aa994ed5ba41d956b4ae5913d29</property>
   <property name="force_reload">0</property>
   <property name="kdenlive:activeeffect">-1</property>
@@ -2575,7 +2575,11 @@
  <producer id="producer66" in="00:00:00.000" out="00:01:41.333">
   <property name="length">3041</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.1 template audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.1 template audio.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">30</property>
@@ -2606,10 +2610,6 @@
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
   <property name="format">3</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="meta.media.frame_rate_num">30</property>
   <property name="meta.media.frame_rate_den">1</property>
@@ -2623,7 +2623,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">31</property>
-  <property name="kdenlive:id">80</property>
+  <property name="kdenlive:id">75</property>
   <property name="kdenlive:file_size">33789859</property>
   <property name="kdenlive:file_hash">d79bbbd77f25f90382cbc054b0582bd1</property>
   <property name="kdenlive:audio_max1">162</property>
@@ -2631,7 +2631,11 @@
  <producer id="producer67" in="00:00:00.000" out="00:01:41.167">
   <property name="length">3036</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.1 template Desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.1 template Desktop.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">30</property>
@@ -2662,10 +2666,6 @@
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
   <property name="format">3</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="meta.media.frame_rate_num">30</property>
   <property name="meta.media.frame_rate_den">1</property>
@@ -2679,7 +2679,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">31</property>
-  <property name="kdenlive:id">81</property>
+  <property name="kdenlive:id">76</property>
   <property name="kdenlive:file_size">31676764</property>
   <property name="kdenlive:file_hash">4db3264aa09729c22297f60f1469ebd5</property>
   <property name="kdenlive:audio_max1">1</property>
@@ -2687,7 +2687,11 @@
  <producer id="producer68" in="00:00:00.000" out="00:01:41.800">
   <property name="length">3055</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.1 template facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.1 template facecam.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">30</property>
@@ -2718,10 +2722,6 @@
   <property name="meta.media.sample_aspect_den">1</property>
   <property name="aspect_ratio">1</property>
   <property name="format">3</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="meta.media.frame_rate_num">30</property>
   <property name="meta.media.frame_rate_den">1</property>
@@ -2735,7 +2735,7 @@
   <property name="meta.media.progressive">1</property>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">31</property>
-  <property name="kdenlive:id">82</property>
+  <property name="kdenlive:id">77</property>
   <property name="kdenlive:file_size">31948372</property>
   <property name="kdenlive:file_hash">87d1fbd54fd4c201c93f2aa85ebd89a1</property>
   <property name="kdenlive:audio_max1">1</property>
@@ -2770,7 +2770,7 @@
 </property>
   <property name="kdenlive:folderid">32</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:id">83</property>
+  <property name="kdenlive:id">78</property>
   <property name="kdenlive:file_hash">49e8d682c72156aac7c18e4159767692</property>
   <property name="force_reload">0</property>
   <property name="meta.media.width">1280</property>
@@ -2806,7 +2806,7 @@
 </property>
   <property name="kdenlive:folderid">32</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:id">84</property>
+  <property name="kdenlive:id">79</property>
   <property name="force_reload">0</property>
   <property name="kdenlive:file_hash">905b37390ec27dceaddc05585f2bff50</property>
   <property name="meta.media.width">1280</property>
@@ -2842,7 +2842,7 @@
 </property>
   <property name="kdenlive:folderid">32</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:id">85</property>
+  <property name="kdenlive:id">80</property>
   <property name="force_reload">0</property>
   <property name="kdenlive:file_hash">11795cb6fe155695cbac4118c149a4e0</property>
   <property name="meta.media.width">1280</property>
@@ -2878,7 +2878,7 @@
 </property>
   <property name="kdenlive:folderid">32</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:id">86</property>
+  <property name="kdenlive:id">81</property>
   <property name="kdenlive:file_hash">1e1a13953773299be821cdebe6d34812</property>
   <property name="force_reload">0</property>
   <property name="kdenlive:activeeffect">-1</property>
@@ -2914,11 +2914,12 @@
 </property>
   <property name="kdenlive:folderid">32</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:id">87</property>
+  <property name="kdenlive:id">82</property>
   <property name="force_reload">0</property>
   <property name="kdenlive:activeeffect">1</property>
   <property name="meta.media.width">1280</property>
   <property name="meta.media.height">720</property>
+  <property name="kdenlive:file_hash">2be503992c9dbc169442b1888f9ed613</property>
  </producer>
  <producer id="producer75" in="00:00:00.000" out="00:00:12.167">
   <property name="length">366</property>
@@ -2950,7 +2951,7 @@
 </property>
   <property name="kdenlive:folderid">32</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:id">88</property>
+  <property name="kdenlive:id">83</property>
   <property name="force_reload">0</property>
   <property name="kdenlive:activeeffect">1</property>
   <property name="kdenlive:file_hash">2be503992c9dbc169442b1888f9ed613</property>
@@ -2987,7 +2988,7 @@
 </property>
   <property name="kdenlive:folderid">32</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:id">89</property>
+  <property name="kdenlive:id">84</property>
   <property name="kdenlive:file_hash">1e6521ac93e72ea6bcbd7c54726d5735</property>
   <property name="force_reload">0</property>
   <property name="meta.media.width">1280</property>
@@ -2996,7 +2997,7 @@
  <producer id="producer77" in="00:00:00.000" out="00:00:13.267">
   <property name="length">399</property>
   <property name="eof">pause</property>
-  <property name="resource">images/05 end.png</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/images/05 end.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -3009,7 +3010,7 @@
   <property name="kdenlive:duration">00:00:05.000</property>
   <property name="kdenlive:folderid">33</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:id">90</property>
+  <property name="kdenlive:id">85</property>
   <property name="kdenlive:file_size">523447</property>
   <property name="kdenlive:file_hash">9fd530be1dc2277a5b6acc74d3c1180f</property>
  </producer>
@@ -3033,27 +3034,697 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.groups">[
+    {
+        "children": [
+            {
+                "data": "3:44293",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:45070",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:43491",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:66505",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:77989",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:75118",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:44056",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:77278",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:44293",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:77989",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:44458",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:80114",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:70598",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:68223",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:71678",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:70374",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:53301",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:52353",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:69481",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:65105",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:57995",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:51058",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:68223",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:48175",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:52964",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:60546",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:77989",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:80590",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:70095",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:68764",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:72071",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:70407",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:57613",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:71329",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:60170",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:51169",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:68764",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:49470",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:53301",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:45195",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:51058",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:49276",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:57613",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:44556",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:52353",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:44926",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:71329",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:44556",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:41920",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:44056",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:50765",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:50454",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:57995",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:45684",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:51169",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:70407",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:70374",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:53301",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:45070",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:50765",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:42978",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:75118",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:44926",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:52964",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:45070",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:66114",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:65255",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:58521",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:67139",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:70095",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:52964",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:68223",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:81270",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:63750",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:68764",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:69481",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:76614",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:68562",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:82297",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:70836",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:75118",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:58521",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:69481",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:74890",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:70407",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:65820",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:82297",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:52353",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:46612",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:58521",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:50765",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:51183",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:57613",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:52017",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:68888",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:56609",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:71329",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:57995",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:68888",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "6:73700",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:70248",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:62176",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:81270",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:55593",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:55331",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:53519",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:70095",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:44458",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:44293",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:51058",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:79400",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:41920",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:69481",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:78544",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:68888",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:78352",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:44556",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:44458",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:51169",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:81435",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:43491",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:50952",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "5:43791",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:81270",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:81867",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:82297",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:43491",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "4:41920",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "2:44926",
+                "leaf": "clip",
+                "type": "Leaf"
+            },
+            {
+                "data": "3:44056",
+                "leaf": "clip",
+                "type": "Leaf"
+            }
+        ],
+        "type": "Selection"
+    }
 ]
 </property>
   <property name="kdenlive:docproperties.guides">[
     {
-        "comment": "Shrunken head",
-        "pos": 49923,
+        "comment": "Echo start",
+        "pos": 1997,
+        "type": 8
+    },
+    {
+        "comment": "Echo end",
+        "pos": 2236,
+        "type": 8
+    },
+    {
+        "comment": "03 Shapes",
+        "pos": 35896,
         "type": 0
     },
     {
-        "comment": "polyline area",
-        "pos": 64613,
+        "comment": "02 Setup",
+        "pos": 25217,
         "type": 0
     },
     {
-        "comment": "4. Mods",
-        "pos": 71136,
-        "type": 0
+        "comment": "Echo in",
+        "pos": 75199,
+        "type": 8
     },
     {
-        "comment": "rotate",
-        "pos": 77356,
+        "comment": "Echo out",
+        "pos": 75531,
+        "type": 8
+    },
+    {
+        "comment": "04 Examples",
+        "pos": 82297,
         "type": 0
     }
 ]
@@ -3107,7 +3778,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">22.12.1</property>
-  <property name="kdenlive:docproperties.position">128643</property>
+  <property name="kdenlive:docproperties.position">82523</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_720p_30</property>
@@ -3117,15 +3788,37 @@
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
   <property name="kdenlive:docproperties.proxyresize">640</property>
-  <property name="kdenlive:docproperties.scrollPos">71347</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.rendercustomquality">100</property>
+  <property name="kdenlive:docproperties.renderendguide">3</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.rendermode">2</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderpreview">0</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4-H264/AAC</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">360</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">640</property>
+  <property name="kdenlive:docproperties.renderspeed">6</property>
+  <property name="kdenlive:docproperties.renderstartguide">3</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">-1</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">output/04-examples.mp4</property>
+  <property name="kdenlive:docproperties.scrollPos">6566</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1.04</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">3</property>
-  <property name="kdenlive:docproperties.zonein">128245</property>
-  <property name="kdenlive:docproperties.zoneout">128644</property>
-  <property name="kdenlive:docproperties.zoom">7</property>
-  <property name="kdenlive:expandedFolders">33</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
+  <property name="kdenlive:docproperties.zonein">126128</property>
+  <property name="kdenlive:docproperties.zoneout">127756</property>
+  <property name="kdenlive:docproperties.zoom">12</property>
+  <property name="kdenlive:docmetadata.meta.attr.author.markup">Jake Rayson</property>
+  <property name="kdenlive:docmetadata.meta.attr.copyright.markup">Nature Works</property>
+  <property name="kdenlive:docmetadata.meta.attr.title.markup">CAD for Gardeners</property>
+  <property name="kdenlive:docmetadata.meta.attr.year.markup">2023</property>
+  <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
   <entry producer="producer0" in="00:00:00.000" out="00:24:20.733"/>
@@ -3198,16 +3891,16 @@
   <entry producer="producer66" in="00:00:00.000" out="00:01:41.333"/>
   <entry producer="producer67" in="00:00:00.000" out="00:01:41.167"/>
   <entry producer="producer68" in="00:00:00.000" out="00:01:41.800"/>
-  <entry producer="producer69" in="00:00:00.000" out="00:00:04.967"/>
+  <entry producer="producer69" in="00:00:00.000" out="00:00:11.633"/>
   <entry producer="producer71" in="00:00:00.000" out="00:00:19.600"/>
   <entry producer="producer72" in="00:00:00.000" out="00:00:19.600"/>
-  <entry producer="producer73" in="00:00:00.000" out="00:00:08.567"/>
-  <entry producer="producer74" in="00:00:00.000" out="00:00:07.000"/>
+  <entry producer="producer73" in="00:00:00.000" out="00:00:12.367"/>
+  <entry producer="producer74" in="00:00:00.000" out="00:00:12.167"/>
   <entry producer="producer75" in="00:00:00.000" out="00:00:12.167"/>
   <entry producer="producer76" in="00:00:00.000" out="00:00:12.000"/>
-  <entry producer="producer77" in="00:00:00.000" out="00:00:04.967"/>
+  <entry producer="producer77" in="00:00:00.000" out="00:00:13.267"/>
  </playlist>
- <producer id="black_track" in="00:00:00.000" out="01:28:08.133">
+ <producer id="black_track" in="00:00:00.000" out="01:27:38.533">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -3291,7 +3984,7 @@
  <producer id="producer78" in="00:00:00.000" out="00:24:20.733">
   <property name="length">43823</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/01 CAD audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/01 CAD audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3350,7 +4043,7 @@
  <producer id="producer79" in="00:00:00.000" out="00:09:14.400">
   <property name="length">16633</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/02 Setup audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/02 Setup audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3409,7 +4102,7 @@
  <producer id="producer80" in="00:00:00.000" out="00:33:34.467">
   <property name="length">60435</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/03.0 Shapes audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/03.0 Shapes audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3468,7 +4161,7 @@
  <producer id="producer81" in="00:00:00.000" out="00:08:18.800">
   <property name="length">14965</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.0 examples audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.0 examples audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3527,11 +4220,22 @@
  <producer id="producer82" in="00:00:00.000" out="00:14:21.900">
   <property name="length">25858</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.1 example garden acre audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.1 example garden acre audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
   <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="format">3</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:clip_type">0</property>
+  <property name="kdenlive:folderid">31</property>
+  <property name="kdenlive:id">11</property>
+  <property name="kdenlive:file_size">287055648</property>
+  <property name="kdenlive:file_hash">ead8c19ddf4d7ef6f6e1d421a7606b2a</property>
+  <property name="kdenlive:audio_max1">236</property>
+  <property name="xml">was here</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">30</property>
@@ -3557,19 +4261,8 @@
   <property name="meta.attr.1.stream.title.markup">Track1</property>
   <property name="meta.attr.1.stream.DURATION.markup">00:14:21.802000000</property>
   <property name="meta.attr.ENCODER.markup">Lavf58.76.100</property>
-  <property name="seekable">1</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="format">3</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:clip_type">0</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">11</property>
-  <property name="kdenlive:file_size">287055648</property>
-  <property name="kdenlive:file_hash">ead8c19ddf4d7ef6f6e1d421a7606b2a</property>
-  <property name="kdenlive:audio_max1">236</property>
-  <property name="xml">was here</property>
   <property name="meta.media.frame_rate_num">30</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">709</property>
@@ -3586,7 +4279,7 @@
  <producer id="producer83" in="00:00:00.000" out="00:01:41.333">
   <property name="length">3041</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.1 template audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.1 template audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3597,7 +4290,7 @@
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">31</property>
-  <property name="kdenlive:id">80</property>
+  <property name="kdenlive:id">75</property>
   <property name="kdenlive:file_size">33789859</property>
   <property name="kdenlive:file_hash">d79bbbd77f25f90382cbc054b0582bd1</property>
   <property name="kdenlive:audio_max1">162</property>
@@ -3645,7 +4338,7 @@
  <producer id="producer84" in="00:00:00.000" out="00:10:10.967">
   <property name="length">18330</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.2 example garden town audio.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.2 example garden town audio.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -3934,19 +4627,7 @@
   <entry producer="producer80" in="00:21:03.700" out="00:21:21.700">
    <property name="kdenlive:id">17</property>
   </entry>
-  <entry producer="producer80" in="00:22:09.067" out="00:22:24.500">
-   <property name="kdenlive:id">17</property>
-  </entry>
-  <entry producer="producer80" in="00:22:27.800" out="00:22:36.133">
-   <property name="kdenlive:id">17</property>
-  </entry>
-  <entry producer="producer80" in="00:22:38.367" out="00:22:41.867">
-   <property name="kdenlive:id">17</property>
-  </entry>
-  <entry producer="producer80" in="00:22:45.233" out="00:22:49.700">
-   <property name="kdenlive:id">17</property>
-  </entry>
-  <entry producer="producer80" in="00:24:28.967" out="00:24:30.800">
+  <entry producer="producer80" in="00:22:09.067" out="00:22:13.167">
    <property name="kdenlive:id">17</property>
   </entry>
   <entry producer="producer80" in="00:24:36.767" out="00:24:56.500">
@@ -3964,8 +4645,7 @@
   <entry producer="producer80" in="00:25:37.600" out="00:26:08.300">
    <property name="kdenlive:id">17</property>
   </entry>
-  <blank length="00:00:04.200"/>
-  <entry producer="producer80" in="00:26:16.600" out="00:28:18.667">
+  <entry producer="producer80" in="00:26:12.400" out="00:28:18.667">
    <property name="kdenlive:id">17</property>
   </entry>
   <entry producer="producer80" in="00:29:14.767" out="00:30:50.433">
@@ -3999,11 +4679,10 @@
    <property name="kdenlive:id">11</property>
   </entry>
   <entry producer="producer83" in="00:00:01.233" out="00:01:06.700">
-   <property name="kdenlive:id">80</property>
-   <property name="kdenlive:activeeffect">-1</property>
+   <property name="kdenlive:id">75</property>
   </entry>
   <entry producer="producer83" in="00:01:15.367" out="00:01:34.867">
-   <property name="kdenlive:id">80</property>
+   <property name="kdenlive:id">75</property>
   </entry>
   <entry producer="producer82" in="00:00:49.767" out="00:01:03.700">
    <property name="kdenlive:id">11</property>
@@ -4108,11 +4787,12 @@
  <playlist id="playlist5">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor2" in="00:00:00.000" out="01:11:28.100">
+ <tractor id="tractor2" in="00:00:00.000" out="01:10:58.500">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:track_name">Audio</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist4"/>
@@ -4141,7 +4821,7 @@
  <producer id="producer85" in="00:00:00.000" out="00:24:21.033">
   <property name="length">43832</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/01 CAD Desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/01 CAD Desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -4200,7 +4880,7 @@
  <producer id="producer86" in="00:00:00.000" out="00:09:14.133">
   <property name="length">16625</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/02 Setup Desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/02 Setup Desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -4259,7 +4939,7 @@
  <producer id="producer87" in="00:00:00.000" out="00:33:34.267">
   <property name="length">60429</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/03.0 Shapes desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/03.0 Shapes desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -4318,7 +4998,7 @@
  <producer id="producer88" in="00:00:00.000" out="00:08:19.067">
   <property name="length">14973</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.0 examples desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.0 examples desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -4377,7 +5057,7 @@
  <producer id="producer89" in="00:00:00.000" out="00:14:22.033">
   <property name="length">25862</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.1 example garden acre Desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.1 example garden acre Desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -4436,7 +5116,7 @@
  <producer id="producer90" in="00:00:00.000" out="00:01:41.167">
   <property name="length">3036</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.1 template Desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.1 template Desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -4447,7 +5127,7 @@
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">31</property>
-  <property name="kdenlive:id">81</property>
+  <property name="kdenlive:id">76</property>
   <property name="kdenlive:file_size">31676764</property>
   <property name="kdenlive:file_hash">4db3264aa09729c22297f60f1469ebd5</property>
   <property name="kdenlive:audio_max1">1</property>
@@ -4495,7 +5175,7 @@
  <producer id="producer91" in="00:00:00.000" out="00:10:03.700">
   <property name="length">18112</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.2 example garden town Desktop.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.2 example garden town Desktop.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -4789,19 +5469,7 @@
   <entry producer="producer87" in="00:21:03.700" out="00:21:21.700">
    <property name="kdenlive:id">18</property>
   </entry>
-  <entry producer="producer87" in="00:22:09.067" out="00:22:24.500">
-   <property name="kdenlive:id">18</property>
-  </entry>
-  <entry producer="producer87" in="00:22:27.800" out="00:22:36.133">
-   <property name="kdenlive:id">18</property>
-  </entry>
-  <entry producer="producer87" in="00:22:38.367" out="00:22:41.867">
-   <property name="kdenlive:id">18</property>
-  </entry>
-  <entry producer="producer87" in="00:22:45.233" out="00:22:49.700">
-   <property name="kdenlive:id">18</property>
-  </entry>
-  <entry producer="producer87" in="00:24:28.967" out="00:24:30.800">
+  <entry producer="producer87" in="00:22:09.067" out="00:22:13.167">
    <property name="kdenlive:id">18</property>
   </entry>
   <entry producer="producer87" in="00:24:36.767" out="00:24:56.500">
@@ -4836,8 +5504,7 @@
   <entry producer="producer87" in="00:25:43.967" out="00:26:08.300">
    <property name="kdenlive:id">18</property>
   </entry>
-  <blank length="00:00:04.200"/>
-  <entry producer="producer87" in="00:26:16.600" out="00:28:18.667">
+  <entry producer="producer87" in="00:26:12.400" out="00:28:18.667">
    <property name="kdenlive:id">18</property>
   </entry>
   <entry producer="producer87" in="00:29:14.767" out="00:30:50.433">
@@ -4871,10 +5538,10 @@
    <property name="kdenlive:id">12</property>
   </entry>
   <entry producer="producer90" in="00:00:01.233" out="00:01:06.700">
-   <property name="kdenlive:id">81</property>
+   <property name="kdenlive:id">76</property>
   </entry>
   <entry producer="producer90" in="00:01:15.367" out="00:01:34.867">
-   <property name="kdenlive:id">81</property>
+   <property name="kdenlive:id">76</property>
   </entry>
   <entry producer="producer89" in="00:00:49.767" out="00:01:03.700">
    <property name="kdenlive:id">12</property>
@@ -4973,11 +5640,11 @@
    <property name="kdenlive:id">15</property>
   </entry>
   <entry producer="producer77" in="00:00:00.000" out="00:00:13.267">
-   <property name="kdenlive:id">90</property>
+   <property name="kdenlive:id">85</property>
   </entry>
  </playlist>
  <playlist id="playlist7"/>
- <tractor id="tractor3" in="00:00:00.000" out="01:11:28.100">
+ <tractor id="tractor3" in="00:00:00.000" out="01:10:58.500">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -4990,7 +5657,7 @@
  <producer id="producer92" in="00:00:00.000" out="00:24:21.167">
   <property name="length">43836</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/01 CAD facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/01 CAD facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -5049,7 +5716,7 @@
  <producer id="producer93" in="00:00:00.000" out="00:09:14.967">
   <property name="length">16650</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/02 Setup facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/02 Setup facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -5108,7 +5775,7 @@
  <producer id="producer94" in="00:00:00.000" out="00:33:35.200">
   <property name="length">60457</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/03.0 Shapes facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/03.0 Shapes facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -5167,7 +5834,7 @@
  <producer id="producer95" in="00:00:00.000" out="00:08:19.267">
   <property name="length">14979</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.0 examples facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.0 examples facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -5226,7 +5893,7 @@
  <producer id="producer96" in="00:00:00.000" out="00:14:22.433">
   <property name="length">25874</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.1 example garden acre facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.1 example garden acre facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -5285,7 +5952,7 @@
  <producer id="producer97" in="00:00:00.000" out="00:01:41.800">
   <property name="length">3055</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.1 template facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.1 template facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -5296,7 +5963,7 @@
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:folderid">31</property>
-  <property name="kdenlive:id">82</property>
+  <property name="kdenlive:id">77</property>
   <property name="kdenlive:file_size">31948372</property>
   <property name="kdenlive:file_hash">87d1fbd54fd4c201c93f2aa85ebd89a1</property>
   <property name="kdenlive:audio_max1">1</property>
@@ -5344,7 +6011,7 @@
  <producer id="producer98" in="00:00:00.000" out="00:10:14.800">
   <property name="length">18445</property>
   <property name="eof">pause</property>
-  <property name="resource">clips/04.2 example garden town facecam.mkv</property>
+  <property name="resource">/media/jaker/Pterosaur/Videos/Class/CAD/clips/04.2 example garden town facecam.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">0</property>
@@ -5415,6 +6082,7 @@
     <property name="Scale Y">00:00:06.400=0.27</property>
     <property name="Tilt X">00:00:06.400=0.790104</property>
     <property name="Tilt Y">00:00:06.400=0.730556</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <entry producer="producer92" in="00:00:53.033" out="00:00:58.467">
@@ -6844,7 +7512,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer94" in="00:22:09.067" out="00:22:24.500">
+  <entry producer="producer94" in="00:22:09.067" out="00:22:13.167">
    <property name="kdenlive:id">19</property>
    <filter id="filter103">
     <property name="version">0.1</property>
@@ -6858,70 +7526,7 @@
     <property name="Scale Y">00:22:09.067=0.27</property>
     <property name="Tilt X">00:22:09.067=0.790104</property>
     <property name="Tilt Y">00:22:09.067=0.730556</property>
-   </filter>
-  </entry>
-  <entry producer="producer94" in="00:22:27.800" out="00:22:36.133">
-   <property name="kdenlive:id">19</property>
-   <filter id="filter104">
-    <property name="version">0.1</property>
-    <property name="mlt_service">frei0r.scale0tilt</property>
-    <property name="kdenlive_id">Facecam crop</property>
-    <property name="Clip left">00:22:27.800=0.296875</property>
-    <property name="Clip right">00:22:27.800=0.224219</property>
-    <property name="Clip top">00:22:27.800=0.0944444</property>
-    <property name="Clip bottom">00:22:27.800=0</property>
-    <property name="Scale X">00:22:27.800=0.27</property>
-    <property name="Scale Y">00:22:27.800=0.27</property>
-    <property name="Tilt X">00:22:27.800=0.790104</property>
-    <property name="Tilt Y">00:22:27.800=0.730556</property>
-   </filter>
-  </entry>
-  <entry producer="producer94" in="00:22:38.367" out="00:22:41.867">
-   <property name="kdenlive:id">19</property>
-   <filter id="filter105">
-    <property name="version">0.1</property>
-    <property name="mlt_service">frei0r.scale0tilt</property>
-    <property name="kdenlive_id">Facecam crop</property>
-    <property name="Clip left">00:22:38.367=0.296875</property>
-    <property name="Clip right">00:22:38.367=0.224219</property>
-    <property name="Clip top">00:22:38.367=0.0944444</property>
-    <property name="Clip bottom">00:22:38.367=0</property>
-    <property name="Scale X">00:22:38.367=0.27</property>
-    <property name="Scale Y">00:22:38.367=0.27</property>
-    <property name="Tilt X">00:22:38.367=0.790104</property>
-    <property name="Tilt Y">00:22:38.367=0.730556</property>
-   </filter>
-  </entry>
-  <entry producer="producer94" in="00:22:45.233" out="00:22:49.700">
-   <property name="kdenlive:id">19</property>
-   <filter id="filter106">
-    <property name="version">0.1</property>
-    <property name="mlt_service">frei0r.scale0tilt</property>
-    <property name="kdenlive_id">Facecam crop</property>
-    <property name="Clip left">00:22:45.233=0.296875</property>
-    <property name="Clip right">00:22:45.233=0.224219</property>
-    <property name="Clip top">00:22:45.233=0.0944444</property>
-    <property name="Clip bottom">00:22:45.233=0</property>
-    <property name="Scale X">00:22:45.233=0.27</property>
-    <property name="Scale Y">00:22:45.233=0.27</property>
-    <property name="Tilt X">00:22:45.233=0.790104</property>
-    <property name="Tilt Y">00:22:45.233=0.730556</property>
-   </filter>
-  </entry>
-  <entry producer="producer94" in="00:24:28.967" out="00:24:30.800">
-   <property name="kdenlive:id">19</property>
-   <filter id="filter107">
-    <property name="version">0.1</property>
-    <property name="mlt_service">frei0r.scale0tilt</property>
-    <property name="kdenlive_id">Facecam crop</property>
-    <property name="Clip left">00:24:28.967=0.296875</property>
-    <property name="Clip right">00:24:28.967=0.224219</property>
-    <property name="Clip top">00:24:28.967=0.0944444</property>
-    <property name="Clip bottom">00:24:28.967=0</property>
-    <property name="Scale X">00:24:28.967=0.27</property>
-    <property name="Scale Y">00:24:28.967=0.27</property>
-    <property name="Tilt X">00:24:28.967=0.790104</property>
-    <property name="Tilt Y">00:24:28.967=0.730556</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <entry producer="producer94" in="00:24:36.767" out="00:24:56.500">
@@ -6938,6 +7543,7 @@
     <property name="Scale Y">00:24:36.767=0.27</property>
     <property name="Tilt X">00:24:36.767=0.790104</property>
     <property name="Tilt Y">00:24:36.767=0.730556</property>
+    <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <entry producer="producer94" in="00:24:59.300" out="00:25:19.733">
@@ -7317,7 +7923,7 @@
    </filter>
   </entry>
   <entry producer="producer97" in="00:00:01.233" out="00:01:06.700">
-   <property name="kdenlive:id">82</property>
+   <property name="kdenlive:id">77</property>
    <filter id="filter132">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7334,7 +7940,7 @@
    </filter>
   </entry>
   <entry producer="producer97" in="00:01:15.367" out="00:01:34.867">
-   <property name="kdenlive:id">82</property>
+   <property name="kdenlive:id">77</property>
    <filter id="filter133">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7386,7 +7992,6 @@
   </entry>
   <entry producer="producer96" in="00:01:20.400" out="00:01:31.200">
    <property name="kdenlive:id">13</property>
-   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter136">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7418,7 +8023,6 @@
   </entry>
   <entry producer="producer96" in="00:01:31.233" out="00:01:56.167">
    <property name="kdenlive:id">13</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter138">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7470,7 +8074,6 @@
   </entry>
   <entry producer="producer96" in="00:02:16.233" out="00:02:30.400">
    <property name="kdenlive:id">13</property>
-   <property name="kdenlive:activeeffect">-1</property>
    <filter id="filter141">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7533,7 +8136,6 @@
   </entry>
   <entry producer="producer96" in="00:02:47.133" out="00:03:23.333">
    <property name="kdenlive:id">13</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter145">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7602,7 +8204,6 @@
   </entry>
   <entry producer="producer96" in="00:05:21.200" out="00:05:52.800">
    <property name="kdenlive:id">13</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter149">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7739,7 +8340,6 @@
   </entry>
   <entry producer="producer96" in="00:08:29.167" out="00:09:23.167">
    <property name="kdenlive:id">13</property>
-   <property name="kdenlive:activeeffect">-1</property>
    <filter id="filter157">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7771,7 +8371,6 @@
   </entry>
   <entry producer="producer96" in="00:09:23.200" out="00:09:34.000">
    <property name="kdenlive:id">13</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter159">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7789,7 +8388,6 @@
   </entry>
   <entry producer="producer96" in="00:09:51.133" out="00:10:19.067">
    <property name="kdenlive:id">13</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter160">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7807,7 +8405,6 @@
   </entry>
   <entry producer="producer96" in="00:10:19.100" out="00:10:37.367">
    <property name="kdenlive:id">13</property>
-   <property name="kdenlive:activeeffect">-1</property>
    <filter id="filter161">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7839,7 +8436,6 @@
   </entry>
   <entry producer="producer96" in="00:10:37.400" out="00:11:43.300">
    <property name="kdenlive:id">13</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter163">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7908,7 +8504,6 @@
   </entry>
   <entry producer="producer98" in="00:00:43.633" out="00:03:08.267">
    <property name="kdenlive:id">16</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter167">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7926,7 +8521,6 @@
   </entry>
   <entry producer="producer98" in="00:03:08.300" out="00:03:23.900">
    <property name="kdenlive:id">16</property>
-   <property name="kdenlive:activeeffect">-1</property>
    <filter id="filter168">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7958,7 +8552,6 @@
   </entry>
   <entry producer="producer98" in="00:03:23.933" out="00:04:47.500">
    <property name="kdenlive:id">16</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter170">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -7976,7 +8569,6 @@
   </entry>
   <entry producer="producer98" in="00:04:58.333" out="00:05:22.933">
    <property name="kdenlive:id">16</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter171">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -8164,9 +8756,9 @@
   </entry>
  </playlist>
  <playlist id="playlist9"/>
- <tractor id="tractor4" in="00:00:00.000" out="01:11:28.100">
+ <tractor id="tractor4" in="00:00:00.000" out="01:10:58.500">
   <property name="kdenlive:trackheight">67</property>
-  <property name="kdenlive:timeline_active">0</property>
+  <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:track_name">Facecam</property>
   <property name="kdenlive:thumbs_format"/>
@@ -8385,7 +8977,7 @@
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_Fade in 1 sec</property>
-    <property name="alpha">0=0;-1=1</property>
+    <property name="alpha">00:00:00.000=0;00:00:01.000=1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
    <filter id="filter203" in="00:00:05.300" out="00:00:06.300">
@@ -8599,27 +9191,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:01:34.767"/>
-  <entry producer="producer53" in="00:00:00.000" out="00:00:04.967">
-   <property name="kdenlive:id">61</property>
-   <filter id="filter224" out="00:00:01.000">
-    <property name="start">1</property>
-    <property name="level">1</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_from_Fade in 1 sec</property>
-    <property name="alpha">00:00:00.000=0;00:00:01.000=1</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-   <filter id="filter225" in="00:00:03.967" out="00:00:04.967">
-    <property name="start">1</property>
-    <property name="level">1</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_to_Fade out 1 sec</property>
-    <property name="alpha">00:00:00.000=1;00:00:01.000=0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <blank length="00:00:38.033"/>
+  <blank length="00:01:48.200"/>
   <entry producer="producer54" in="00:00:00.000" out="00:00:03.933">
    <property name="kdenlive:id">62</property>
    <filter id="filter226" out="00:00:01.000">
@@ -8769,19 +9341,19 @@
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_Fade out 1 sec</property>
-    <property name="alpha">0=1;-1=0</property>
+    <property name="alpha">00:00:00.000=1;00:00:01.000=0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <blank length="00:04:43.833"/>
   <entry producer="producer69" in="00:00:00.000" out="00:00:07.167">
-   <property name="kdenlive:id">83</property>
+   <property name="kdenlive:id">78</property>
    <filter id="filter241" out="00:00:01.000">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_Fade in 1 sec</property>
-    <property name="alpha">0=0;-1=1</property>
+    <property name="alpha">00:00:00.000=0;00:00:01.000=1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
    <filter id="filter242" in="00:00:03.967" out="00:00:07.167">
@@ -8789,13 +9361,13 @@
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_Fade out 1 sec</property>
-    <property name="alpha">0=1;-1=0</property>
+    <property name="alpha">00:00:00.000=1;00:00:03.200=0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <blank length="00:00:35.067"/>
   <entry producer="producer71" in="00:00:00.000" out="00:00:04.967">
-   <property name="kdenlive:id">84</property>
+   <property name="kdenlive:id">79</property>
    <filter id="filter243" out="00:00:01.000">
     <property name="start">1</property>
     <property name="level">1</property>
@@ -8815,7 +9387,7 @@
   </entry>
   <blank length="00:01:29.600"/>
   <entry producer="producer70" in="00:00:00.000" out="00:00:04.967">
-   <property name="kdenlive:id">78</property>
+   <property name="kdenlive:id">74</property>
    <filter id="filter245" out="00:00:01.000">
     <property name="start">1</property>
     <property name="level">1</property>
@@ -8835,7 +9407,7 @@
   </entry>
   <blank length="00:01:14.567"/>
   <entry producer="producer72" in="00:00:00.000" out="00:00:04.967">
-   <property name="kdenlive:id">85</property>
+   <property name="kdenlive:id">80</property>
    <filter id="filter247" out="00:00:01.000">
     <property name="start">1</property>
     <property name="level">1</property>
@@ -8875,7 +9447,7 @@
   </entry>
   <blank length="00:08:09.133"/>
   <entry producer="producer73" in="00:00:00.000" out="00:00:09.600">
-   <property name="kdenlive:id">86</property>
+   <property name="kdenlive:id">81</property>
    <filter id="filter251" out="00:00:01.000">
     <property name="start">1</property>
     <property name="level">1</property>
@@ -8884,7 +9456,7 @@
     <property name="alpha">00:00:00.000=0;00:00:01.000=1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter252" in="00:00:08.633" out="00:00:09.633">
+   <filter id="filter252" in="00:00:08.600" out="00:00:09.600">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -8895,7 +9467,7 @@
   </entry>
   <blank length="00:05:58.867"/>
   <entry producer="producer74" in="00:00:00.000" out="00:00:12.167">
-   <property name="kdenlive:id">87</property>
+   <property name="kdenlive:id">82</property>
    <filter id="filter253" out="00:00:01.000">
     <property name="start">1</property>
     <property name="level">1</property>
@@ -8904,7 +9476,7 @@
     <property name="alpha">00:00:00.000=0;00:00:01.000=1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter254" in="00:00:11.200" out="00:00:12.200">
+   <filter id="filter254" in="00:00:11.167" out="00:00:12.167">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -8915,7 +9487,7 @@
   </entry>
   <blank length="00:00:00.633"/>
   <entry producer="producer75" in="00:00:00.000" out="00:00:03.700">
-   <property name="kdenlive:id">88</property>
+   <property name="kdenlive:id">83</property>
    <filter id="filter255" out="00:00:01.000">
     <property name="start">1</property>
     <property name="level">1</property>
@@ -8924,7 +9496,7 @@
     <property name="alpha">00:00:00.000=0;00:00:01.000=1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter256" in="00:00:02.733" out="00:00:03.733">
+   <filter id="filter256" in="00:00:02.700" out="00:00:03.700">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -8944,7 +9516,7 @@
     <property name="alpha">00:00:00.000=0;00:00:01.000=1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter258" in="00:00:03.367" out="00:00:04.367">
+   <filter id="filter258" in="00:00:03.333" out="00:00:04.333">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -8955,7 +9527,7 @@
   </entry>
   <blank length="00:00:00.367"/>
   <entry producer="producer76" in="00:00:00.000" out="00:00:04.967">
-   <property name="kdenlive:id">89</property>
+   <property name="kdenlive:id">84</property>
    <filter id="filter259" out="00:00:01.000">
     <property name="start">1</property>
     <property name="level">1</property>
@@ -8995,7 +9567,7 @@
   </entry>
   <blank length="00:00:03.367"/>
   <entry producer="producer76" in="00:00:00.000" out="00:00:04.967">
-   <property name="kdenlive:id">89</property>
+   <property name="kdenlive:id">84</property>
    <filter id="filter263" out="00:00:01.000">
     <property name="start">1</property>
     <property name="level">1</property>
@@ -9024,7 +9596,7 @@
     <property name="alpha">00:00:00.000=0;00:00:01.000=1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter266" in="00:00:05.700" out="00:00:06.700">
+   <filter id="filter266" in="00:00:05.667" out="00:00:06.667">
     <property name="start">1</property>
     <property name="level">1</property>
     <property name="mlt_service">brightness</property>
@@ -9035,9 +9607,9 @@
   </entry>
  </playlist>
  <playlist id="playlist11"/>
- <tractor id="tractor5" in="00:00:00.000" out="01:11:11.967">
+ <tractor id="tractor5" in="00:00:00.000" out="01:10:42.367">
   <property name="kdenlive:trackheight">67</property>
-  <property name="kdenlive:timeline_active">0</property>
+  <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:track_name">Titles</property>
   <property name="kdenlive:thumbs_format"/>
@@ -9324,7 +9896,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:02:57.400"/>
+  <blank length="00:02:26.300"/>
   <entry producer="producer33" in="00:00:00.000" out="00:00:04.967">
    <property name="kdenlive:id">66</property>
    <filter id="filter291">
@@ -9460,7 +10032,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:03:03.100"/>
+  <blank length="00:03:05.000"/>
   <entry producer="producer65" in="00:00:00.000" out="00:00:02.933">
    <property name="kdenlive:id">73</property>
    <filter id="filter303">
@@ -9496,7 +10068,7 @@
   </entry>
  </playlist>
  <playlist id="playlist13"/>
- <tractor id="tractor6" in="00:00:00.000" out="00:45:18.467">
+ <tractor id="tractor6" in="00:00:00.000" out="00:44:49.267">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
@@ -9506,7 +10078,7 @@
   <track hide="audio" producer="playlist12"/>
   <track hide="audio" producer="playlist13"/>
  </tractor>
- <tractor id="tractor7" in="00:00:00.000" out="01:28:08.133">
+ <tractor id="tractor7" in="00:00:00.000" out="01:27:38.533">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
@@ -9590,6 +10162,14 @@
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
+  </filter>
+  <filter id="filter104">
+   <property name="mlt_service">avfilter.subtitles</property>
+   <property name="internal_added">237</property>
+   <property name="av.filename">/var/tmp/1673512599751.srt</property>
+   <property name="av.force_style">Alignment=2,</property>
+   <property name="disable">0</property>
+   <property name="kdenlive:locked">0</property>
   </filter>
  </tractor>
 </mlt>
