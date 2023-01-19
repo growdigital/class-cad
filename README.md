@@ -1,3 +1,3 @@
-# CAD for Gardeners
+# Video files for CAD for Gardeners
 
-KDEnlive files (excluding videos!!)
+KDEnlive files (excluding clips!!)
