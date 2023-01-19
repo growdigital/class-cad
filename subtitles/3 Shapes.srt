@@ -1,0 +1,2640 @@
+1
+00:00:00,266 --> 00:00:02,456
+Greetings and welcome back to the third
+
+2
+00:00:02,466 --> 00:00:04,956
+section of my online class ‘CAD for
+
+3
+00:00:04,933 --> 00:00:07,723
+Gardeners’ and this is shapes, entities and
+
+4
+00:00:07,733 --> 00:00:09,893
+mods, you can just about see
+
+5
+00:00:09,900 --> 00:00:11,939
+the mods, my face is nearly covering
+
+6
+00:00:11,933 --> 00:00:14,183
+it, and here I’m going to be
+
+7
+00:00:14,200 --> 00:00:18,340
+looking at four basic shapes, three entity
+
+8
+00:00:18,333 --> 00:00:20,163
+types and then four modifications
+
+9
+00:00:20,166 --> 00:00:22,176
+that you can make. And using
+
+10
+00:00:22,200 --> 00:00:25,380
+these tools, you can create a whole
+
+11
+00:00:25,400 --> 00:00:29,989
+infinite variety of different designs, hopefully. First
+
+12
+00:00:30,000 --> 00:00:31,890
+of all, before going further, I wanted
+
+13
+00:00:31,900 --> 00:00:34,749
+to say about finding your way
+
+14
+00:00:34,733 --> 00:00:36,533
+around QCAD because it can be a
+
+15
+00:00:36,533 --> 00:00:37,973
+little bit confusing. So I’m just going
+
+16
+00:00:37,966 --> 00:00:39,976
+to zip over to QCAD
+
+17
+00:00:41,066 --> 00:00:43,616
+I’ll create a new file, I’m
+
+18
+00:00:43,633 --> 00:00:45,013
+just going to create a circle and
+
+19
+00:00:45,100 --> 00:00:47,026
+really worry too much about what I’m
+
+20
+00:00:47,033 --> 00:00:47,543
+doing here…
+
+21
+00:00:49,433 --> 00:00:51,263
+The great thing as I said before
+
+22
+00:00:51,266 --> 00:00:53,006
+about QCAD is that you can
+
+23
+00:00:53,000 --> 00:00:55,130
+zoom in and you can zoom out
+
+24
+00:00:55,333 --> 00:00:57,883
+and it can be two hundred miles
+
+25
+00:00:57,900 --> 00:00:59,939
+wide or it can be twenty centimetres
+
+26
+00:00:59,933 --> 00:01:02,873
+wide. The QCAD doesn’t really matter
+
+27
+00:01:02,866 --> 00:01:04,456
+it’s kind of 1:1 scale
+
+28
+00:01:04,466 --> 00:01:06,386
+and you work at whatever size
+
+29
+00:01:06,433 --> 00:01:07,723
+the thing is that you’re working on
+
+30
+00:01:08,566 --> 00:01:08,866
+Erm…
+
+31
+00:01:10,066 --> 00:01:12,016
+so for zooming in, zooming out, there’s
+
+32
+00:01:12,033 --> 00:01:14,013
+the mouse scroll. Sorry, that’s a really
+
+33
+00:01:14,000 --> 00:01:15,950
+really bad pun. That is a mouse
+
+34
+00:01:16,100 --> 00:01:17,840
+with a scroll, took ages to
+
+35
+00:01:17,833 --> 00:01:20,443
+find that one. Mouse scroll will zoom
+
+36
+00:01:20,466 --> 00:01:21,786
+you in and out so the mouse
+
+37
+00:01:21,766 --> 00:01:24,046
+scroll is that button there and that
+
+38
+00:01:24,266 --> 00:01:26,846
+will zoom you in and out in CAD. The plus
+
+39
+00:01:26,833 --> 00:01:28,423
+or minus keys on your keyboard
+
+40
+00:01:29,766 --> 00:01:31,746
+Snd then if you get lost, it’s
+
+41
+00:01:31,800 --> 00:01:35,849
+`View > Zoom > Auto Zoom` and that will
+
+42
+00:01:36,033 --> 00:01:37,323
+get you back to where
+
+43
+00:01:37,333 --> 00:01:38,953
+your drawing is. I’ll just show you what
+
+44
+00:01:38,966 --> 00:01:40,376
+I mean. So mouse scroll first of
+
+45
+00:01:40,366 --> 00:01:42,646
+all, so mouse scroll, zoom in and
+
+46
+00:01:42,666 --> 00:01:43,986
+you can zoom in, zoom in and
+
+47
+00:01:43,966 --> 00:01:46,276
+zoom in and zoom in and and
+
+48
+00:01:46,300 --> 00:01:48,579
+it’s just incredible how much you
+
+49
+00:01:48,566 --> 00:01:49,196
+can zoom in
+
+50
+00:01:49,200 --> 00:01:51,810
+until your screen is filled with
+
+51
+00:01:51,800 --> 00:01:54,260
+a line. Then you can zoom out
+
+52
+00:01:54,266 --> 00:01:55,766
+as well and you can zoom out
+
+53
+00:01:55,800 --> 00:01:57,846
+and the problem with this zooming
+
+54
+00:01:57,833 --> 00:01:59,393
+in, zooming out, plus minus keys
+
+55
+00:02:00,566 --> 00:02:04,436
+minus, plus… oopsie, the problem
+
+56
+00:02:04,433 --> 00:02:06,053
+is, it’s actually really really easy to
+
+57
+00:02:06,066 --> 00:02:08,166
+get lost and I’ve got no idea
+
+58
+00:02:08,366 --> 00:02:10,826
+where my circle’s gone. So if you
+
+59
+00:02:10,866 --> 00:02:15,126
+go to `View` menu and then `Zoom`
+
+60
+00:02:15,333 --> 00:02:19,173
+and zoom auto, `Auto Zoom` which has
+
+61
+00:02:19,266 --> 00:02:20,586
+`ZA` as the
+
+62
+00:02:20,733 --> 00:02:23,043
+keyboard shortcut. It’s kinda nice to use
+
+63
+00:02:23,033 --> 00:02:24,863
+keyboard shortcuts because it speeds things up
+
+64
+00:02:24,866 --> 00:02:26,996
+but don’t worry about it. So click
+
+65
+00:02:27,000 --> 00:02:30,210
+on `Auto Zoom`, wmf, it brings your
+
+66
+00:02:30,200 --> 00:02:32,390
+drawing into full view. So if you’re
+
+67
+00:02:32,400 --> 00:02:34,020
+zooming in and zooming out, you don’t
+
+68
+00:02:34,033 --> 00:02:37,243
+know where you are, click `View > Zoom >
+
+69
+00:02:37,533 --> 00:02:39,663
+Auto Zoom` and it brings you straight
+
+70
+00:02:39,666 --> 00:02:40,806
+back. I’ll just do it again, `View >
+
+71
+00:02:40,800 --> 00:02:43,829
+Zoom > Auto Zoom` it brings you
+
+72
+00:02:43,833 --> 00:02:48,303
+straight back. Okay? The next
+
+73
+00:02:48,300 --> 00:02:50,909
+thing is panning, so with panning
+
+74
+00:02:52,100 --> 00:02:53,869
+that means kind of scrubbing or
+
+75
+00:02:53,900 --> 00:02:56,330
+moving across the screen
+
+76
+00:02:56,666 --> 00:02:58,586
+So that’s a mouse scroll click, so
+
+77
+00:02:59,533 --> 00:03:01,303
+again the mouse scroll button and then click
+
+78
+00:03:01,333 --> 00:03:02,983
+it down and then you
+
+79
+00:03:02,966 --> 00:03:05,486
+can pan around the document
+
+80
+00:03:05,866 --> 00:03:09,676
+or `View > Zoom > Pan Zoom`, so holding
+
+81
+00:03:09,700 --> 00:03:11,050
+down the mouse scroll you know
+
+82
+00:03:11,033 --> 00:03:12,233
+you can
+
+83
+00:03:12,366 --> 00:03:15,846
+pan across like that or `View > Zoom >
+
+84
+00:03:16,066 --> 00:03:18,256
+Pan Zoom` and that enables you to
+
+85
+00:03:19,133 --> 00:03:20,573
+scroll down and get really really dizzy
+
+86
+00:03:20,800 --> 00:03:22,839
+So the next bit that I wanted
+
+87
+00:03:22,833 --> 00:03:25,323
+to show you was what what happens
+
+88
+00:03:25,400 --> 00:03:28,610
+if you kind of get lost at all
+
+89
+00:03:28,633 --> 00:03:31,603
+The thing to remember, is don’t
+
+90
+00:03:31,600 --> 00:03:32,139
+panic
+
+91
+00:03:32,433 --> 00:03:34,893
+So there’s two ways that I can
+
+92
+00:03:34,900 --> 00:03:36,699
+get lost. Firstly, as I said before
+
+93
+00:03:36,933 --> 00:03:40,953
+is zooming and zooming out, so
+
+94
+00:03:40,933 --> 00:03:43,753
+that’s `View > Zoom > Auto Zoom`, so if
+
+95
+00:03:43,766 --> 00:03:45,026
+I don’t know where I am and
+
+96
+00:03:45,100 --> 00:03:48,310
+I can’t see anything, `ZA`, bof!
+
+97
+00:03:48,366 --> 00:03:50,346
+Brings it straight back. The other thing
+
+98
+00:03:50,333 --> 00:03:52,493
+is, if I’ve started clicking on different
+
+99
+00:03:52,566 --> 00:03:54,396
+tools and I don’t know how to
+
+100
+00:03:54,400 --> 00:03:56,650
+get back to the pointer, just hit
+
+101
+00:03:56,633 --> 00:03:58,613
+the escape key and that returns you
+
+102
+00:03:58,933 --> 00:04:01,153
+to the arrow tool. So, just keep
+
+103
+00:04:01,166 --> 00:04:02,906
+hitting it and eventually you’ll get back
+
+104
+00:04:02,900 --> 00:04:04,310
+to the pointer tool and
+
+105
+00:04:04,333 --> 00:04:06,463
+then get back to square one, okay
+
+106
+00:04:06,433 --> 00:04:08,923
+So those two tools are really really useful
+
+107
+00:04:09,333 --> 00:04:10,746
+to get back to
+
+108
+00:04:10,733 --> 00:04:12,170
+your drawing and also to get back
+
+109
+00:04:12,166 --> 00:04:12,706
+to your arrow
+
+110
+00:04:12,766 --> 00:04:15,815
+Right, so next up is shapes
+
+111
+00:04:15,833 --> 00:04:18,773
+entities and mods. As I said, four
+
+112
+00:04:18,766 --> 00:04:21,646
+shapes, three entities and four mods. What
+
+113
+00:04:21,666 --> 00:04:23,136
+you want to do, press the `P`
+
+114
+00:04:23,133 --> 00:04:25,953
+key again, you want to download the files
+
+115
+00:04:25,966 --> 00:04:28,606
+from here. This is the CAD
+
+116
+00:04:28,633 --> 00:04:31,393
+gardener’s files and I’ll just show you
+
+117
+00:04:31,966 --> 00:04:32,806
+where you get them from
+
+118
+00:04:32,866 --> 00:04:34,816
+So this is where the files are
+
+119
+00:04:34,833 --> 00:04:37,713
+stored and the files are in a
+
+120
+00:04:37,700 --> 00:04:40,160
+folder called `cad-shapes-entities-mods`, probably
+
+121
+00:04:40,166 --> 00:04:41,606
+the easiest thing to do is download them
+
+122
+00:04:41,600 --> 00:04:43,130
+altogether, so if you click on the
+
+123
+00:04:43,166 --> 00:04:46,046
+`Code` button and then `Download zip`, unzip
+
+124
+00:04:46,033 --> 00:04:47,203
+it and then you’ve got the CAD
+
+125
+00:04:47,233 --> 00:04:48,613
+files that you can play around with
+
+126
+00:04:48,666 --> 00:04:49,986
+First thing then that we’re going to
+
+127
+00:04:49,966 --> 00:04:50,296
+do
+
+128
+00:04:51,433 --> 00:04:53,533
+is to look at creating the four
+
+129
+00:04:53,533 --> 00:04:56,113
+shapes. So you’ve got a rectangle, line
+
+130
+00:04:56,166 --> 00:04:58,716
+tool, circles for trees and NURBS for
+
+131
+00:04:58,700 --> 00:05:02,870
+curves. How terribly exciting. So rectangle is under
+
+132
+00:05:02,866 --> 00:05:04,966
+the `Shape Tools` in the
+
+133
+00:05:04,966 --> 00:05:07,426
+toolbar menu and the two rectangles that I
+
+134
+00:05:07,433 --> 00:05:09,563
+use all the time, there’s like one
+
+135
+00:05:09,566 --> 00:05:11,516
+which is just drawing a rectangle, so
+
+136
+00:05:11,600 --> 00:05:12,499
+yeah, I know that it
+
+137
+00:05:13,900 --> 00:05:14,949
+will be drawn like that
+
+138
+00:05:16,100 --> 00:05:18,169
+Hit escape key, back for the pointer and
+
+139
+00:05:18,166 --> 00:05:19,696
+it draws a rectangle
+
+140
+00:05:19,766 --> 00:05:20,816
+made out of lines
+
+141
+00:05:22,666 --> 00:05:24,616
+And the other one that I use
+
+142
+00:05:25,266 --> 00:05:28,206
+probably a lot more, is the rectangle
+
+143
+00:05:28,233 --> 00:05:30,033
+with size and this is actually really
+
+144
+00:05:30,033 --> 00:05:32,463
+useful. So say I’ve got a, oh I don’t
+
+145
+00:05:32,466 --> 00:05:35,436
+know, I’ve got a shed that’s
+
+146
+00:05:35,433 --> 00:05:37,833
+3 metres by 2 metres
+
+147
+00:05:39,766 --> 00:05:41,236
+I kind of just put the size
+
+148
+00:05:41,233 --> 00:05:42,553
+in, along the top here
+
+149
+00:05:43,700 --> 00:05:45,680
+and then there we go, it’s
+
+150
+00:05:45,733 --> 00:05:48,041
+a shed which is fantastic. So
+
+151
+00:05:48,033 --> 00:05:50,435
+that’s a rectangle tool. We use rectangles
+
+152
+00:05:50,433 --> 00:05:52,503
+mostly for structures in a garden, so
+
+153
+00:05:52,533 --> 00:05:55,053
+sheds, some polytunnels and steps and
+
+154
+00:05:55,033 --> 00:05:58,363
+stuff like that. The next tool is
+
+155
+00:05:58,400 --> 00:06:01,010
+the line tool. So hit `Escape` to go
+
+156
+00:06:01,033 --> 00:06:03,523
+back to the arrow tool
+
+157
+00:06:04,033 --> 00:06:06,073
+click on `Line Tools` and I only ever
+
+158
+00:06:06,066 --> 00:06:08,406
+use one line tool and that is
+
+159
+00:06:08,400 --> 00:06:10,290
+this one here, which is `Line from
+
+160
+00:06:10,300 --> 00:06:12,790
+2 Points`. And I just go… pom-ti-dom…
+
+161
+00:06:12,766 --> 00:06:15,766
+create a line like
+
+162
+00:06:15,766 --> 00:06:18,406
+that. And a line tools good for kind
+
+163
+00:06:18,433 --> 00:06:22,981
+of irregular non-rectilinear shapes and it’s also
+
+164
+00:06:23,000 --> 00:06:23,990
+really really good for
+
+165
+00:06:24,000 --> 00:06:25,050
+for creating
+
+166
+00:06:26,833 --> 00:06:29,263
+paths, for example, so you don’t have
+
+167
+00:06:29,266 --> 00:06:30,646
+to use NURBS, you don’t have to
+
+168
+00:06:30,666 --> 00:06:32,226
+create curvy paths, if you
+
+169
+00:06:32,266 --> 00:06:34,396
+want to just for quickness
+
+170
+00:06:34,400 --> 00:06:36,860
+you can create a basic path like
+
+171
+00:06:36,866 --> 00:06:39,776
+that, yeah, so that’s the kind of
+
+172
+00:06:39,766 --> 00:06:40,846
+thing that you can use it for
+
+173
+00:06:40,866 --> 00:06:42,876
+as well. And then creating boundaries. I’ll
+
+174
+00:06:42,866 --> 00:06:44,036
+be going through all these when I
+
+175
+00:06:44,033 --> 00:06:45,533
+do the examples as well, to give
+
+176
+00:06:45,533 --> 00:06:46,253
+you some real world
+
+177
+00:06:46,333 --> 00:06:49,693
+examples. The third shape is
+
+178
+00:06:49,700 --> 00:06:53,982
+a circle and again, the circle tool, and
+
+179
+00:06:54,000 --> 00:06:55,627
+I only ever create, it’s all
+
+180
+00:06:55,633 --> 00:06:57,613
+these different options, it’s mind blowing
+
+181
+00:06:57,600 --> 00:06:59,520
+how many different options there are and what
+
+182
+00:06:59,533 --> 00:07:01,513
+you can do with them and tangents
+
+183
+00:07:01,500 --> 00:07:02,906
+and all sorts of stuff, but I
+
+184
+00:07:02,900 --> 00:07:04,524
+only ever use one circle and that’s
+
+185
+00:07:04,533 --> 00:07:06,483
+circles for trees, so you click
+
+186
+00:07:06,466 --> 00:07:06,736
+there
+
+187
+00:07:08,333 --> 00:07:11,573
+we go, and that tool is called
+
+188
+00:07:11,733 --> 00:07:13,603
+let’s just make sure I’ve got the right name, `Center
+
+189
+00:07:13,633 --> 00:07:15,493
+Point`, so you draw a circle from the
+
+190
+00:07:15,500 --> 00:07:18,020
+point and there we go and you
+
+191
+00:07:18,033 --> 00:07:20,343
+can just draw circles for trees. And this
+
+192
+00:07:20,333 --> 00:07:22,373
+is where the `Property` widget comes in
+
+193
+00:07:22,400 --> 00:07:24,560
+really really handy because what you can
+
+194
+00:07:24,566 --> 00:07:27,656
+do, select the shape and then say
+
+195
+00:07:27,966 --> 00:07:28,086
+oh
+
+196
+00:07:28,066 --> 00:07:30,316
+I don’t know, there’s a Sweet Chestnut
+
+197
+00:07:30,366 --> 00:07:34,146
+is roughly 15 metres diameter, if you
+
+198
+00:07:34,133 --> 00:07:37,133
+look in the `Property Editor` under diameter
+
+199
+00:07:38,400 --> 00:07:39,810
+down here on the right hand side
+
+200
+00:07:40,200 --> 00:07:42,749
+and then type in 15, there you
+
+201
+00:07:42,733 --> 00:07:45,553
+go, that’s the diameter of a Sweet
+
+202
+00:07:45,566 --> 00:07:47,840
+Chestnut. And then I can say ‘Oh
+
+203
+00:07:47,866 --> 00:07:49,244
+right then, I want to create another
+
+204
+00:07:49,233 --> 00:07:51,363
+one’. And this is going to be
+
+205
+00:07:51,366 --> 00:07:53,736
+4 metres wide because that’s the diameter
+
+206
+00:07:54,233 --> 00:07:57,443
+Select, draw the circle, select it, diameter
+
+207
+00:07:57,566 --> 00:07:58,256
+4
+
+208
+00:07:58,900 --> 00:08:01,600
+And that’s the diameter of an apple
+
+209
+00:08:01,600 --> 00:08:03,519
+tree on an MM106
+
+210
+00:08:03,500 --> 00:08:06,890
+rootstock, for example. So now you’ve got
+
+211
+00:08:07,000 --> 00:08:08,770
+circles for trees, and then you can
+
+212
+00:08:08,766 --> 00:08:10,896
+work out, using the tree spacing, you
+
+213
+00:08:10,900 --> 00:08:14,439
+can calculate the distance actually it
+
+214
+00:08:14,433 --> 00:08:15,903
+should be between the trees. And
+
+215
+00:08:15,900 --> 00:08:18,479
+finally, NURBS. I wasn't going to show
+
+216
+00:08:18,466 --> 00:08:20,266
+show you NURBS but they’re so great
+
+217
+00:08:20,266 --> 00:08:21,556
+that’s such a brilliant name, it
+
+218
+00:08:21,566 --> 00:08:24,926
+stands for Non-Uniform Rational B-Splines
+
+219
+00:08:24,966 --> 00:08:26,976
+I think. Have a play and
+
+220
+00:08:26,966 --> 00:08:28,046
+if you like them and get on
+
+221
+00:08:28,033 --> 00:08:29,863
+with them, then use them. Again, I only
+
+222
+00:08:29,866 --> 00:08:31,636
+ever use one spline tool, this one
+
+223
+00:08:31,633 --> 00:08:33,973
+at the top, spline with control points
+
+224
+00:08:35,066 --> 00:08:40,376
+And you can click, click, click, double-
+
+225
+00:08:40,366 --> 00:08:43,246
+click to stop the drawing, escape
+
+226
+00:08:43,333 --> 00:08:44,773
+to get the arrow tool back and
+
+227
+00:08:44,766 --> 00:08:47,586
+then you’ve got a control point, which
+
+228
+00:08:47,566 --> 00:08:50,506
+is here, which is fantastic
+
+229
+00:08:52,633 --> 00:08:54,733
+There we go and then obviously
+
+230
+00:08:54,733 --> 00:08:57,375
+you can create a lot more complex shapes
+
+231
+00:08:57,400 --> 00:09:00,007
+so if you’re creating a path, it’s a
+
+232
+00:09:00,033 --> 00:09:03,513
+wibbly wobbly path, you can do
+
+233
+00:09:03,500 --> 00:09:06,500
+all sorts of great, great, great fun
+
+234
+00:09:06,500 --> 00:09:07,160
+stuff
+
+235
+00:09:08,533 --> 00:09:10,153
+This is a really good moment to
+
+236
+00:09:10,166 --> 00:09:11,876
+talk about the snap tool because this
+
+237
+00:09:11,866 --> 00:09:13,336
+makes your life an awful lot easier
+
+238
+00:09:13,566 --> 00:09:15,726
+So what it’s set to by default
+
+239
+00:09:15,733 --> 00:09:18,283
+when you create a shape, let’s go
+
+240
+00:09:18,333 --> 00:09:19,893
+back and get a line tool because it’ll
+
+241
+00:09:19,900 --> 00:09:23,140
+be probably easier, it’s snapping to the
+
+242
+00:09:23,133 --> 00:09:23,703
+grid
+
+243
+00:09:25,300 --> 00:09:27,249
+or it’s snapping on an intersection
+
+244
+00:09:29,500 --> 00:09:32,980
+and that’s the default behavior. So it
+
+245
+00:09:32,966 --> 00:09:34,856
+kind of guesses where you want
+
+246
+00:09:34,866 --> 00:09:36,996
+to snap to which is great but
+
+247
+00:09:37,000 --> 00:09:38,920
+sometimes you say ‘I want it just
+
+248
+00:09:38,900 --> 00:09:40,240
+over here’ and it’s not enough
+
+249
+00:09:40,266 --> 00:09:42,075
+you want to make a free play
+
+250
+00:09:42,133 --> 00:09:44,623
+sort of thing for your snapping and
+
+251
+00:09:44,600 --> 00:09:45,709
+the way to do that is to
+
+252
+00:09:45,733 --> 00:09:48,043
+use `Snap Free`. So if you go
+
+253
+00:09:48,033 --> 00:09:48,483
+to the `Snap`
+
+254
+00:09:48,466 --> 00:09:51,706
+menu and then go `Snap Free`
+
+255
+00:09:51,733 --> 00:09:54,853
+or `SF` is a shortcut, then
+
+256
+00:09:55,133 --> 00:09:56,543
+it’s not snapping to anything
+
+257
+00:09:56,566 --> 00:09:57,946
+at all. So it means it won’t
+
+258
+00:09:57,966 --> 00:09:59,406
+snap onto a line. So it depends
+
+259
+00:09:59,400 --> 00:10:00,390
+what you’re trying
+
+260
+00:10:00,400 --> 00:10:01,900
+to achieve. I don’t know, like if you’ve
+
+261
+00:10:01,900 --> 00:10:03,640
+got a curvy curvy path that
+
+262
+00:10:03,633 --> 00:10:05,343
+you want to make then you
+
+263
+00:10:05,333 --> 00:10:06,833
+don’t really want to have it snapping
+
+264
+00:10:06,833 --> 00:10:08,633
+directly to a grid or directly to another object
+
+265
+00:10:09,266 --> 00:10:10,586
+Sometimes you do want it to snap
+
+266
+00:10:10,600 --> 00:10:11,680
+so for example if I wanted to
+
+267
+00:10:11,666 --> 00:10:13,406
+close this shape, I want it to snap
+
+268
+00:10:13,433 --> 00:10:14,843
+on the corner but it’s not going
+
+269
+00:10:14,833 --> 00:10:16,663
+to, it’s just going to do it a
+
+270
+00:10:16,666 --> 00:10:19,126
+little bit away. So `Snap Free`
+
+271
+00:10:19,133 --> 00:10:20,993
+really very useful for freehand stuff
+
+272
+00:10:22,333 --> 00:10:23,293
+And then the other one that you
+
+273
+00:10:23,300 --> 00:10:23,629
+want
+
+274
+00:10:24,833 --> 00:10:27,713
+quite commonly is `Snap On Entity`, which
+
+275
+00:10:27,733 --> 00:10:30,253
+is `ST`, so get a line tool
+
+276
+00:10:30,266 --> 00:10:31,856
+and I say okay, I know that
+
+277
+00:10:31,866 --> 00:10:35,016
+I want to snap onto the rectangle
+
+278
+00:10:35,366 --> 00:10:37,316
+somewhere, see, it’s auto-snapping
+
+279
+00:10:37,333 --> 00:10:38,833
+here, you can see it’s auto-snapping
+
+280
+00:10:38,833 --> 00:10:40,723
+to the middle and auto-snapping to
+
+281
+00:10:40,733 --> 00:10:42,653
+the intersection but I want it to
+
+282
+00:10:42,633 --> 00:10:44,913
+snap on the actual entity
+
+283
+00:10:45,100 --> 00:10:46,989
+itself, like on this circle
+
+284
+00:10:47,000 --> 00:10:50,060
+for example. If I go `Snap On
+
+285
+00:10:50,066 --> 00:10:50,906
+Entity`
+
+286
+00:10:52,133 --> 00:10:53,843
+then it will glue itself to that
+
+287
+00:10:53,866 --> 00:10:56,656
+entity. And I want to
+
+288
+00:10:56,666 --> 00:10:59,724
+take it off, I can go `Snap Auto`
+
+289
+00:11:01,166 --> 00:11:03,836
+`Snap Auto` down here, and then it’s
+
+290
+00:11:03,833 --> 00:11:05,693
+going back to automatically snapping
+
+291
+00:11:05,733 --> 00:11:06,903
+to the grid or to the end
+
+292
+00:11:06,900 --> 00:11:09,539
+of something else. So that’s a
+
+293
+00:11:09,533 --> 00:11:11,244
+really really handy one. The final
+
+294
+00:11:11,266 --> 00:11:14,566
+snap is `Snap to End`, so this is
+
+295
+00:11:14,600 --> 00:11:16,009
+great if you’ve got a shape and
+
+296
+00:11:16,000 --> 00:11:17,260
+you say I want to
+
+297
+00:11:17,266 --> 00:11:18,496
+close this shape here
+
+298
+00:11:19,833 --> 00:11:21,483
+so it’s like a closed
+
+299
+00:11:21,500 --> 00:11:21,920
+shape
+
+300
+00:11:23,300 --> 00:11:24,619
+So what you do there, get the
+
+301
+00:11:24,600 --> 00:11:26,939
+line tool and
+
+302
+00:11:28,000 --> 00:11:29,856
+you can click, snap, and just to
+
+303
+00:11:29,866 --> 00:11:31,340
+make sure it snaps on end you
+
+304
+00:11:31,333 --> 00:11:34,898
+go `Snap on End`, bomf! It
+
+305
+00:11:34,900 --> 00:11:36,944
+won’t snap anywhere else and you’re guaranteed
+
+306
+00:11:36,933 --> 00:11:39,303
+that that shape is enclosed now. So
+
+307
+00:11:39,733 --> 00:11:44,893
+these snapping facilities are really really useful
+
+308
+00:11:44,933 --> 00:11:46,133
+it’s really handy to know
+
+309
+00:11:46,133 --> 00:11:48,113
+them. And it’s, yeah, just be aware
+
+310
+00:11:48,133 --> 00:11:49,361
+that you’ve got the snap menu
+
+311
+00:11:49,366 --> 00:11:51,378
+there and then you can use the
+
+312
+00:11:51,966 --> 00:11:54,216
+snapping tools as and when you see
+
+313
+00:11:54,233 --> 00:11:55,553
+fit. So when it comes up, you
+
+314
+00:11:55,533 --> 00:11:57,123
+go ‘Why won’t this
+
+315
+00:11:57,166 --> 00:11:58,906
+line go here?’ and you can figure out
+
+316
+00:11:58,900 --> 00:12:00,249
+whether it needs to be `Snap Auto`
+
+317
+00:12:00,233 --> 00:12:02,363
+or `Snap Free` or `Snap Entity` or
+
+318
+00:12:02,366 --> 00:12:03,656
+`Snap to the End`
+
+319
+00:12:05,033 --> 00:12:08,603
+Okay, let’s get onto the entities. We’ve
+
+320
+00:12:08,633 --> 00:12:12,443
+got three entities, that’s block, polyline and
+
+321
+00:12:12,466 --> 00:12:14,626
+text, and they're all pretty
+
+322
+00:12:14,633 --> 00:12:17,543
+cool in their own special ways. A
+
+323
+00:12:17,533 --> 00:12:20,773
+block is really really useful if you’re
+
+324
+00:12:21,000 --> 00:12:23,520
+creating a symbol. It can be re-used
+
+325
+00:12:23,566 --> 00:12:24,856
+over and over again. So for example
+
+326
+00:12:24,833 --> 00:12:26,653
+you have an orchard and it’s
+
+327
+00:12:26,666 --> 00:12:28,256
+got a lot of the same apple
+
+328
+00:12:28,266 --> 00:12:29,556
+trees in it. You can just make
+
+329
+00:12:29,566 --> 00:12:32,386
+one apple tree and then plant lots
+
+330
+00:12:32,366 --> 00:12:34,616
+of different instances around. When you edit
+
+331
+00:12:34,633 --> 00:12:36,823
+the one block, it changes all those
+
+332
+00:12:36,833 --> 00:12:40,313
+instances. But it’s also useful for creating
+
+333
+00:12:40,300 --> 00:12:42,069
+a shape and then applying any angle
+
+334
+00:12:42,533 --> 00:12:44,333
+So in this example I’ve created a
+
+335
+00:12:44,333 --> 00:12:44,933
+bench
+
+336
+00:12:45,133 --> 00:12:46,483
+and I’ve then created an angle
+
+337
+00:12:46,466 --> 00:12:47,396
+on it. I’ll show you how to
+
+338
+00:12:47,400 --> 00:12:48,959
+do that. So hit escape to go
+
+339
+00:12:48,966 --> 00:12:52,116
+back to the arrow tool, go click
+
+340
+00:12:52,133 --> 00:12:55,133
+onto the shape tools and I’ll
+
+341
+00:12:55,133 --> 00:12:58,313
+just create any old rectangle
+
+342
+00:13:00,000 --> 00:13:02,310
+And rather than, what you can
+
+343
+00:13:02,333 --> 00:13:04,163
+do, if you go into the shape
+
+344
+00:13:04,166 --> 00:13:06,832
+tools and then shape with
+
+345
+00:13:06,833 --> 00:13:09,173
+sizes, you can put an angle in
+
+346
+00:13:09,166 --> 00:13:12,196
+here but then it’s much harder once
+
+347
+00:13:12,200 --> 00:13:14,090
+you’ve created that angle. Once you’ve created
+
+348
+00:13:14,066 --> 00:13:16,106
+that shape, it’s much much harder to
+
+349
+00:13:16,133 --> 00:13:18,773
+edit it. So you’re better off creating
+
+350
+00:13:18,800 --> 00:13:19,542
+it so that it’s
+
+351
+00:13:19,566 --> 00:13:23,736
+square and *then* applying the angle afterwards
+
+352
+00:13:23,900 --> 00:13:25,820
+So I’ll just show you how to
+
+353
+00:13:25,800 --> 00:13:27,389
+create a block, so you select all
+
+354
+00:13:27,400 --> 00:13:27,790
+those
+
+355
+00:13:28,966 --> 00:13:31,576
+elements, go to the `Block` menu and
+
+356
+00:13:31,566 --> 00:13:36,006
+then `Create Block From Selection` and then
+
+357
+00:13:36,000 --> 00:13:37,140
+you say where you want to create
+
+358
+00:13:37,133 --> 00:13:38,813
+it from, sets the corner, and I’m
+
+359
+00:13:38,833 --> 00:13:41,083
+going to call it, I don’t know, shed
+
+360
+00:13:42,000 --> 00:13:44,190
+And down here in the `Block List`
+
+361
+00:13:44,200 --> 00:13:45,430
+on the right hand side you can see
+
+362
+00:13:45,433 --> 00:13:46,663
+shed comes up and then I can
+
+363
+00:13:46,666 --> 00:13:49,096
+have multiple sheds
+
+364
+00:13:49,400 --> 00:13:50,630
+and I can put sheds down all
+
+365
+00:13:50,633 --> 00:13:53,903
+over the place. Hooray. So now, for
+
+366
+00:13:53,900 --> 00:13:56,186
+example, I want to edit it, I’m
+
+367
+00:13:56,166 --> 00:13:57,990
+gonna say I want to
+
+368
+00:13:58,000 --> 00:14:00,730
+I don’t know, colour the lines
+
+369
+00:14:00,766 --> 00:14:02,776
+make the lines a different colour, I’ll
+
+370
+00:14:02,766 --> 00:14:04,236
+make them green
+
+371
+00:14:06,866 --> 00:14:08,486
+And then go out, and so now I’ve
+
+372
+00:14:08,500 --> 00:14:10,509
+got green sheds all over the place
+
+373
+00:14:11,066 --> 00:14:13,226
+But if I just want to rotate
+
+374
+00:14:13,233 --> 00:14:15,453
+one of my sheds, I can go
+
+375
+00:14:15,466 --> 00:14:17,986
+here and I’ll just give it an
+
+376
+00:14:17,966 --> 00:14:21,656
+angle in the `Properties`, it’s 45 degrees
+
+377
+00:14:21,933 --> 00:14:24,362
+type in 45 degrees and just
+
+378
+00:14:24,366 --> 00:14:25,567
+that instance has
+
+379
+00:14:25,566 --> 00:14:27,156
+changed so that’s really kind of, yeah
+
+380
+00:14:27,233 --> 00:14:29,243
+it’s really really handy and then you
+
+381
+00:14:29,233 --> 00:14:30,312
+can make sure that you get the
+
+382
+00:14:30,300 --> 00:14:32,819
+right angle and it’s much much easier
+
+383
+00:14:33,466 --> 00:14:35,236
+to control. Cool
+
+384
+00:14:37,133 --> 00:14:39,834
+The other entity that I want to
+
+385
+00:14:39,833 --> 00:14:42,683
+talk about was the polyline and these
+
+386
+00:14:42,666 --> 00:14:44,436
+are great. Best way to show you
+
+387
+00:14:44,433 --> 00:14:46,532
+this is with the line tool so
+
+388
+00:14:46,800 --> 00:14:47,850
+go for the line tool
+
+389
+00:14:49,200 --> 00:14:51,420
+and I’ll create kind of
+
+390
+00:14:51,500 --> 00:14:55,040
+linage thing, wibbly wobbly line, eeeh!
+
+391
+00:14:55,033 --> 00:14:56,863
+And that’s great and you go well that’s
+
+392
+00:14:56,866 --> 00:14:57,795
+fantastic
+
+393
+00:14:58,866 --> 00:15:00,517
+but the pain in the bum is
+
+394
+00:15:00,533 --> 00:15:01,973
+that I have to create a shift
+
+395
+00:15:01,966 --> 00:15:04,486
+click every single item before I want
+
+396
+00:15:04,466 --> 00:15:06,026
+to move it or have to select
+
+397
+00:15:06,033 --> 00:15:08,103
+them all by dragging it like that
+
+398
+00:15:08,400 --> 00:15:09,749
+and that can be a bit painful
+
+399
+00:15:10,066 --> 00:15:11,296
+So it’s much better
+
+400
+00:15:12,366 --> 00:15:13,746
+or you can double-click and it
+
+401
+00:15:13,733 --> 00:15:15,263
+will select the whole shape, but unless
+
+402
+00:15:15,266 --> 00:15:17,246
+the shape then is touching
+
+403
+00:15:17,266 --> 00:15:18,646
+something else it’ll select all that as
+
+404
+00:15:18,633 --> 00:15:21,663
+well, so much much better to create
+
+405
+00:15:21,700 --> 00:15:24,669
+a polyline of that line. So
+
+406
+00:15:24,766 --> 00:15:26,930
+create a polyline, dom-dom, double-click to
+
+407
+00:15:26,933 --> 00:15:28,913
+select all of them and you go
+
+408
+00:15:29,233 --> 00:15:31,723
+`Draw > Polyline >
+
+409
+00:15:32,566 --> 00:15:36,166
+Polyline From Selection` and I am constantly
+
+410
+00:15:36,166 --> 00:15:38,446
+amazed at the number of different options
+
+411
+00:15:38,433 --> 00:15:40,683
+that we’ve got but just concentrate, all
+
+412
+00:15:40,700 --> 00:15:42,830
+you have to do is concentrate on
+
+413
+00:15:42,833 --> 00:15:44,243
+the ones I’m giving you and
+
+414
+00:15:44,233 --> 00:15:45,643
+that to be honest these are all
+
+415
+00:15:45,633 --> 00:15:47,493
+the only ones I ever use myself
+
+416
+00:15:47,933 --> 00:15:52,643
+So `Polyline From Selection`, there we go
+
+417
+00:15:52,833 --> 00:15:55,413
+now, wow, look, it treats it as a
+
+418
+00:15:55,433 --> 00:15:56,453
+whole kind of group
+
+419
+00:15:57,800 --> 00:15:59,600
+And what it also does, if you
+
+420
+00:15:59,600 --> 00:16:01,310
+click on it, it will give you
+
+421
+00:16:01,333 --> 00:16:03,493
+an area, so try and work out
+
+422
+00:16:03,500 --> 00:16:04,790
+what that area is
+
+423
+00:16:07,233 --> 00:16:09,903
+Another handy tool, if you’ve got a
+
+424
+00:16:09,900 --> 00:16:12,749
+polyline, then you want to explode it. This
+
+425
+00:16:12,833 --> 00:16:15,023
+really ought to be in modifications but
+
+426
+00:16:15,000 --> 00:16:17,489
+there’s a bomb here, set off that
+
+427
+00:16:17,500 --> 00:16:21,970
+stick of dynamite, boff! it explodes it and
+
+428
+00:16:22,333 --> 00:16:23,563
+what I want to do now is
+
+429
+00:16:23,766 --> 00:16:25,296
+to close that line, so hit
+
+430
+00:16:25,300 --> 00:16:26,038
+escape key
+
+431
+00:16:26,066 --> 00:16:27,745
+to go back to the arrow tool
+
+432
+00:16:28,066 --> 00:16:29,356
+click on the line tool and I’m
+
+433
+00:16:29,333 --> 00:16:31,883
+going to close that shape and now
+
+434
+00:16:32,133 --> 00:16:35,193
+you can imagine, double-click, create a
+
+435
+00:16:35,200 --> 00:16:38,139
+polyline from that and you can say
+
+436
+00:16:38,133 --> 00:16:41,703
+yep, that is now a garden bed
+
+437
+00:16:41,900 --> 00:16:43,430
+and I know that by clicking on
+
+438
+00:16:43,433 --> 00:16:45,413
+it, this is about the garden bed
+
+439
+00:16:45,700 --> 00:16:46,030
+is
+
+440
+00:16:46,300 --> 00:16:49,479
+about 5 metres diameter [square!] and with a
+
+441
+00:16:49,466 --> 00:16:52,106
+planting density of 5 plants per square
+
+442
+00:16:52,133 --> 00:16:54,893
+metre, that’s 25 plants, thank you
+
+443
+00:16:54,866 --> 00:16:56,156
+very much. So this is where it
+
+444
+00:16:56,166 --> 00:16:58,926
+comes in really really useful using these
+
+445
+00:16:58,933 --> 00:17:02,503
+different tools. And then finally the last
+
+446
+00:17:03,166 --> 00:17:05,446
+entity that I wanted to discuss is
+
+447
+00:17:05,533 --> 00:17:06,343
+text tool
+
+448
+00:17:06,400 --> 00:17:07,990
+And it kinda does what it says
+
+449
+00:17:08,000 --> 00:17:09,829
+on the tin really, enables you to
+
+450
+00:17:09,833 --> 00:17:11,933
+put labels on things which is handy
+
+451
+00:17:11,933 --> 00:17:12,743
+if you want to know what the
+
+452
+00:17:12,733 --> 00:17:14,293
+trees are that you’re using
+
+453
+00:17:14,533 --> 00:17:17,053
+or what a particular structure is so
+
+454
+00:17:17,233 --> 00:17:17,833
+double-click
+
+455
+00:17:19,200 --> 00:17:21,060
+and then escape to go back to
+
+456
+00:17:21,066 --> 00:17:23,737
+the tool menu and arrow tool and
+
+457
+00:17:23,733 --> 00:17:25,142
+I’m going to click on the text
+
+458
+00:17:25,133 --> 00:17:27,833
+tool. Click on `Text` and it brings up
+
+459
+00:17:28,400 --> 00:17:30,650
+the whole lot here. For some reason
+
+460
+00:17:30,866 --> 00:17:32,426
+I always colour my text orange I
+
+461
+00:17:32,433 --> 00:17:33,723
+think it’s a middle
+
+462
+00:17:33,733 --> 00:17:35,323
+of the road colour and fits in
+
+463
+00:17:35,333 --> 00:17:38,603
+with everything else. I’m going to call this shed
+
+464
+00:17:39,033 --> 00:17:42,483
+I’m gonna make it orange and think
+
+465
+00:17:42,500 --> 00:17:46,460
+it needs to be a bit smaller, there we go and
+
+466
+00:17:46,433 --> 00:17:47,813
+you’ve got lots of options. If you
+
+467
+00:17:47,833 --> 00:17:49,393
+double-click on the text on
+
+468
+00:17:49,400 --> 00:17:50,720
+the text itself it brings up the
+
+469
+00:17:50,700 --> 00:17:52,740
+text dialog box and you’ve got lots
+
+470
+00:17:52,733 --> 00:17:54,922
+of options for whether it aligns in
+
+471
+00:17:54,933 --> 00:17:56,644
+the center or in the middle so that’s
+
+472
+00:17:56,633 --> 00:17:59,003
+all kind of handy too. There we go
+
+473
+00:17:59,266 --> 00:18:03,676
+so shed, pop that there, escape from
+
+474
+00:18:03,666 --> 00:18:05,556
+the block so I’m editing the block
+
+475
+00:18:05,566 --> 00:18:07,006
+at the moment in the `Block List`
+
+476
+00:18:07,733 --> 00:18:09,473
+click on that and then you can see
+
+477
+00:18:09,500 --> 00:18:11,779
+it’s got shed at an angle, there we
+
+478
+00:18:11,766 --> 00:18:15,006
+go. So those are your three entities
+
+479
+00:18:16,166 --> 00:18:17,846
+What I wanted to show you
+
+480
+00:18:17,833 --> 00:18:20,353
+next is very quickly is layers. Layers
+
+481
+00:18:20,400 --> 00:18:21,780
+is a really really good way of
+
+482
+00:18:21,800 --> 00:18:24,410
+organising different information. So you have
+
+483
+00:18:24,433 --> 00:18:26,533
+one layer for areas, one layer for
+
+484
+00:18:26,533 --> 00:18:29,053
+structures, another layer for plants or trees
+
+485
+00:18:29,400 --> 00:18:30,840
+you get the idea so you can
+
+486
+00:18:30,866 --> 00:18:33,008
+organize it by different layers and
+
+487
+00:18:33,000 --> 00:18:34,188
+then you can give different colors to
+
+488
+00:18:34,200 --> 00:18:35,760
+each layer as well, which again helps
+
+489
+00:18:35,833 --> 00:18:37,753
+with organising all the different elements
+
+490
+00:18:38,966 --> 00:18:41,696
+There is on my GitHub website, you
+
+491
+00:18:41,700 --> 00:18:43,559
+can download a template so you can
+
+492
+00:18:43,566 --> 00:18:45,306
+just click down here and download the
+
+493
+00:18:45,300 --> 00:18:48,930
+zip and then open up that file
+
+494
+00:18:49,533 --> 00:18:51,693
+and it will give
+
+495
+00:18:51,700 --> 00:18:53,800
+you this which is a list
+
+496
+00:18:53,800 --> 00:18:55,540
+of all the layers and it’s also
+
+497
+00:18:55,533 --> 00:18:57,603
+got a handy little legend which I’ve premade
+
+498
+00:18:57,600 --> 00:18:58,980
+here as well, as a block
+
+499
+00:18:59,933 --> 00:19:01,913
+And I’ll be using this when I’m
+
+500
+00:19:01,933 --> 00:19:05,233
+going through the different examples too
+
+501
+00:19:05,233 --> 00:19:10,573
+And then finally we’ve got the mods, four
+
+502
+00:19:10,600 --> 00:19:13,659
+different modifications to make. I’ll just go
+
+503
+00:19:13,633 --> 00:19:14,383
+through them with you
+
+504
+00:19:15,866 --> 00:19:17,816
+So here we go, mods you’ve got
+
+505
+00:19:17,833 --> 00:19:20,203
+four different types. Now this example is
+
+506
+00:19:20,200 --> 00:19:24,100
+actually taken from a real world example
+
+507
+00:19:24,433 --> 00:19:27,463
+of a gabion. Gabions are those wire
+
+508
+00:19:27,433 --> 00:19:29,263
+cages with stones in. And it’s a
+
+509
+00:19:29,333 --> 00:19:32,963
+gabion horseshoe shape that I’m creating for the
+
+510
+00:19:33,033 --> 00:19:35,433
+local primary school. It’s like a seating
+
+511
+00:19:35,433 --> 00:19:35,733
+area
+
+512
+00:19:35,800 --> 00:19:37,540
+but a kind of sheltered seating area
+
+513
+00:19:37,933 --> 00:19:40,033
+So I’ll just go through how
+
+514
+00:19:40,033 --> 00:19:41,113
+I’ve created it
+
+515
+00:19:45,266 --> 00:19:46,706
+On the center point
+
+516
+00:19:48,033 --> 00:19:50,703
+I create a circle as the first thing
+
+517
+00:19:51,333 --> 00:19:53,463
+and the modification tools are under this
+
+518
+00:19:53,466 --> 00:19:57,336
+menu over here. Ahhh, modification tools you’ve
+
+519
+00:19:57,333 --> 00:20:00,543
+already seen the the dynamite stick, so
+
+520
+00:20:00,533 --> 00:20:02,153
+select the element
+
+521
+00:20:02,233 --> 00:20:03,913
+that you want to modify
+
+522
+00:20:03,933 --> 00:20:06,483
+and I’m going to use offset
+
+523
+00:20:06,500 --> 00:20:07,909
+I think which is this one
+
+524
+00:20:07,933 --> 00:20:10,393
+here `Offset (with Distance)`
+
+525
+00:20:11,566 --> 00:20:13,636
+Okay it’s just 0.5 metres
+
+526
+00:20:13,633 --> 00:20:14,773
+that’s how wide it is, I might make
+
+527
+00:20:14,800 --> 00:20:17,285
+a little bit narrower
+
+528
+00:20:17,266 --> 00:20:19,126
+0.4, 0.3 metres
+
+529
+00:20:19,133 --> 00:20:19,493
+say
+
+530
+00:20:20,966 --> 00:20:22,886
+there we go, you get the idea
+
+531
+00:20:24,500 --> 00:20:27,259
+Yeah, 0.3 metres, 30 centimetres
+
+532
+00:20:29,200 --> 00:20:30,970
+and there we go that’s an offset
+
+533
+00:20:30,966 --> 00:20:32,946
+and you can offset it either way
+
+534
+00:20:33,600 --> 00:20:37,350
+Okay? Now I’ll take that shape and I
+
+535
+00:20:37,333 --> 00:20:40,123
+want to put two lines on to
+
+536
+00:20:40,166 --> 00:20:41,846
+cut into it, so I’m going to
+
+537
+00:20:41,866 --> 00:20:43,876
+draw one line on one side and a
+
+538
+00:20:43,900 --> 00:20:47,710
+mirror onto the other side and
+
+539
+00:20:47,700 --> 00:20:48,329
+let’s do that
+
+540
+00:20:48,733 --> 00:20:51,505
+Hit escape to go back, line tool, draw
+
+541
+00:20:51,500 --> 00:20:53,659
+from the centre, draw out here
+
+542
+00:20:55,100 --> 00:20:57,290
+Hit escape again, go back, select it with
+
+543
+00:20:57,300 --> 00:20:59,879
+the arrow tool, go to the modification
+
+544
+00:20:59,866 --> 00:21:04,216
+tools and up here is the mirror
+
+545
+00:21:04,500 --> 00:21:06,302
+and then click on mirror and say you
+
+546
+00:21:06,333 --> 00:21:10,211
+want to here, that line there. And
+
+547
+00:21:10,200 --> 00:21:11,939
+I want to keep the original and
+
+548
+00:21:11,933 --> 00:21:13,403
+I want to just flip it over. Bomf
+
+549
+00:21:15,733 --> 00:21:17,135
+There we go, so that’s the mirror tool
+
+550
+00:21:17,133 --> 00:21:18,243
+so that’s really good if you’ve got
+
+551
+00:21:18,233 --> 00:21:21,143
+any kind of symmetrical shapes that you
+
+552
+00:21:21,133 --> 00:21:23,053
+want to create and you can
+
+553
+00:21:23,066 --> 00:21:25,346
+mirror them. And now we go onto the
+
+554
+00:21:25,333 --> 00:21:28,033
+divide tool, this is always a great
+
+555
+00:21:28,033 --> 00:21:29,143
+deal of fun so you can see
+
+556
+00:21:29,166 --> 00:21:30,396
+what I’m trying to achieve here at
+
+557
+00:21:30,400 --> 00:21:33,880
+the end is to cut where
+
+558
+00:21:33,866 --> 00:21:35,036
+those lines intersect
+
+559
+00:21:35,033 --> 00:21:38,423
+So go back, hit escape key
+
+560
+00:21:38,833 --> 00:21:40,033
+to go back to the arrow tool
+
+561
+00:21:40,133 --> 00:21:42,893
+modification tools and then it’s the scissor
+
+562
+00:21:42,900 --> 00:21:44,850
+tool, which is great, nice
+
+563
+00:21:44,833 --> 00:21:48,973
+and easy and for the inner circle
+
+564
+00:21:49,033 --> 00:21:51,343
+click on the divide tool, the red pair of scissors
+
+565
+00:21:51,666 --> 00:21:55,206
+click on the inner circle, intersection
+
+566
+00:21:55,200 --> 00:21:57,479
+and intersection
+
+567
+00:21:58,833 --> 00:22:01,623
+select that segment, click delete, there you
+
+568
+00:22:01,633 --> 00:22:04,363
+go. And a really handy hint
+
+569
+00:22:04,400 --> 00:22:06,379
+if you are doing any drawing at all
+
+570
+00:22:06,900 --> 00:22:08,880
+with the line tool, rather than have
+
+571
+00:22:08,866 --> 00:22:11,446
+to redraw the line, using the snap
+
+572
+00:22:11,533 --> 00:22:13,963
+the automatic snap, you select the end
+
+573
+00:22:13,933 --> 00:22:15,643
+of the line and it will snap automatically
+
+574
+00:22:15,866 --> 00:22:18,605
+to the intersection with that circle. So
+
+575
+00:22:18,733 --> 00:22:21,343
+that’s very often the kind of quickest
+
+576
+00:22:21,366 --> 00:22:24,696
+way of creating the shape is to
+
+577
+00:22:24,700 --> 00:22:27,250
+use your existing lines and let the
+
+578
+00:22:27,233 --> 00:22:29,153
+snap do the work for you, like
+
+579
+00:22:29,166 --> 00:22:31,506
+that and there we go, we’ve got horseshoe
+
+580
+00:22:31,500 --> 00:22:34,139
+shape. I’ll turn that to make life
+
+581
+00:22:34,133 --> 00:22:36,353
+easier I’m going to turn this into a
+
+582
+00:22:36,400 --> 00:22:38,320
+block and I’ll
+
+583
+00:22:39,000 --> 00:22:41,580
+select all the items, all the elements
+
+584
+00:22:41,566 --> 00:22:45,496
+in there, `Block > Create Block From Selection`
+
+585
+00:22:46,366 --> 00:22:47,416
+click in the centre
+
+586
+00:22:48,800 --> 00:22:49,970
+and I’m going to call that, oh
+
+587
+00:22:49,966 --> 00:22:51,586
+I don’t know, horsehoe or something
+
+588
+00:22:52,933 --> 00:22:54,062
+And there we go, we’ve got a block
+
+589
+00:22:54,100 --> 00:22:56,601
+and just makes that easier, creating a
+
+590
+00:22:56,633 --> 00:22:58,313
+block makes it easy to rotate so that
+
+591
+00:22:58,333 --> 00:23:00,733
+you can fine tune it. So select
+
+592
+00:23:00,733 --> 00:23:03,763
+that, go to the `Property Editor` and
+
+593
+00:23:03,733 --> 00:23:05,293
+I want to give it an angle of
+
+594
+00:23:05,366 --> 00:23:07,856
+I don’t know, 45 degrees or
+
+595
+00:23:07,900 --> 00:23:09,760
+56 degrees why not 56
+
+596
+00:23:09,733 --> 00:23:11,773
+degrees and there we go it’s an
+
+597
+00:23:11,800 --> 00:23:12,970
+angle of 56 degrees
+
+598
+00:23:13,100 --> 00:23:14,989
+for the horseshoe shape. So there we
+
+599
+00:23:15,000 --> 00:23:17,280
+go that’s how we're using these four
+
+600
+00:23:17,266 --> 00:23:20,986
+different modifications to create a horseshoe shape
+
+601
+00:23:21,066 --> 00:23:23,099
+gabion wall seating area
+
+602
+00:23:23,100 --> 00:23:25,467
+And finally I just want to talk to you about
+
+603
+00:23:25,466 --> 00:23:28,346
+the blocks that we have our disposal
+
+604
+00:23:28,866 --> 00:23:30,966
+there’s three different types of blocks that
+
+605
+00:23:30,966 --> 00:23:33,126
+I’ve got, there’s forest garden plants
+
+606
+00:23:33,600 --> 00:23:36,060
+again you can download these zip files
+
+607
+00:23:36,400 --> 00:23:38,200
+native wild plants, this is only has
+
+608
+00:23:38,200 --> 00:23:39,370
+a couple of plants in at the moment
+
+609
+00:23:39,366 --> 00:23:40,626
+and this project I’m gonna be working
+
+610
+00:23:40,633 --> 00:23:42,283
+on, and then garden furniture which has
+
+611
+00:23:42,266 --> 00:23:44,276
+got some useful garden furniture in it
+
+612
+00:23:44,266 --> 00:23:46,006
+like benches and steps and stuff like
+
+613
+00:23:46,033 --> 00:23:48,253
+that and people. So I’ll just show
+
+614
+00:23:48,233 --> 00:23:50,633
+you forest garden plants first of all
+
+615
+00:23:53,366 --> 00:23:54,776
+So if I click on open
+
+616
+00:23:56,933 --> 00:23:59,693
+blocks, forest garden and then that’s divided
+
+617
+00:23:59,700 --> 00:24:01,740
+into five different sections and the forest
+
+618
+00:24:01,733 --> 00:24:05,963
+garden plants blocks, it’s incomplete but there’s
+
+619
+00:24:05,966 --> 00:24:07,976
+a spreadsheet that I have created, I’ll
+
+620
+00:24:07,966 --> 00:24:10,036
+just show you the page first of all
+
+621
+00:24:11,633 --> 00:24:13,613
+there’s a spreadsheet I’ve created forest garden
+
+622
+00:24:13,633 --> 00:24:18,433
+bit.ly/forest-garden-spreadsheet and
+
+623
+00:24:18,433 --> 00:24:19,753
+this has a list of all the
+
+624
+00:24:19,766 --> 00:24:22,466
+plants in this book and I’ve started
+
+625
+00:24:22,500 --> 00:24:24,810
+to put all the plants into a
+
+626
+00:24:24,833 --> 00:24:27,773
+block list so I was doing it anyway
+
+627
+00:24:27,766 --> 00:24:29,716
+for myself but you're more than welcome
+
+628
+00:24:29,733 --> 00:24:30,963
+to dip in and help them
+
+629
+00:24:30,966 --> 00:24:31,445
+out, help
+
+630
+00:24:31,566 --> 00:24:32,826
+yourself to any of the
+
+631
+00:24:32,833 --> 00:24:34,303
+trees which are in there so I
+
+632
+00:24:34,300 --> 00:24:37,360
+don’t know there’s a Crataegus
+
+633
+00:24:37,466 --> 00:24:41,278
+dilatata, whatever that is, click
+
+634
+00:24:41,266 --> 00:24:43,574
+it out here so to
+
+635
+00:24:43,600 --> 00:24:45,100
+get a block out I’ll just show you that
+
+636
+00:24:45,100 --> 00:24:47,911
+again, select it from the list
+
+637
+00:24:48,033 --> 00:24:49,803
+the block that you want and
+
+638
+00:24:49,800 --> 00:24:51,599
+then click on that icon here which
+
+639
+00:24:51,633 --> 00:24:54,513
+is `Insert Block` and it gives you it out
+
+640
+00:24:54,500 --> 00:24:58,310
+here. And there you go, Broadleaf Hawthorn, so
+
+641
+00:24:58,333 --> 00:25:01,123
+I’ll copy that, go back to my
+
+642
+00:25:01,100 --> 00:25:01,819
+mods
+
+643
+00:25:03,233 --> 00:25:05,363
+paste it in, there we have a
+
+644
+00:25:05,400 --> 00:25:08,484
+Broadleaf Hawthorn and there’s, you’ve
+
+645
+00:25:08,500 --> 00:25:09,766
+got quite a choice of quite a
+
+646
+00:25:09,733 --> 00:25:12,823
+few plants there. And
+
+647
+00:25:12,833 --> 00:25:17,693
+then finally for garden furniture, blocks, furniture
+
+648
+00:25:17,733 --> 00:25:20,433
+again you can download this. This has
+
+649
+00:25:20,433 --> 00:25:22,773
+got useful things like I don’t know
+
+650
+00:25:23,066 --> 00:25:26,546
+a deck chair so you can copy
+
+651
+00:25:26,566 --> 00:25:27,706
+and then just copy and paste it
+
+652
+00:25:27,733 --> 00:25:29,383
+in and then we’ve got a Broadleaf
+
+653
+00:25:29,433 --> 00:25:31,563
+Hawthorn and a deck chair, how
+
+654
+00:25:31,566 --> 00:25:32,136
+lovely is that?
+
+655
+00:25:33,666 --> 00:25:35,916
+Okay thank you very much for watching
+
+656
+00:25:35,900 --> 00:25:37,219
+see you in the next section which
+
+657
+00:25:37,233 --> 00:25:39,873
+is about real world examples, I’ll be doing
+
+658
+00:25:39,866 --> 00:25:42,386
+a walk through applying all these techniques
+
+659
+00:25:42,400 --> 00:25:45,340
+and using these blocks in creating two
+
+660
+00:25:45,333 --> 00:25:46,667
+different types of garden, thanks
+
